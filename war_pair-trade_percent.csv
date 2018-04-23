@@ -1,0 +1,875 @@
+WarName,Year,Ccode1,Player1,Ccode2,Player2,Initiator,TradePercent
+Franco-Spanish War,1823,230,Spain,220,France,0,
+Franco-Spanish War,1823,220,France,230,Spain,1,
+First Russo-Turkish,1828,640,Ottoman Empire,365,Russia,0,
+First Russo-Turkish,1828,365,Russia,640,Ottoman Empire,1,
+Mexican-American,1846,70,Mexico,2,United States of America,0,
+Mexican-American,1846,2,United States of America,70,Mexico,1,
+Austro-Sardinian,1848,337,Tuscany,300,Austria,0,
+Austro-Sardinian,1848,325,Italy,300,Austria,1,
+Austro-Sardinian,1848,300,Austria,337,Tuscany,0,
+Austro-Sardinian,1848,300,Austria,325,Italy,0,
+Austro-Sardinian,1848,300,Austria,332,Modena,0,
+Austro-Sardinian,1848,332,Modena,300,Austria,0,
+First Schleswig-Holstein,1848,255,Prussia,390,Denmark,1,
+First Schleswig-Holstein,1848,390,Denmark,255,Prussia,0,
+Roman Republic,1849,220,France,327,Papal States,1,
+Roman Republic,1849,329,Two Sicilies,327,Papal States,0,
+Roman Republic,1849,300,Austria,327,Papal States,0,
+Roman Republic,1849,327,Papal States,220,France,0,
+Roman Republic,1849,327,Papal States,329,Two Sicilies,0,
+Roman Republic,1849,327,Papal States,300,Austria,0,
+La Plata,1851,160,Argentina,140,Brazil,0,
+La Plata,1851,140,Brazil,160,Argentina,1,
+Crimean,1853,640,Turkey,365,Russia,1,
+Crimean,1855,325,Italy,365,Russia,0,
+Crimean,1854,220,France,365,Russia,0,
+Crimean,1854,200,United Kingdom,365,Russia,0,
+Crimean,1853,365,Russia,640,Turkey,0,
+Crimean,1853,365,Russia,325,Italy,0,
+Crimean,1853,365,Russia,220,France,0,
+Crimean,1853,365,Russia,200,United Kingdom,0,
+Anglo-Persian,1856,200,United Kingdom,630,Iran,1,
+Anglo-Persian,1856,630,Iran,200,United Kingdom,0,
+Italian Unification,1859,325,Sardinia/Piedmont,300,Austria,0,
+Italian Unification,1859,300,Austria,325,Sardinia/Piedmont,1,
+Italian Unification,1859,300,Austria,220,France,1,
+Italian Unification,1859,220,France,300,Austria,0,
+First Spanish-Moroccan,1859,600,Morocco,230,Spain,0,
+First Spanish-Moroccan,1859,230,Spain,600,Morocco,1,
+Italian-Roman,1860,325,Sardinia/Piedmont,327,Papal States,1,
+Italian-Roman,1860,327,Papal States,325,Sardinia/Piedmont,0,
+Neapolitan,1860,329,Two Sicilies,325,Sardinia/Piedmont,0,
+Neapolitan,1860,325,Sardinia/Piedmont,329,Two Sicilies,1,
+Franco-Mexican,1862,70,Mexico,220,France,0,
+Franco-Mexican,1862,220,France,70,Mexico,1,
+Ecuadorian-Colombian,1863,100,Colombia,130,Ecuador,1,
+Ecuadorian-Colombian,1863,130,Ecuador,100,Colombia,0,
+Second Schleswig-Holstein,1864,255,Germany,390,Denmark,1,
+Second Schleswig-Holstein,1864,390,Denmark,255,Germany,0,
+Second Schleswig-Holstein,1864,390,Denmark,300,Austria,0,
+Second Schleswig-Holstein,1864,300,Austria,390,Denmark,0,
+Lopez,1865,160,Argentina,150,Paraguay,0,
+Lopez,1864,150,Paraguay,160,Argentina,1,
+Lopez,1864,150,Paraguay,140,Brazil,1,
+Lopez,1864,140,Brazil,150,Paraguay,0,
+Naval War,1865,155,Chile,230,Spain,0,
+Naval War,1866,135,Peru,230,Spain,0,
+Naval War,1865,230,Spain,155,Chile,1,
+Naval War,1865,230,Spain,135,Peru,1,
+Seven Weeks,1866,325,Italy,275,Hesse Grand Ducal,0,
+Seven Weeks,1866,325,Italy,271,Wuerttemburg,0,
+Seven Weeks,1866,325,Italy,245,Bavaria,0,
+Seven Weeks,1866,325,Italy,300,Austria,0,
+Seven Weeks,1866,325,Italy,273,Hesse Electoral,0,
+Seven Weeks,1866,325,Italy,269,Saxony,0,
+Seven Weeks,1866,325,Italy,267,Baden,0,
+Seven Weeks,1866,325,Italy,240,Hanover,0,
+Seven Weeks,1866,275,Hesse Grand Ducal,325,Italy,0,
+Seven Weeks,1866,275,Hesse Grand Ducal,255,Germany,0,
+Seven Weeks,1866,275,Hesse Grand Ducal,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,271,Wuerttemburg,325,Italy,0,
+Seven Weeks,1866,271,Wuerttemburg,255,Germany,0,
+Seven Weeks,1866,271,Wuerttemburg,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,245,Bavaria,325,Italy,0,
+Seven Weeks,1866,245,Bavaria,255,Germany,0,
+Seven Weeks,1866,245,Bavaria,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,300,Austria,325,Italy,0,
+Seven Weeks,1866,300,Austria,255,Germany,0,
+Seven Weeks,1866,300,Austria,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,255,Germany,275,Hesse Grand Ducal,1,
+Seven Weeks,1866,255,Germany,271,Wuerttemburg,1,
+Seven Weeks,1866,255,Germany,245,Bavaria,1,
+Seven Weeks,1866,255,Germany,300,Austria,1,
+Seven Weeks,1866,255,Germany,273,Hesse Electoral,1,
+Seven Weeks,1866,255,Germany,269,Saxony,1,
+Seven Weeks,1866,255,Germany,267,Baden,1,
+Seven Weeks,1866,255,Germany,240,Hanover,1,
+Seven Weeks,1866,280,Mecklenburg Schwerin,275,Hesse Grand Ducal,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,271,Wuerttemburg,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,245,Bavaria,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,300,Austria,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,273,Hesse Electoral,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,269,Saxony,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,267,Baden,0,
+Seven Weeks,1866,280,Mecklenburg Schwerin,240,Hanover,0,
+Seven Weeks,1866,273,Hesse Electoral,325,Italy,0,
+Seven Weeks,1866,273,Hesse Electoral,255,Germany,0,
+Seven Weeks,1866,273,Hesse Electoral,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,269,Saxony,325,Italy,0,
+Seven Weeks,1866,269,Saxony,255,Germany,0,
+Seven Weeks,1866,269,Saxony,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,267,Baden,325,Italy,0,
+Seven Weeks,1866,267,Baden,255,Germany,0,
+Seven Weeks,1866,267,Baden,280,Mecklenburg Schwerin,0,
+Seven Weeks,1866,240,Hanover,325,Italy,0,
+Seven Weeks,1866,240,Hanover,255,Germany,0,
+Seven Weeks,1866,240,Hanover,280,Mecklenburg Schwerin,0,
+Franco-Prussian,1870,271,Wuerttemburg,220,France,0,
+Franco-Prussian,1870,267,Baden,220,France,0,
+Franco-Prussian,1870,255,Germany,220,France,0,0.041936588
+Franco-Prussian,1870,245,Bavaria,220,France,0,
+Franco-Prussian,1870,220,France,271,Wuerttemburg,1,
+Franco-Prussian,1870,220,France,267,Baden,1,
+Franco-Prussian,1870,220,France,255,Germany,1,0.036508872
+Franco-Prussian,1870,220,France,245,Bavaria,1,
+First Central American,1876,90,Guatemala,92,El Salvador,1,
+First Central American,1876,92,El Salvador,90,Guatemala,0,
+Second Russo-Turkish,1877,640,Turkey,365,Russia,0,0.040631579
+Second Russo-Turkish,1877,365,Russia,640,Turkey,1,0.009552406
+War of the Pacific,1879,155,Chile,135,Peru,1,
+War of the Pacific,1879,155,Chile,145,Bolivia,1,
+War of the Pacific,1879,135,Peru,155,Chile,0,
+War of the Pacific,1879,145,Bolivia,155,Chile,0,
+Conquest of Egypt,1882,651,Egypt,200,United Kingdom,0,
+Conquest of Egypt,1882,200,United Kingdom,651,Egypt,1,
+Sino-French,1884,220,France,710,China,1,0.012008809
+Sino-French,1884,710,China,220,France,0,0.092630696
+Second Central American,1885,92,El Salvador,90,Guatemala,0,
+Second Central American,1885,90,Guatemala,92,El Salvador,1,
+First Sino-Japanese,1894,710,China,740,Japan,0,0.12361035
+First Sino-Japanese,1894,740,Japan,710,China,1,0.185829066
+Greco-Turkish,1897,350,Greece,640,Turkey,1,0.083675761
+Greco-Turkish,1897,640,Turkey,350,Greece,0,0.018410527
+Spanish-American,1898,230,Spain,2,United States of America,0,0.115108056
+Spanish-American,1898,2,United States of America,230,Spain,1,0.011226073
+Boxer Rebellion,1900,365,Russia,710,China,1,0.016084449
+Boxer Rebellion,1900,740,Japan,710,China,1,0.132947036
+Boxer Rebellion,1900,2,United States of America,710,China,1,0.012515162
+Boxer Rebellion,1900,710,China,365,Russia,0,0.045016752
+Boxer Rebellion,1900,710,China,740,Japan,0,0.121650268
+Boxer Rebellion,1900,710,China,2,United States of America,0,0.103505937
+Boxer Rebellion,1900,710,China,200,United Kingdom,0,0.138454592
+Boxer Rebellion,1900,710,China,220,France,0,0.064070796
+Boxer Rebellion,1900,200,United Kingdom,710,China,1,0.012513912
+Boxer Rebellion,1900,220,France,710,China,1,0.009146496
+Sino-Russian,1900,365,Russia,710,China,1,0.016084449
+Sino-Russian,1900,710,China,365,Russia,0,0.045016752
+Russo-Japanese,1904,740,Japan,365,Russia,1,0.002826864
+Russo-Japanese,1904,365,Russia,740,Japan,0,0.00120688
+Third Central American,1906,91,Honduras,90,Guatemala,0,
+Third Central American,1906,92,El Salvador,90,Guatemala,0,
+Third Central American,1906,90,Guatemala,91,Honduras,1,
+Third Central American,1906,90,Guatemala,92,El Salvador,1,
+Fourth Central American,1907,93,Nicaragua,92,El Salvador,1,
+Fourth Central American,1907,93,Nicaragua,91,Honduras,1,
+Fourth Central American,1907,92,El Salvador,93,Nicaragua,0,
+Fourth Central American,1907,91,Honduras,93,Nicaragua,0,
+Second Spanish-Moroccan,1909,230,Spain,600,Morocco,1,0.007613383
+Second Spanish-Moroccan,1909,600,Morocco,230,Spain,0,0.133069301
+Italian-Turkish,1911,325,Italy,640,Turkey,1,0.030452835
+Italian-Turkish,1911,640,Turkey,325,Italy,0,0.096656963
+First Balkan,1912,640,Turkey,350,Greece,0,0.008526707
+First Balkan,1912,640,Turkey,355,Bulgaria,0,0.01833242
+First Balkan,1912,640,Turkey,345,Yugoslavia,0,0.008784318
+First Balkan,1912,350,Greece,640,Turkey,0,0.047157895
+First Balkan,1912,355,Bulgaria,640,Turkey,0,0.082713823
+First Balkan,1912,345,Yugoslavia,640,Turkey,1,0.065893964
+Second Balkan,1913,640,Turkey,355,Bulgaria,0,0.00680625
+Second Balkan,1913,345,Yugoslavia,355,Bulgaria,0,0.011856842
+Second Balkan,1913,350,Greece,355,Bulgaria,0,0.015660383
+Second Balkan,1913,355,Bulgaria,640,Turkey,1,0.027822797
+Second Balkan,1913,355,Bulgaria,345,Yugoslavia,1,0.006045529
+Second Balkan,1913,355,Bulgaria,350,Greece,1,0.012787245
+Second Balkan,1913,355,Bulgaria,360,Romania,1,0.027260718
+Second Balkan,1913,360,Romania,355,Bulgaria,0,0.007865193
+World War I,1914,345,Yugoslavia,355,Bulgaria,0,0.011856842
+World War I,1914,345,Yugoslavia,640,Turkey,0,0.065893964
+World War I,1914,345,Yugoslavia,255,Germany,0,0.257616853
+World War I,1914,345,Yugoslavia,300,Austria-Hungary,0,0.441397868
+World War I,1914,365,Russia,355,Bulgaria,0,0.004103114
+World War I,1914,365,Russia,640,Turkey,0,0.011726011
+World War I,1914,365,Russia,255,Germany,0,0.454625028
+World War I,1914,365,Russia,300,Austria-Hungary,0,0.034893426
+World War I,1915,355,Bulgaria,345,Yugoslavia,0,0.006045529
+World War I,1915,355,Bulgaria,365,Russia,0,0.085014096
+World War I,1915,355,Bulgaria,200,United Kingdom,0,0.065622456
+World War I,1915,355,Bulgaria,740,Japan,0,
+World War I,1915,355,Bulgaria,235,Portugal,0,
+World War I,1915,355,Bulgaria,211,Belgium,0,0.129017068
+World War I,1915,355,Bulgaria,350,Greece,0,0.012787245
+World War I,1915,355,Bulgaria,360,Romania,0,0.027260718
+World War I,1915,355,Bulgaria,220,France,0,0.047354963
+World War I,1915,355,Bulgaria,325,Italy,0,0.027822797
+World War I,1915,355,Bulgaria,2,United States of America,0,0.005761286
+World War I,1914,200,United Kingdom,355,Bulgaria,0,0.00078857
+World War I,1914,200,United Kingdom,640,Turkey,0,0.010275053
+World War I,1914,200,United Kingdom,255,Germany,0,0.098496987
+World War I,1914,200,United Kingdom,300,Austria-Hungary,0,0.009780297
+World War I,1914,740,Japan,355,Bulgaria,0,
+World War I,1914,740,Japan,640,Turkey,0,2.48E-05
+World War I,1914,740,Japan,255,Germany,0,0.099947208
+World War I,1914,740,Japan,300,Austria-Hungary,0,0.003473502
+World War I,1916,235,Portugal,355,Bulgaria,0,
+World War I,1916,235,Portugal,640,Turkey,0,0.003012916
+World War I,1916,235,Portugal,255,Germany,0,0.149390411
+World War I,1916,235,Portugal,300,Austria-Hungary,0,0.014305294
+World War I,1914,640,Turkey,345,Yugoslavia,0,0.008784318
+World War I,1914,640,Turkey,365,Russia,0,#DIV/0!
+World War I,1914,640,Turkey,200,United Kingdom,0,0.20917187
+World War I,1914,640,Turkey,740,Japan,0,4.68E-05
+World War I,1914,640,Turkey,235,Portugal,0,0.0012375
+World War I,1914,640,Turkey,211,Belgium,0,0.047575
+World War I,1914,640,Turkey,350,Greece,0,0.0033
+World War I,1914,640,Turkey,360,Romania,0,0.0345125
+World War I,1914,640,Turkey,220,France,0,0.117356248
+World War I,1914,640,Turkey,325,Italy,0,0.099481248
+World War I,1914,640,Turkey,2,United States of America,0,0.0374
+World War I,1914,211,Belgium,355,Bulgaria,0,0.005480134
+World War I,1914,211,Belgium,640,Turkey,0,0.009313695
+World War I,1914,211,Belgium,255,Germany,0,0.167262931
+World War I,1914,211,Belgium,300,Austria-Hungary,0,0.006386342
+World War I,1914,255,Germany,345,Yugoslavia,0,0.002044295
+World War I,1914,255,Germany,365,Russia,0,0.134805693
+World War I,1914,255,Germany,200,United Kingdom,0,0.117303924
+World War I,1914,255,Germany,740,Japan,0,0.013618525
+World War I,1914,255,Germany,235,Portugal,0,0.003589644
+World War I,1914,255,Germany,211,Belgium,0,0.049983526
+World War I,1914,255,Germany,350,Greece,0,0.000999469
+World War I,1914,255,Germany,360,Romania,0,0.011255594
+World War I,1914,255,Germany,220,France,0,0.069321352
+World War I,1914,255,Germany,325,Italy,0,0.038577106
+World War I,1914,255,Germany,2,United States of America,0,0.118695535
+World War I,1917,350,Greece,355,Bulgaria,0,0.015660383
+World War I,1917,350,Greece,640,Turkey,0,0.016520842
+World War I,1917,350,Greece,255,Germany,0,0.085529777
+World War I,1917,350,Greece,300,Austria-Hungary,0,0.140771353
+World War I,1916,360,Romania,355,Bulgaria,0,0.007865193
+World War I,1916,360,Romania,640,Turkey,0,0.040704404
+World War I,1916,360,Romania,255,Germany,0,0.226914894
+World War I,1916,360,Romania,300,Austria-Hungary,0,0.183007645
+World War I,1914,300,Austria-Hungary,345,Yugoslavia,1,0.012914449
+World War I,1914,300,Austria-Hungary,365,Russia,1,0.041479845
+World War I,1914,300,Austria-Hungary,200,United Kingdom,1,0.046696064
+World War I,1914,300,Austria-Hungary,740,Japan,1,0.001773963
+World War I,1914,300,Austria-Hungary,235,Portugal,1,0.001378047
+World War I,1914,300,Austria-Hungary,211,Belgium,1,0.007650995
+World War I,1914,300,Austria-Hungary,350,Greece,1,0.006594852
+World War I,1914,300,Austria-Hungary,360,Romania,1,0.036392617
+World War I,1914,300,Austria-Hungary,220,France,1,0.025766682
+World War I,1914,300,Austria-Hungary,325,Italy,1,0.074454109
+World War I,1914,300,Austria-Hungary,2,United States of America,1,0.03331287
+World War I,1914,220,France,355,Bulgaria,0,0.001141835
+World War I,1914,220,France,640,Turkey,0,0.011567435
+World War I,1914,220,France,255,Germany,0,0.116795865
+World War I,1914,220,France,300,Austria-Hungary,0,0.0108288
+World War I,1915,325,Italy,355,Bulgaria,0,0.001665433
+World War I,1915,325,Italy,640,Turkey,0,0.024342238
+World War I,1915,325,Italy,255,Germany,0,0.16135355
+World War I,1915,325,Italy,300,Austria-Hungary,0,0.07767816
+World War I,1917,2,United States of America,355,Bulgaria,0,9.59E-05
+World War I,1917,2,United States of America,640,Turkey,0,0.002544077
+World War I,1917,2,United States of America,255,Germany,0,0.138013839
+World War I,1917,2,United States of America,300,Austria-Hungary,0,0.009661881
+Estonian Liberation,1918,366,Estonia,365,Russia,0,
+Estonian Liberation,1918,375,Finland,365,Russia,0,
+Estonian Liberation,1918,365,Russia,366,Estonia,1,
+Estonian Liberation,1918,365,Russia,375,Finland,1,
+Latvian Liberation,1918,255,Germany,365,Russia,0,0.134805693
+Latvian Liberation,1918,365,Russia,255,Germany,1,0.454625028
+Latvian Liberation,1918,365,Russia,366,Estonia,1,
+Latvian Liberation,1918,365,Russia,367,Latvia,1,
+Latvian Liberation,1919,255,Germany,366,Estonia,0,
+Latvian Liberation,1919,255,Germany,367,Latvia,0,
+Latvian Liberation,1919,366,Estonia,365,Russia,0,
+Latvian Liberation,1919,366,Estonia,255,Germany,0,
+Latvian Liberation,1918,367,Latvia,365,Russia,0,
+Latvian Liberation,1918,367,Latvia,255,Germany,0,
+Russo-Polish,1919,365,Russia,290,Poland,1,
+Russo-Polish,1919,290,Poland,365,Russia,0,
+Hungarian Adversaries,1919,310,Hungary,315,Czechoslovakia,0,
+Hungarian Adversaries,1919,310,Hungary,360,Romania,0,
+Hungarian Adversaries,1919,315,Czechoslovakia,310,Hungary,0,
+Hungarian Adversaries,1919,360,Romania,310,Hungary,1,
+Second Greco-Turkish,1919,640,Turkey,350,Greece,0,0.755365878
+Second Greco-Turkish,1919,350,Greece,640,Turkey,1,0.069093179
+Franco-Turkish,1919,640,Turkey,220,France,0,0.40951222
+Franco-Turkish,1919,220,France,640,Turkey,1,0.00257384
+Lithuanian-Polish,1920,368,Lithuania,290,Poland,0,
+Lithuanian-Polish,1920,290,Poland,368,Lithuania,1,
+Manchurian,1929,365,USSR,710,China,1,0.027126366
+Manchurian,1929,710,China,365,USSR,0,0.017190249
+Second Sino-Japanese,1931,740,Japan,710,China,1,0.107660612
+Second Sino-Japanese,1931,710,China,740,Japan,0,0.208724578
+Chaco,1932,145,Bolivia,150,Paraguay,1,
+Chaco,1932,150,Paraguay,145,Bolivia,0,
+Saudi-Yemeni,1934,670,Saudi Arabia,678,Yemen Arab Republic,1,
+Saudi-Yemeni,1934,678,Yemen Arab Republic,670,Saudi Arabia,0,
+Conquest of Ethiopia,1935,325,Italy,530,Ethiopia,1,0
+Conquest of Ethiopia,1935,530,Ethiopia,325,Italy,0,#DIV/0!
+Third Sino-Japanese,1937,710,China,740,Japan,0,0.163371178
+Third Sino-Japanese,1937,740,Japan,710,China,1,0.03364966
+Changkufeng,1938,365,USSR,740,Japan,0,0.005613818
+Changkufeng,1938,740,Japan,365,USSR,1,0.001904177
+Nomonhan,1939,365,USSR,740,Japan,0,0
+Nomonhan,1939,712,Mongolia,740,Japan,0,
+Nomonhan,1939,740,Japan,365,USSR,1,0
+Nomonhan,1939,740,Japan,712,Mongolia,1,
+World War II,1941,310,Hungary,211,Belgium,0,0.007220217
+World War II,1941,310,Hungary,345,Yugoslavia,0,0
+World War II,1941,310,Hungary,385,Norway,0,0.001979668
+World War II,1941,310,Hungary,20,Canada,0,0.000790578
+World War II,1941,310,Hungary,2,United States of America,0,0.039711191
+World War II,1941,310,Hungary,200,United Kingdom,0,0.068592058
+World War II,1941,310,Hungary,210,Netherlands,0,0
+World War II,1941,310,Hungary,360,Romania,0,0.061371841
+World War II,1941,310,Hungary,355,Bulgaria,0,0.010830325
+World War II,1941,310,Hungary,350,Greece,0,0
+World War II,1941,310,Hungary,140,Brazil,0,
+World War II,1941,310,Hungary,325,Italy,0,0.064981949
+World War II,1941,310,Hungary,900,Australia,0,0.00060084
+World War II,1941,310,Hungary,920,New Zealand,0,
+World War II,1941,310,Hungary,365,USSR,0,0.001698579
+World War II,1941,310,Hungary,290,Poland,0,0.012599278
+World War II,1941,310,Hungary,220,France,0,0.170877097
+World War II,1941,310,Hungary,712,Mongolia,0,
+World War II,1941,310,Hungary,710,China,0,0.001992258
+World War II,1941,310,Hungary,560,South Africa,0,0.004296029
+World War II,1941,310,Hungary,530,Ethiopia,0,0
+World War II,1940,211,Belgium,310,Hungary,0,0.001343183
+World War II,1940,211,Belgium,220,France,0,0.135661518
+World War II,1940,211,Belgium,375,Finland,0,0.01208865
+World War II,1940,211,Belgium,325,Italy,0,0.010745467
+World War II,1940,211,Belgium,360,Romania,0,0.007387508
+World War II,1940,211,Belgium,355,Bulgaria,0,0.001343183
+World War II,1940,211,Belgium,255,Germany,0,0.112155809
+World War II,1940,211,Belgium,740,Japan,0,0.004701142
+World War II,1940,220,France,211,Belgium,0,0.091559449
+World War II,1940,220,France,345,Yugoslavia,0,0.004658928
+World War II,1940,220,France,385,Norway,0,0.00490122
+World War II,1940,220,France,20,Canada,0,0.011048513
+World War II,1940,220,France,2,United States of America,0,0.147645797
+World War II,1940,220,France,200,United Kingdom,0,0.091648664
+World War II,1940,220,France,210,Netherlands,0,0.005870388
+World War II,1940,220,France,360,Romania,0,0.003904362
+World War II,1940,220,France,355,Bulgaria,0,0.007002238
+World War II,1940,220,France,350,Greece,0,0.001488365
+World War II,1940,220,France,140,Brazil,0,0.017313491
+World War II,1940,220,France,325,Italy,0,0.01617818
+World War II,1940,220,France,900,Australia,0,0.021127859
+World War II,1940,220,France,920,New Zealand,0,0.004589702
+World War II,1940,220,France,365,USSR,0,0.008971725
+World War II,1940,220,France,290,Poland,0,0.00572889
+World War II,1940,220,France,712,Mongolia,0,
+World War II,1940,220,France,710,China,0,0.003129028
+World War II,1940,220,France,560,South Africa,0,0.006209597
+World War II,1940,220,France,530,Ethiopia,0,
+World War II,1941,345,Yugoslavia,310,Hungary,0,#DIV/0!
+World War II,1941,345,Yugoslavia,220,France,0,#DIV/0!
+World War II,1941,345,Yugoslavia,375,Finland,0,1.89E-05
+World War II,1941,345,Yugoslavia,325,Italy,0,#DIV/0!
+World War II,1941,345,Yugoslavia,360,Romania,0,0
+World War II,1941,345,Yugoslavia,355,Bulgaria,0,0.001628804
+World War II,1941,345,Yugoslavia,255,Germany,0,#DIV/0!
+World War II,1941,345,Yugoslavia,740,Japan,0,0.000214316
+World War II,1941,375,Finland,211,Belgium,0,0.049065714
+World War II,1941,375,Finland,345,Yugoslavia,0,1.33E-05
+World War II,1941,375,Finland,385,Norway,0,0.002752732
+World War II,1941,375,Finland,20,Canada,0,0.002232319
+World War II,1941,375,Finland,2,United States of America,0,0.095405555
+World War II,1941,375,Finland,200,United Kingdom,0,0.357089362
+World War II,1941,375,Finland,210,Netherlands,0,0.034978801
+World War II,1941,375,Finland,360,Romania,0,
+World War II,1941,375,Finland,355,Bulgaria,0,
+World War II,1941,375,Finland,350,Greece,0,0.005770771
+World War II,1941,375,Finland,140,Brazil,0,0.010903492
+World War II,1941,375,Finland,325,Italy,0,0.019081111
+World War II,1941,375,Finland,900,Australia,0,0.005451746
+World War II,1941,375,Finland,920,New Zealand,0,
+World War II,1941,375,Finland,365,USSR,0,0.008177619
+World War II,1941,375,Finland,290,Poland,0,0.016355238
+World War II,1941,375,Finland,220,France,0,0.130153362
+World War II,1941,375,Finland,712,Mongolia,0,
+World War II,1941,375,Finland,710,China,0,0.001962628
+World War II,1941,375,Finland,560,South Africa,0,0.011475925
+World War II,1941,375,Finland,530,Ethiopia,0,0.00015983
+World War II,1940,385,Norway,310,Hungary,0,0.00104442
+World War II,1940,385,Norway,220,France,0,0.019985116
+World War II,1940,385,Norway,375,Finland,0,0.001750109
+World War II,1940,385,Norway,325,Italy,0,0.022102183
+World War II,1940,385,Norway,360,Romania,0,0.000423414
+World War II,1940,385,Norway,355,Bulgaria,0,8.47E-05
+World War II,1940,385,Norway,255,Germany,0,0.377967069
+World War II,1940,385,Norway,740,Japan,0,0.007677898
+World War II,1939,20,Canada,310,Hungary,0,0.000138206
+World War II,1939,20,Canada,220,France,0,0.009242409
+World War II,1939,20,Canada,375,Finland,0,0.000503069
+World War II,1939,20,Canada,325,Italy,0,0.004104849
+World War II,1939,20,Canada,360,Romania,0,
+World War II,1939,20,Canada,355,Bulgaria,0,
+World War II,1939,20,Canada,255,Germany,0,0.00512539
+World War II,1939,20,Canada,740,Japan,0,0.0223035
+World War II,1941,2,United States of America,310,Hungary,0,0.002176494
+World War II,1941,2,United States of America,220,France,0,0.024220013
+World War II,1941,2,United States of America,375,Finland,0,0.006925208
+World War II,1941,2,United States of America,325,Italy,0,0.021962802
+World War II,1941,2,United States of America,360,Romania,0,0.001780768
+World War II,1941,2,United States of America,355,Bulgaria,0,0.000791452
+World War II,1941,2,United States of America,255,Germany,0,0.000407256
+World War II,1941,2,United States of America,740,Japan,0,0.02485313
+World War II,1939,200,United Kingdom,310,Hungary,0,0.002951227
+World War II,1939,200,United Kingdom,220,France,0,0.031505992
+World War II,1939,200,United Kingdom,375,Finland,0,0.020347934
+World War II,1939,200,United Kingdom,325,Italy,0,0.010872942
+World War II,1939,200,United Kingdom,360,Romania,0,0.004504505
+World War II,1939,200,United Kingdom,355,Bulgaria,0,0.000931966
+World War II,1939,200,United Kingdom,255,Germany,0,0.014018876
+World War II,1939,200,United Kingdom,740,Japan,0,0.007259205
+World War II,1940,210,Netherlands,310,Hungary,0,0
+World War II,1940,210,Netherlands,220,France,0,0.009551798
+World War II,1940,210,Netherlands,375,Finland,0,0.008187425
+World War II,1940,210,Netherlands,325,Italy,0,0.00523772
+World War II,1940,210,Netherlands,360,Romania,0,0
+World War II,1940,210,Netherlands,355,Bulgaria,0,0.000567094
+World War II,1940,210,Netherlands,255,Germany,0,0.183185028
+World War II,1940,210,Netherlands,740,Japan,0,0.000732154
+World War II,1940,325,Italy,211,Belgium,0,0.014121801
+World War II,1940,325,Italy,345,Yugoslavia,0,0.018139707
+World War II,1940,325,Italy,385,Norway,0,0.006279129
+World War II,1940,325,Italy,20,Canada,0,0.004413063
+World War II,1940,325,Italy,2,United States of America,0,0.097969991
+World War II,1940,325,Italy,200,United Kingdom,0,0.061782877
+World War II,1940,325,Italy,210,Netherlands,0,0.003728985
+World War II,1940,325,Italy,360,Romania,0,0.017652251
+World War II,1940,325,Italy,355,Bulgaria,0,0.008826125
+World War II,1940,325,Italy,350,Greece,0,0.004715361
+World War II,1940,325,Italy,140,Brazil,0,0.01059135
+World War II,1940,325,Italy,900,Australia,0,0.013239188
+World War II,1940,325,Italy,920,New Zealand,0,0.000553745
+World War II,1940,325,Italy,365,USSR,0,0.004741933
+World War II,1940,325,Italy,290,Poland,0,0.012411781
+World War II,1940,325,Italy,220,France,0,0.018741155
+World War II,1940,325,Italy,712,Mongolia,0,
+World War II,1940,325,Italy,710,China,0,0.005295675
+World War II,1940,325,Italy,560,South Africa,0,0.008826125
+World War II,1940,325,Italy,530,Ethiopia,0,0
+World War II,1944,360,Romania,310,Hungary,0,0.058419244
+World War II,1944,360,Romania,220,France,0,#DIV/0!
+World War II,1944,360,Romania,375,Finland,0,
+World War II,1944,360,Romania,325,Italy,0,0.068728522
+World War II,1944,360,Romania,355,Bulgaria,0,#DIV/0!
+World War II,1944,360,Romania,255,Germany,0,0.485126309
+World War II,1944,360,Romania,740,Japan,0,0.000142838
+World War II,1941,360,Romania,211,Belgium,0,0.037800687
+World War II,1941,360,Romania,345,Yugoslavia,0,0
+World War II,1941,360,Romania,385,Norway,0,0.000425774
+World War II,1941,360,Romania,20,Canada,0,
+World War II,1941,360,Romania,2,United States of America,0,0.030927835
+World War II,1941,360,Romania,200,United Kingdom,0,0.099656357
+World War II,1941,360,Romania,210,Netherlands,0,0
+World War II,1941,360,Romania,355,Bulgaria,0,0.012083005
+World War II,1941,360,Romania,350,Greece,0,0
+World War II,1941,360,Romania,140,Brazil,0,
+World War II,1941,360,Romania,325,Italy,0,0.068728522
+World War II,1941,360,Romania,900,Australia,0,
+World War II,1941,360,Romania,920,New Zealand,0,
+World War II,1941,360,Romania,365,USSR,0,0.001638998
+World War II,1941,360,Romania,290,Poland,0,0.010343643
+World War II,1941,360,Romania,220,France,0,0.281875495
+World War II,1941,360,Romania,712,Mongolia,0,
+World War II,1941,360,Romania,710,China,0,
+World War II,1941,360,Romania,560,South Africa,0,
+World War II,1941,360,Romania,530,Ethiopia,0,
+World War II,1941,355,Bulgaria,211,Belgium,0,0.015625
+World War II,1941,355,Bulgaria,345,Yugoslavia,0,0.002835821
+World War II,1941,355,Bulgaria,385,Norway,0,0.000179533
+World War II,1941,355,Bulgaria,20,Canada,0,
+World War II,1941,355,Bulgaria,2,United States of America,0,0.03125
+World War II,1941,355,Bulgaria,200,United Kingdom,0,0.046875
+World War II,1941,355,Bulgaria,210,Netherlands,0,0.005970149
+World War II,1941,355,Bulgaria,360,Romania,0,0.020122484
+World War II,1941,355,Bulgaria,350,Greece,0,0.005970149
+World War II,1941,355,Bulgaria,140,Brazil,0,
+World War II,1941,355,Bulgaria,325,Italy,0,0.078125
+World War II,1941,355,Bulgaria,900,Australia,0,
+World War II,1941,355,Bulgaria,920,New Zealand,0,
+World War II,1941,355,Bulgaria,365,USSR,0,0.003376623
+World War II,1941,355,Bulgaria,290,Poland,0,0.026791045
+World War II,1941,355,Bulgaria,220,France,0,0.083289594
+World War II,1941,355,Bulgaria,712,Mongolia,0,
+World War II,1941,355,Bulgaria,710,China,0,
+World War II,1941,355,Bulgaria,560,South Africa,0,
+World War II,1941,355,Bulgaria,530,Ethiopia,0,
+World War II,1944,355,Bulgaria,310,Hungary,0,0.0234375
+World War II,1944,355,Bulgaria,220,France,0,0.443894386
+World War II,1944,355,Bulgaria,375,Finland,0,
+World War II,1944,355,Bulgaria,325,Italy,0,0.078125
+World War II,1944,355,Bulgaria,360,Romania,0,0.043847242
+World War II,1944,355,Bulgaria,255,Germany,0,0.423518837
+World War II,1944,355,Bulgaria,740,Japan,0,0.000149254
+World War II,1940,350,Greece,310,Hungary,0,0
+World War II,1940,350,Greece,220,France,0,0.015016322
+World War II,1940,350,Greece,375,Finland,0,0.010880231
+World War II,1940,350,Greece,325,Italy,0,0.041067892
+World War II,1940,350,Greece,360,Romania,0,0
+World War II,1940,350,Greece,355,Bulgaria,0,0.004567907
+World War II,1940,350,Greece,255,Germany,0,0.259956967
+World War II,1940,350,Greece,740,Japan,0,0.000799384
+World War II,1944,140,Brazil,310,Hungary,0,
+World War II,1944,140,Brazil,220,France,0,0.022644269
+World War II,1944,140,Brazil,375,Finland,0,0.006756757
+World War II,1944,140,Brazil,325,Italy,0,0.02027027
+World War II,1944,140,Brazil,360,Romania,0,
+World War II,1944,140,Brazil,355,Bulgaria,0,
+World War II,1944,140,Brazil,255,Germany,0,0
+World War II,1944,140,Brazil,740,Japan,0,0
+World War II,1943,325,Italy,310,Hungary,0,0.015887026
+World War II,1943,325,Italy,220,France,0,0.064597725
+World War II,1943,325,Italy,375,Finland,0,0.006178288
+World War II,1943,325,Italy,360,Romania,0,0.017652251
+World War II,1943,325,Italy,355,Bulgaria,0,0.008826125
+World War II,1943,325,Italy,255,Germany,0,#DIV/0!
+World War II,1943,325,Italy,740,Japan,0,#DIV/0!
+World War II,1939,900,Australia,310,Hungary,0,0.000192272
+World War II,1939,900,Australia,220,France,0,0.040388129
+World War II,1939,900,Australia,375,Finland,0,0.002298645
+World War II,1939,900,Australia,325,Italy,0,0.017239834
+World War II,1939,900,Australia,360,Romania,0,
+World War II,1939,900,Australia,355,Bulgaria,0,
+World War II,1939,900,Australia,255,Germany,0,0.016655251
+World War II,1939,900,Australia,740,Japan,0,0.03755708
+World War II,1939,920,New Zealand,310,Hungary,0,
+World War II,1939,920,New Zealand,220,France,0,0.020110524
+World War II,1939,920,New Zealand,375,Finland,0,
+World War II,1939,920,New Zealand,325,Italy,0,0.00146105
+World War II,1939,920,New Zealand,360,Romania,0,
+World War II,1939,920,New Zealand,355,Bulgaria,0,
+World War II,1939,920,New Zealand,255,Germany,0,0.007424315
+World War II,1939,920,New Zealand,740,Japan,0,0.01220567
+World War II,1941,365,USSR,310,Hungary,0,#DIV/0!
+World War II,1941,365,USSR,220,France,0,#DIV/0!
+World War II,1941,365,USSR,375,Finland,0,0.005432727
+World War II,1941,365,USSR,325,Italy,0,0.010040913
+World War II,1941,365,USSR,360,Romania,0,0.001023909
+World War II,1941,365,USSR,355,Bulgaria,0,0.000485075
+World War II,1941,365,USSR,255,Germany,0,#DIV/0!
+World War II,1941,365,USSR,740,Japan,0,#DIV/0!
+World War II,1939,255,Germany,211,Belgium,1,0.038093066
+World War II,1939,255,Germany,345,Yugoslavia,1,0.02394643
+World War II,1939,255,Germany,385,Norway,1,0.021625103
+World War II,1939,255,Germany,20,Canada,1,0.001974276
+World War II,1939,255,Germany,2,United States of America,1,0.030266872
+World War II,1939,255,Germany,200,United Kingdom,1,0.020284067
+World War II,1939,255,Germany,210,Netherlands,1,0.061751863
+World War II,1939,255,Germany,360,Romania,1,0.019289988
+World War II,1939,255,Germany,355,Bulgaria,1,0.019692198
+World War II,1939,255,Germany,350,Greece,1,0.011226792
+World War II,1939,255,Germany,140,Brazil,1,0.027816839
+World War II,1939,255,Germany,325,Italy,1,0.062687291
+World War II,1939,255,Germany,900,Australia,1,0.003353282
+World War II,1939,255,Germany,920,New Zealand,1,0.000710188
+World War II,1939,255,Germany,365,USSR,1,0.002790188
+World War II,1939,255,Germany,290,Poland,1,0.007614409
+World War II,1939,255,Germany,220,France,1,0.01205021
+World War II,1939,255,Germany,712,Mongolia,1,
+World War II,1939,255,Germany,710,China,1,0.007648884
+World War II,1939,255,Germany,560,South Africa,1,0.003419934
+World War II,1939,255,Germany,530,Ethiopia,1,5.52E-05
+World War II,1939,290,Poland,310,Hungary,0,0.007473233
+World War II,1939,290,Poland,220,France,0,0.053119002
+World War II,1939,290,Poland,375,Finland,0,0.012847966
+World War II,1939,290,Poland,325,Italy,0,0.065403071
+World War II,1939,290,Poland,360,Romania,0,0.006445396
+World War II,1939,290,Poland,355,Bulgaria,0,0.017226487
+World War II,1939,290,Poland,255,Germany,0,0.158973132
+World War II,1939,290,Poland,740,Japan,0,0
+World War II,1939,220,France,310,Hungary,0,0.001221335
+World War II,1939,220,France,375,Finland,0,0.002013133
+World War II,1939,220,France,325,Italy,0,0.010609055
+World War II,1939,220,France,360,Romania,0,0.002427145
+World War II,1939,220,France,355,Bulgaria,0,0.000615843
+World War II,1939,220,France,255,Germany,0,0.027133305
+World War II,1939,220,France,740,Japan,0,0.0060808
+World War II,1941,740,Japan,211,Belgium,0,0.004299754
+World War II,1941,740,Japan,345,Yugoslavia,0,2.06E-05
+World War II,1941,740,Japan,385,Norway,0,0.001153252
+World War II,1941,740,Japan,20,Canada,0,0.00342069
+World War II,1941,740,Japan,2,United States of America,0,0.108264078
+World War II,1941,740,Japan,200,United Kingdom,0,0.002054453
+World War II,1941,740,Japan,210,Netherlands,0,0.000275593
+World War II,1941,740,Japan,360,Romania,0,2.55E-05
+World War II,1941,740,Japan,355,Bulgaria,0,8.25E-06
+World War II,1941,740,Japan,350,Greece,0,5.78E-05
+World War II,1941,740,Japan,140,Brazil,0,0.01472783
+World War II,1941,740,Japan,325,Italy,0,0.000239601
+World War II,1941,740,Japan,900,Australia,0,0.016048186
+World War II,1941,740,Japan,920,New Zealand,0,0.000453713
+World War II,1941,740,Japan,365,USSR,0,0
+World War II,1941,740,Japan,290,Poland,0,0
+World War II,1941,740,Japan,220,France,0,0.002615222
+World War II,1941,740,Japan,712,Mongolia,0,
+World War II,1941,740,Japan,710,China,0,0.302922228
+World War II,1941,740,Japan,560,South Africa,0,0.006270416
+World War II,1941,740,Japan,530,Ethiopia,0,0
+World War II,1945,712,Mongolia,310,Hungary,0,
+World War II,1945,712,Mongolia,220,France,0,
+World War II,1945,712,Mongolia,375,Finland,0,
+World War II,1945,712,Mongolia,325,Italy,0,
+World War II,1945,712,Mongolia,360,Romania,0,
+World War II,1945,712,Mongolia,355,Bulgaria,0,
+World War II,1945,712,Mongolia,255,Germany,0,
+World War II,1945,712,Mongolia,740,Japan,0,
+World War II,1941,710,China,310,Hungary,0,0.001185485
+World War II,1941,710,China,220,France,0,#DIV/0!
+World War II,1941,710,China,375,Finland,0,0.001706121
+World War II,1941,710,China,325,Italy,0,0.014217673
+World War II,1941,710,China,360,Romania,0,
+World War II,1941,710,China,355,Bulgaria,0,
+World War II,1941,710,China,255,Germany,0,#DIV/0!
+World War II,1941,710,China,740,Japan,0,#DIV/0!
+World War II,1939,560,South Africa,310,Hungary,0,0.001427837
+World War II,1939,560,South Africa,220,France,0,0.024081096
+World War II,1939,560,South Africa,375,Finland,0,0.005051423
+World War II,1939,560,South Africa,325,Italy,0,0.011998628
+World War II,1939,560,South Africa,360,Romania,0,
+World War II,1939,560,South Africa,355,Bulgaria,0,
+World War II,1939,560,South Africa,255,Germany,0,0.024526124
+World War II,1939,560,South Africa,740,Japan,0,0.025037085
+World War II,1941,530,Ethiopia,310,Hungary,0,#DIV/0!
+World War II,1941,530,Ethiopia,220,France,0,
+World War II,1941,530,Ethiopia,375,Finland,0,0.002668533
+World War II,1941,530,Ethiopia,325,Italy,0,#DIV/0!
+World War II,1941,530,Ethiopia,360,Romania,0,
+World War II,1941,530,Ethiopia,355,Bulgaria,0,
+World War II,1941,530,Ethiopia,255,Germany,0,#DIV/0!
+World War II,1941,530,Ethiopia,740,Japan,0,#DIV/0!
+Russo-Finnish,1939,375,Finland,365,USSR,0,0.008177619
+Russo-Finnish,1939,365,USSR,375,Finland,1,0.005432727
+Franco-Thai,1940,220,France,800,Thailand,0,4.15E-05
+Franco-Thai,1940,800,Thailand,220,France,1,#DIV/0!
+First Kashmir,1947,750,India,770,Pakistan,1,
+First Kashmir,1947,770,Pakistan,750,India,0,
+Arab-Israeli,1948,666,Israel,651,Egypt,0,0
+Arab-Israeli,1948,666,Israel,652,Syria,0,
+Arab-Israeli,1948,666,Israel,660,Lebanon,0,
+Arab-Israeli,1948,666,Israel,663,Jordan,0,
+Arab-Israeli,1948,666,Israel,645,Iraq,0,
+Arab-Israeli,1948,651,Egypt,666,Israel,0,0
+Arab-Israeli,1948,652,Syria,666,Israel,0,
+Arab-Israeli,1948,660,Lebanon,666,Israel,0,
+Arab-Israeli,1948,663,Jordan,666,Israel,1,
+Arab-Israeli,1948,645,Iraq,666,Israel,0,
+Korean,1950,710,China,211,Belgium,0,0.018059075
+Korean,1950,710,China,20,Canada,0,0.009734513
+Korean,1950,710,China,100,Colombia,0,0
+Korean,1950,710,China,200,United Kingdom,0,0.035575222
+Korean,1950,710,China,210,Netherlands,0,0.011327434
+Korean,1950,710,China,350,Greece,0,0
+Korean,1950,710,China,220,France,0,0.00761062
+Korean,1950,710,China,640,Turkey,0,0
+Korean,1950,710,China,840,Philippines,0,0.00099115
+Korean,1950,710,China,800,Thailand,0,0.023696121
+Korean,1950,710,China,530,Ethiopia,0,0.000176991
+Korean,1950,710,China,900,Australia,0,0.005964602
+Korean,1950,710,China,732,South Korea,0,0.011935484
+Korean,1950,710,China,2,United States of America,0,0.202654867
+Korean,1951,211,Belgium,710,China,0,0.00247895
+Korean,1951,211,Belgium,731,North Korea,0,0
+Korean,1950,20,Canada,710,China,0,0.001743265
+Korean,1950,20,Canada,731,North Korea,0,0
+Korean,1951,100,Colombia,710,China,0,0
+Korean,1951,100,Colombia,731,North Korea,0,0
+Korean,1950,200,United Kingdom,710,China,0,0.003068702
+Korean,1950,200,United Kingdom,731,North Korea,0,0
+Korean,1951,210,Netherlands,710,China,0,0.004028648
+Korean,1951,210,Netherlands,731,North Korea,0,0
+Korean,1951,350,Greece,710,China,0,0
+Korean,1951,350,Greece,731,North Korea,0,0
+Korean,1951,220,France,710,China,0,0.001150266
+Korean,1951,220,France,731,North Korea,0,0
+Korean,1950,640,Turkey,710,China,0,0
+Korean,1950,640,Turkey,731,North Korea,0,0
+Korean,1950,840,Philippines,710,China,0,0.001596579
+Korean,1950,840,Philippines,731,North Korea,0,0
+Korean,1951,800,Thailand,710,China,0,0.074074074
+Korean,1951,800,Thailand,731,North Korea,0,
+Korean,1950,731,North Korea,211,Belgium,1,0
+Korean,1950,731,North Korea,20,Canada,1,0
+Korean,1950,731,North Korea,100,Colombia,1,0
+Korean,1950,731,North Korea,200,United Kingdom,1,0
+Korean,1950,731,North Korea,210,Netherlands,1,0
+Korean,1950,731,North Korea,350,Greece,1,0
+Korean,1950,731,North Korea,220,France,1,0
+Korean,1950,731,North Korea,640,Turkey,1,0
+Korean,1950,731,North Korea,840,Philippines,1,0
+Korean,1950,731,North Korea,800,Thailand,1,
+Korean,1950,731,North Korea,530,Ethiopia,1,0
+Korean,1950,731,North Korea,900,Australia,1,0
+Korean,1950,731,North Korea,732,South Korea,1,0
+Korean,1950,731,North Korea,2,United States of America,1,
+Korean,1951,530,Ethiopia,710,China,0,0.002398081
+Korean,1951,530,Ethiopia,731,North Korea,0,0
+Korean,1950,900,Australia,710,China,0,0.002154043
+Korean,1950,900,Australia,731,North Korea,0,0
+Korean,1950,732,South Korea,710,China,0,0.025517241
+Korean,1950,732,South Korea,731,North Korea,0,0
+Korean,1950,2,United States of America,710,China,0,0.011828512
+Korean,1950,2,United States of America,731,North Korea,0,
+Off-shore Islands,1954,710,China,713,Taiwan,1,
+Off-shore Islands,1954,713,Taiwan,710,China,0,
+Sinai War,1956,220,France,651,Egypt,0,0.006573876
+Sinai War,1956,666,Israel,651,Egypt,1,0
+Sinai War,1956,651,Egypt,220,France,0,0.065374788
+Sinai War,1956,651,Egypt,666,Israel,0,0
+Sinai War,1956,651,Egypt,200,United Kingdom,0,0.088798979
+Sinai War,1956,200,United Kingdom,651,Egypt,0,0.004403379
+Soviet Invasion of Hungary,1956,310,Hungary,365,USSR,0,0.248218147
+Soviet Invasion of Hungary,1956,365,USSR,310,Hungary,1,0.033247549
+IfniWar,1958,220,France,600,Morocco,0,0.041386934
+IfniWar,1957,230,Spain,600,Morocco,0,0.008848207
+IfniWar,1957,600,Morocco,220,France,1,0.577948374
+IfniWar,1957,600,Morocco,230,Spain,1,0.016189812
+Taiwan Straits,1958,710,China (PRC),713,Taiwan (ROC),1,
+Taiwan Straits,1958,713,Taiwan (ROC),710,China (PRC),0,
+Assam,1962,750,India,710,China (PRC),0,0.000783636
+Assam,1962,710,China (PRC),750,India,1,0.001090226
+"Vietnam War, Phase 2",1965,2,United States of America,816,Vietnam,1,0.003278991
+"Vietnam War, Phase 2",1970,811,Cambodia,816,Vietnam,0,0.055301081
+"Vietnam War, Phase 2",1965,732,South Korea,816,Vietnam,0,0.023649728
+"Vietnam War, Phase 2",1966,840,Philippines,816,Vietnam,0,0.000724355
+"Vietnam War, Phase 2",1965,817,South Vietnam,816,Vietnam,0,
+"Vietnam War, Phase 2",1965,816,Vietnam,2,United States of America,0,1.009692511
+"Vietnam War, Phase 2",1965,816,Vietnam,811,Cambodia,0,0.003673702
+"Vietnam War, Phase 2",1965,816,Vietnam,732,South Korea,0,0.090617978
+"Vietnam War, Phase 2",1965,816,Vietnam,840,Philippines,0,0
+"Vietnam War, Phase 2",1965,816,Vietnam,817,South Vietnam,0,
+"Vietnam War, Phase 2",1965,816,Vietnam,800,Thailand,0,0.060616077
+"Vietnam War, Phase 2",1965,816,Vietnam,900,Australia,0,0.02877733
+"Vietnam War, Phase 2",1967,800,Thailand,816,Vietnam,0,0.006142365
+"Vietnam War, Phase 2",1965,900,Australia,816,Vietnam,0,0.000714639
+Second Kashmir,1965,750,India,770,Pakistan,0,0.010735919
+Second Kashmir,1965,770,Pakistan,750,India,1,0.030474113
+Six Day War,1967,666,Israel,651,Egypt,1,0
+Six Day War,1967,666,Israel,663,Jordan,1,
+Six Day War,1967,666,Israel,652,Syria,1,
+Six Day War,1967,651,Egypt,666,Israel,0,0
+Six Day War,1967,663,Jordan,666,Israel,0,
+Six Day War,1967,652,Syria,666,Israel,0,
+"Second Laotian, Phase 2",1968,2,United States of America,816,Vietnam,0,0.001347548
+"Second Laotian, Phase 2",1970,800,Thailand,816,Vietnam,0,0.005277702
+"Second Laotian, Phase 2",1968,812,Laos,816,Vietnam,0,3.35E-05
+"Second Laotian, Phase 2",1968,816,Vietnam,2,United States of America,1,1.019703282
+"Second Laotian, Phase 2",1968,816,Vietnam,800,Thailand,1,0.094134448
+"Second Laotian, Phase 2",1968,816,Vietnam,812,Laos,1,2.16E-05
+War of Attrition,1969,651,Egypt,666,Israel,1,0
+War of Attrition,1969,666,Israel,651,Egypt,0,0
+Football War,1969,91,Honduras,92,El Salvador,0,0.056263451
+Football War,1969,92,El Salvador,91,Honduras,1,0.048178366
+Communist Coalition,1970,816,Vietnam,2,United States of America,1,1.003141622
+Communist Coalition,1970,816,Vietnam,811,Cambodia,1,0.019246321
+Communist Coalition,1970,816,Vietnam,817,South Vietnam,1,
+Communist Coalition,1970,2,United States of America,816,Vietnam,0,0.003002748
+Communist Coalition,1970,811,Cambodia,816,Vietnam,0,0.055301081
+Communist Coalition,1970,817,South Vietnam,816,Vietnam,0,
+Bangladesh,1971,750,India,770,Pakistan,0,7.52E-05
+Bangladesh,1971,770,Pakistan,750,India,1,0.000215051
+Yom Kippur War,1973,651,Egypt,666,Israel,1,0
+Yom Kippur War,1973,670,Saudi Arabia,666,Israel,0,
+Yom Kippur War,1973,666,Israel,651,Egypt,0,0
+Yom Kippur War,1973,666,Israel,670,Saudi Arabia,0,
+Yom Kippur War,1973,666,Israel,663,Jordan,0,
+Yom Kippur War,1973,666,Israel,652,Syria,0,
+Yom Kippur War,1973,666,Israel,645,Iraq,0,
+Yom Kippur War,1973,663,Jordan,666,Israel,0,
+Yom Kippur War,1973,652,Syria,666,Israel,1,
+Yom Kippur War,1973,645,Iraq,666,Israel,0,
+Turco-Cypriot,1974,640,Turkey,352,Cyprus,1,0.001085757
+Turco-Cypriot,1974,352,Cyprus,640,Turkey,0,0.010148262
+War over Angola,1975,40,Cuba,560,South Africa,0,0
+War over Angola,1975,40,Cuba,490,Democratic Republic of the Congo,0,
+War over Angola,1975,560,South Africa,40,Cuba,1,0
+War over Angola,1975,560,South Africa,540,Angola,1,
+War over Angola,1975,490,Democratic Republic of the Congo,40,Cuba,0,
+War over Angola,1975,490,Democratic Republic of the Congo,540,Angola,0,0.004784689
+War over Angola,1975,540,Angola,560,South Africa,0,
+War over Angola,1975,540,Angola,490,Democratic Republic of the Congo,0,#DIV/0!
+"Second Ogaden War, Phase 2",1977,530,Ethiopia,520,Somalia,0,0.00838352
+"Second Ogaden War, Phase 2",1977,40,Cuba,520,Somalia,0,0
+"Second Ogaden War, Phase 2",1977,520,Somalia,530,Ethiopia,1,0.019825721
+"Second Ogaden War, Phase 2",1977,520,Somalia,40,Cuba,1,0
+Vietnamese-Cambodian,1977,816,Vietnam,811,Cambodia,0,0.000237863
+Vietnamese-Cambodian,1977,811,Cambodia,816,Vietnam,1,0.001085576
+Ugandian-Tanzanian,1978,500,Uganda,510,Tanzania,1,0.00402426
+Ugandian-Tanzanian,1978,510,Tanzania,500,Uganda,0,0.001256904
+Ugandian-Tanzanian,1978,510,Tanzania,620,Libya,0,0
+Ugandian-Tanzanian,1979,620,Libya,510,Tanzania,0,5.14E-07
+Sino-Vietnamese Punitive,1979,710,China,816,Vietnam,1,0
+Sino-Vietnamese Punitive,1979,816,Vietnam,710,China,0,0
+Iran-Iraq,1980,645,Iraq,630,Iran,1,0.001401129
+Iran-Iraq,1980,630,Iran,645,Iraq,0,0.000659009
+Falkland Islands,1982,200,United Kingdom,160,Argentina,0,0.000893585
+Falkland Islands,1982,160,Argentina,200,United Kingdom,1,0.013547131
+War over Lebanon,1982,666,Israel,652,Syria,1,
+War over Lebanon,1982,652,Syria,666,Israel,0,
+War over the Aouzou Strip,1986,483,Chad,620,Libya,1,0
+War over the Aouzou Strip,1986,620,Libya,483,Chad,0,0
+Sino-Vietnamese Border War,1987,816,Vietnam,710,China,0,0
+Sino-Vietnamese Border War,1987,710,China,816,Vietnam,1,0
+Gulf War,1990,690,Kuwait,645,Iraq,0,0.022063894
+Gulf War,1991,2,United States of America,645,Iraq,0,4.51E-07
+Gulf War,1991,20,Canada,645,Iraq,0,0.000559419
+Gulf War,1991,200,United Kingdom,645,Iraq,0,0.000943289
+Gulf War,1991,325,Italy,645,Iraq,0,4.90E-05
+Gulf War,1991,600,Morocco,645,Iraq,0,0
+Gulf War,1990,645,Iraq,690,Kuwait,1,0.016247228
+Gulf War,1990,645,Iraq,2,United States of America,1,0.234630042
+Gulf War,1990,645,Iraq,20,Canada,1,0.017160208
+Gulf War,1990,645,Iraq,200,United Kingdom,1,0.043260504
+Gulf War,1990,645,Iraq,325,Italy,1,0.038301767
+Gulf War,1990,645,Iraq,600,Morocco,1,0.013916536
+Gulf War,1990,645,Iraq,651,Egypt,1,0.002484734
+Gulf War,1990,645,Iraq,698,Oman,1,0.006747219
+Gulf War,1990,645,Iraq,220,France,1,0.05778189
+Gulf War,1990,645,Iraq,696,United Arab Emirates,1,0.005270573
+Gulf War,1990,645,Iraq,694,Qatar,1,0
+Gulf War,1990,645,Iraq,670,Saudi Arabia,1,0.00961833
+Gulf War,1990,645,Iraq,652,Syria,1,0
+Gulf War,1991,651,Egypt,645,Iraq,0,0.00036122
+Gulf War,1991,698,Oman,645,Iraq,0,0
+Gulf War,1991,220,France,645,Iraq,0,4.69E-05
+Gulf War,1991,696,United Arab Emirates,645,Iraq,0,0
+Gulf War,1991,694,Qatar,645,Iraq,0,0
+Gulf War,1991,670,Saudi Arabia,645,Iraq,0,2.65E-06
+Gulf War,1991,652,Syria,645,Iraq,0,4.23E-06
+Bosnian Independence,1992,344,Croatia,345,Yugoslavia,0,
+Bosnian Independence,1992,346,Bosnia,345,Yugoslavia,0,
+Bosnian Independence,1992,345,Yugoslavia,344,Croatia,1,
+Bosnian Independence,1992,345,Yugoslavia,346,Bosnia,1,
+Azeri-Armenian,1993,373,Azerbaijan,371,Armenia,0,2.96E-05
+Azeri-Armenian,1993,371,Armenia,373,Azerbaijan,1,0.000112154
+Cenepa Valley,1995,130,Ecuador,135,Peru,1,0.014801439
+Cenepa Valley,1995,135,Peru,130,Ecuador,0,0.009167331
+Badme Border,1998,531,Eritrea,530,Ethiopia,1,
+Badme Border,1998,530,Ethiopia,531,Eritrea,0,
+War for Kosovo,1999,640,Turkey,345,Yugoslavia,1,0.004352236
+War for Kosovo,1999,325,Italy,345,Yugoslavia,1,0.015282573
+War for Kosovo,1999,200,United Kingdom,345,Yugoslavia,1,0.00110204
+War for Kosovo,1999,2,United States of America,345,Yugoslavia,1,0.000836211
+War for Kosovo,1999,210,Netherlands,345,Yugoslavia,1,0.002201894
+War for Kosovo,1999,220,France,345,Yugoslavia,1,0.003559965
+War for Kosovo,1999,345,Yugoslavia,640,Turkey,0,0.007276286
+War for Kosovo,1999,345,Yugoslavia,325,Italy,0,0.238764595
+War for Kosovo,1999,345,Yugoslavia,200,United Kingdom,0,0.0194591
+War for Kosovo,1999,345,Yugoslavia,2,United States of America,0,0.035875606
+War for Kosovo,1999,345,Yugoslavia,210,Netherlands,0,0.025358128
+War for Kosovo,1999,345,Yugoslavia,220,France,0,0.072783065
+War for Kosovo,1999,345,Yugoslavia,255,Germany,0,0.307921363
+War for Kosovo,1999,255,Germany,345,Yugoslavia,1,0.008655761
+Kargil War,1999,750,India,770,Pakistan,0,0.002849751
+Kargil War,1999,770,Pakistan,750,India,1,0.0127457
+Invasion of Afghanistan,2001,20,Canada,700,Afghanistan,0,8.08E-07
+Invasion of Afghanistan,2001,220,France,700,Afghanistan,0,8.66E-06
+Invasion of Afghanistan,2001,200,United Kingdom,700,Afghanistan,1,1.16E-05
+Invasion of Afghanistan,2001,2,United States of America,700,Afghanistan,1,2.82E-05
+Invasion of Afghanistan,2001,900,Australia,700,Afghanistan,0,3.34E-06
+Invasion of Afghanistan,2001,700,Afghanistan,20,Canada,0,0.000636944
+Invasion of Afghanistan,2001,700,Afghanistan,220,France,0,0.008811933
+Invasion of Afghanistan,2001,700,Afghanistan,200,United Kingdom,0,0.010737417
+Invasion of Afghanistan,2001,700,Afghanistan,2,United States of America,0,0.084101652
+Invasion of Afghanistan,2001,700,Afghanistan,900,Australia,0,0.000679554
+Invasion of Iraq,2003,900,Australia,645,Iraq,1,0.002456976
+Invasion of Iraq,2003,200,United Kingdom,645,Iraq,1,0.000344998
+Invasion of Iraq,2003,2,United States of America,645,Iraq,1,0.002592406
+Invasion of Iraq,2003,645,Iraq,900,Australia,0,0.031715591
+Invasion of Iraq,2003,645,Iraq,200,United Kingdom,0,0.018712746
+Invasion of Iraq,2003,645,Iraq,2,United States of America,0,0.413748338

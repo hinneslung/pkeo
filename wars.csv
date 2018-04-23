@@ -1,0 +1,593 @@
+WarNum,WarName,WarType,StartMonth,StartDay,StartYear,EndMonth,EndDay,EndYear,Death,Ccode,Player,WhereFought
+301,Ottoman-Wahhabi,3,9,-9,1816,9,11,1818,27500,"[640, -8]","['Ottoman Empire', 'Saudi Wahhabis']",{6}
+300,Allied Bombardment of Algiers,3,8,26,1816,8,30,1816,6142,"[210, 200, -8]","['Netherlands', 'United Kingdom', 'Algeria']",{6}
+305,British-Kandyan,2,10,-9,1817,11,26,1818,11000,"[200, -8]","['United Kingdom', 'Kandyan rebels']",{7}
+303,First Bolivar Expedition,2,4,11,1817,8,10,1819,5000,"[230, -8]","['Spain', 'New Granada']",{1}
+306,British-Maratha,2,11,6,1817,6,3,1818,4800,"[200, -8]","['United Kingdom', 'Marathas']",{7}
+302,Liberation of Chile,2,1,9,1817,4,5,1818,2840,"[230, -8]","['Spain', 'San Martin revolutionaries']",{1}
+304,Mexican Independence,2,8,15,1817,1,1,1818,2000,"[230, -8]","['Spain', 'Mina Expedition']",{1}
+500,First Caucasus,5,6,10,1818,-9,-9,1822,11000,"[365, -8]","['Russia', 'Georgians, Dhagestania, Chechens']",{2}
+307,Ottoman Conquest of Sudan,3,-9,-9,1820,6,-9,1821,6500,"[640, -8]","['Ottoman Empire', 'Sudan states']",{4}
+501,Sidon-Damascus,6,6,-9,1820,7,21,1821,-18,"[-8, -8]","['Sidon', 'Damascus & Aleppo']",{6}
+502,First Two Sicilies,4,3,-9,1820,3,23,1821,-27,"[329, -8, 300]","['Two Sicilies', 'Liberals', 'Austria']",{2}
+506,Greek Independence,5,3,20,1821,10,27,1828,9180,"[640, -8, 200, 220, 365]","['Ottoman Empire', 'Greeks', 'United Kingdom', 'France', 'Russia']",{2}
+308,Second Bolivar Expedition,2,4,28,1821,5,24,1822,1500,"[230, -8]","['Spain', 'New Granada']",{1}
+309,Turco-Persian,3,8,-9,1821,5,-9,1822,991,"[640, -8]","['Ottoman Empire', 'Persia']",{6}
+503,Spanish Royalists,4,12,1,1821,4,6,1823,-18,"[230, -8]","['Spain', 'Royalists']",{2}
+505,Sardinian Revolt,4,3,10,1821,5,8,1821,-27,"[300, 325, -8]","['Austria', 'Sardinia', 'Carbonari']",{2}
+310,First British-Burmese,3,9,24,1823,2,24,1826,30000,"[200, -8]","['United Kingdom', 'Burma']",{7}
+1,Franco-Spanish War,1,4,7,1823,11,13,1823,1000,"[230, 220]","['Spain', 'France']",{2}
+311,First British-Ashanti,3,1,20,1824,8,7,1826,6400,"[200, -8]","['United Kingdom', 'Ashanti-Ghana']",{4}
+312,Liberation of Peru,2,2,4,1824,4,2,1825,2400,"[230, -8]","['Spain', 'Latin American revolutionaries']",{1}
+507,Egypt-Mehdi,6,3,20,1824,4,-9,1824,-18,"[-8, -8]","['Egypt', 'Mehdi army']",{6}
+313,Dutch - Javanese,2,7,23,1825,3,28,1830,215000,"[210, -8]","['Netherlands', 'Javanese rebels']",{7}
+314,British-Bharatpuran,2,11,23,1825,1,18,1826,4900,"[200, -8]","['United Kingdom', 'Bharatpuran rebels']",{7}
+316,Russo-Persian,3,9,28,1826,2,28,1828,7000,"[365, -8]","['Russia', 'Persia']",{6}
+508,Janissari Revolt,4,6,14,1826,9,30,1826,6300,"[640, -8]","['Ottoman Empire', 'Janissaries']",{6}
+315,Brazil-Argentine,3,1,1,1826,10,27,1828,6000,"[140, -8]","['Brazil', 'Argentina']",{1}
+4,First Russo-Turkish,1,4,26,1828,9,14,1829,130000,"[640, 365]","['Ottoman Empire', 'Russia']",{11}
+510,Miguelite War,4,7,1,1828,5,26,1834,20100,"[235, -8, 200]","['Portugal', 'Constitutionalists', 'United Kingdom']",{2}
+317,Spanish Reconquest of Mexico,3,7,16,1829,9,11,1829,1835,"[230, -8]","['Spain', 'Mexico']",{1}
+512,First Albanian Revolt,5,2,-9,1830,11,-9,1831,15000,"[640, -8]","['Ottoman Empire', 'Albanians']",{2}
+319,French Occupation of Algiers,3,6,12,1830,7,5,1830,3600,"[220, -8]","['France', 'Algeria']",{6}
+513,First French Insurrection,4,7,25,1830,7,29,1830,2200,"[220, -8]","['France', 'Liberals']",{2}
+511,First Murid War,5,-9,-9,1830,10,17,1832,1500,"[365, -8]","['Russia', 'Ghazi Muhammad']",{2}
+515,Belgian Independence,5,8,25,1830,11,4,1830,1100,"[210, -8]","['Netherlands', 'Belgians']",{2}
+517,First Polish,5,2,7,1831,10,18,1831,35000,"[365, -8]","['Russia', 'Poles']",{2}
+518,First Syrian,5,10,1,1831,12,27,1832,12000,"[640, -8]","['Ottoman Empire', 'Egyptians & Bashir']",{6}
+516,Egyptian Taka Expedition,6,-9,-9,1831,-9,-9,1832,1491,"[-8, -8]","['Egypt', 'Hadendowa']",{6}
+320,Ottoman-Bilmez-Asiri War,3,6,-9,1832,-9,-9,1837,791,"[640, -8]","['Ottoman Empire', 'Bilmez-Asiri']",{6}
+520,First Mexican,4,1,2,1832,12,11,1832,-18,"[70, -8]","['Mexico', 'Liberals']",{1}
+522,First Carlist War,4,7,10,1834,9,17,1840,135250,"[230, -8, 235, 220, 200]","['Spain', 'Carlists', 'Portugal', 'France', 'United Kingdom']",{2}
+521,Egypt- Palestinian Anti-Conscription Revolt,6,4,19,1834,10,-9,1834,2000,"[-8, -8]","['Palestinians', 'Egypt']",{6}
+523,Second Murid,5,9,26,1834,10,27,1834,-18,"[365, -8]","['Russia', 'Shamil']",{2}
+527,Texan,5,10,1,1835,4,22,1836,2200,"[70, -8]","['Mexico', 'Texans']",{1}
+525,Cabanos Revolt,5,1,6,1835,5,-9,1837,-18,"[140, -8]","['Brazil', 'Cabanos']",{1}
+526,Farroupilha War,5,9,19,1835,3,1,1845,-18,"[140, -8]","['Brazil', 'Farrapos']",{1}
+530,Third Murid,5,7,-9,1836,-9,-9,1852,14991,"[365, -8]","['Russia', 'Shamil']",{2}
+528,First Bosnian,5,-9,-9,1836,-9,-9,1837,-18,"[640, -8]","['Ottoman Empire', 'Bosnians']",{2}
+532,Druze Rebellion,6,9,27,1837,8,22,1838,14991,"[-8, -8]","['Egypt & Bashir', 'Druze']",{6}
+531,Sabinada Rebellion,5,11,7,1837,3,13,1838,1800,"[140, -8]","['Brazil', 'Bahian Sabinada']",{1}
+321,First British-Zulu,3,4,17,1838,4,-9,1838,791,"[200, -8]","['United Kingdom', 'Zulu tribe']",{4}
+324,First Franco-Algerian,3,11,1,1839,12,23,1847,35000,"[220, -8]","['France', 'Algerian forces']",{6}
+322,First British-Afghan,3,2,14,1839,10,12,1842,19991,"[200, -8]","['United Kingdom', 'Afghanistan']",{7}
+533,"Second Syrian, Phase 1",5,6,10,1839,6,24,1839,3000,"[640, -8]","['Ottoman Empire', 'Egypt']",{6}
+323,First Opium,3,9,4,1839,8,29,1842,2450,"[200, -8]","['United Kingdom', 'China']",{7}
+537,"Second Syrian, Phase 2",5,9,9,1840,11,27,1840,27014,"[200, 640, -8]","['United Kingdom', 'Ottoman Empire', 'Egypt']",{6}
+535,Lebanon Insurgency,6,5,27,1840,7,13,1840,4500,"[-8, -8]","['Lebanese Maronites', 'Amir Bashir & Egypt']",{6}
+536,First Colombian,4,7,15,1840,7,15,1842,-18,"[100, -8]","['Colombia', 'Progressives']",{1}
+538,"First Argentina War, Phase 2",4,1,1,1841,12,6,1842,3300,"[160, -8]","['Argentina', 'Unitarios']",{1}
+325,Peru-Bolivian,3,10,19,1841,11,28,1841,1000,"[135, -8]","['Peru', 'Bolivia']",{1}
+540,Second Bosnian,5,-9,-9,1841,-9,-9,1841,-18,"[640, -8]","['Ottoman Empire', 'Bosnians']",{2}
+541,Triangular Revolt,4,9,4,1841,10,6,1841,-18,"[70, -8]","['Mexico', 'Military']",{1}
+542,Karbala Revolt,5,12,19,1842,1,13,1843,4600,"[640, -8]","['Ottoman Empire', 'Karbala']",{6}
+327,Uruguay War,3,1,-9,1843,7,24,1851,6000,"[160, -8, 200, 220]","['Argentina', 'Uruguay', 'United Kingdom', 'France']",{1}
+326,British-Sind,3,1,6,1843,6,14,1843,4200,"[200, -8]","['United Kingdom', 'Sind']",{7}
+329,Gwalior,3,12,28,1843,12,29,1843,1436,"[200, -8]","['United Kingdom', 'Gwalior']",{7}
+330,Franco-Moroccan,3,8,6,1844,9,10,1844,1000,"[220, -8]","['France', 'Morocco']",{6}
+331,First British-Sikh,3,12,13,1845,2,10,1846,8500,"[200, -8]","['United Kingdom', 'Sikhs']",{7}
+543,First Maronite-Druze,7,4,30,1845,5,31,1845,3000,"[-8, -8]","['Maronites', 'Druze']",{6}
+7,Mexican-American,1,4,25,1846,9,14,1847,19283,"[70, 2]","['Mexico', 'United States of America']",{1}
+333,First British-Xhosa,3,4,16,1846,12,23,1847,3000,"[200, -8]","['United Kingdom', 'Khosa']",{4}
+332,Cracow Revolt,3,2,-9,1846,3,3,1846,1982,"[365, 255, 300, -8]","['Russia', 'Prussia', 'Austria', 'Cracow']",{2}
+546,Second Carlist,4,5,15,1847,5,1,1849,10000,"[230, -8]","['Spain', 'Carlists']",{2}
+545,"Mayan Caste War, Phase 1",6,1,15,1847,8,16,1848,1791,"[-8, -8]","['Mayans', 'Yucutan']",{1}
+554,Hungarian,5,7,9,1848,8,13,1849,80500,"[300, -8, 365]","['Austria', 'Hungary', 'Russia']",{2}
+10,Austro-Sardinian,1,3,9,1848,8,30,1849,7527,"[337, 325, 300, 332]","['Tuscany', 'Italy', 'Austria', 'Modena']",{2}
+335,Second British-Sikh,3,5,18,1848,3,10,1849,6500,"[200, -8]","['United Kingdom', 'Sikhs']",{7}
+13,First Schleswig-Holstein,1,4,10,1848,7,10,1849,6000,"[255, 390]","['Prussia', 'Denmark']",{2}
+550,Viennese Revolt,4,3,13,1848,10,31,1848,3249,"[300, -8]","['Austria', 'Viennese']",{2}
+552,Second French Insurrection,4,6,23,1848,6,26,1848,2800,"[220, -8]","['France', 'Radicals']",{2}
+334,First Dutch-Bali,3,4,12,1848,6,14,1849,2300,"[210, -8]","['Netherlands', 'Bali']",{7}
+547,Second Two Sicilies,4,1,12,1848,1,27,1848,1491,"[329, -8]","['Two Sicilies', 'Liberals']",{2}
+548,First Venezuelan,4,2,4,1848,8,15,1849,1491,"[101, -8]","['Venezuela', 'Paez led Conservatives ']",{1}
+551,Milan Five Day Revolt,5,3,18,1848,3,23,1848,1030,"[300, -8]","['Austria', 'Milan']",{2}
+553,"Mayan Caste War, Phase 2",5,8,17,1848,3,4,1855,-18,"[70, -8]","['Mexico', 'Yucatan Maya']",{1}
+336,Chinese Pirates,3,10,20,1849,10,22,1849,2800,"[200, -8]","['United Kingdom', 'Chinese Pirates']",{7}
+16,Roman Republic,1,4,8,1849,7,2,1849,2600,"[220, 329, 300, 327]","['France', 'Two Sicilies', 'Austria', 'Papal States']",{2}
+337,Second British-Xhosa,2,12,24,1850,4,8,1852,7400,"[200, -8]","['United Kingdom', 'Xhosa']",{4}
+555,First Chilean,4,9,5,1851,12,15,1851,4000,"[155, -8]","['Chile', 'Liberals']",{1}
+338,Ottoman-Yam,3,4,21,1851,7,9,1851,1591,"[640, -8]","['Turkey/Ottoman Empire/Egypt', 'Yam']",{6}
+19,La Plata,1,7,19,1851,2,3,1852,1300,"[160, 140]","['Argentina', 'Brazil']",{1}
+339,Second British-Burmese,3,4,5,1852,11,20,1852,1200,"[200, -8]","['United Kingdom', 'Burma']",{7}
+556,First Turco-Montenegrin,5,12,2,1852,3,13,1853,-18,"[640, -8]","['Ottoman Empire', 'Montenegro & Hercegovina']",{2}
+22,Crimean,1,1,10,1853,3,1,1856,264200,"[640, 365, 220, 200, 325]","['Turkey', 'Russia', 'France', 'United Kingdom', 'Italy']",{2}
+557,First Peru,4,12,21,1853,1,7,1855,-18,"[135, -8]","['Peru', 'Liberals']",{1}
+340,French-Tukulor War,3,-9,-9,1854,7,15,1857,2100,"[220, -8]","['France', 'Tukulor']",{4}
+341,British-Santal,2,-9,-9,1855,-9,-9,1856,14991,"[200, -8]","['United Kingdom', 'Santal']",{7}
+558,Puebla War,4,12,11,1855,3,21,1856,3600,"[70, -8]","['Mexico', 'Puebla']",{1}
+342,Hodeida Seige,2,1,22,1856,2,22,1856,16700,"[640, -8]","['Ottoman Empire', 'Beni Aseer tribe']",{6}
+343,Second Opium,3,10,22,1856,10,24,1860,3300,"[200, 220, -8]","['United Kingdom', 'France', 'China']",{7}
+25,Anglo-Persian,1,10,25,1856,4,5,1857,2000,"[200, 630]","['United Kingdom', 'Iran']",{6}
+345,French Conquest of Kabylia,2,5,17,1856,12,-9,1857,991,"[220, -8]","['France', 'Kabylia']",{4}
+560,Second Peru,4,10,31,1856,3,7,1858,-18,"[135, -8]","['Peru', 'Conservatives']",{1}
+347,Indian Mutiny,2,5,10,1857,4,7,1859,22500,"[200, -8]","['United Kingdom', 'Indian sepoys']",{7}
+562,Second Turco-Montenegrin,5,5,4,1858,6,1,1859,4400,"[640, -8]","['Ottoman Empire', 'Montenegrins']",{2}
+349,First Franco-Vietnamese,3,8,31,1858,6,5,1862,4000,"[220, -8]","['France', 'Vietnam']",{7}
+561,Mexican Reform,4,2,15,1858,1,1,1861,-18,"[70, -8]","['Mexico', 'Liberals']",{1}
+28,Italian Unification,1,4,3,1859,7,12,1859,22500,"[325, 300, 220]","['Sardinia/Piedmont', 'Austria', 'France']",{2}
+563,Second Venezuelan/Federalist,4,2,1,1859,5,23,1863,20000,"[101, -8]","['Venezuela', 'Liberals']",{1}
+31,First Spanish-Moroccan,1,10,22,1859,3,25,1860,10000,"[600, 230]","['Morocco', 'Spain']",{6}
+350,Netherlands-Bone,3,2,20,1859,1,20,1860,1000,"[210, -8]","['Netherlands', 'Bone']",{7}
+351,Argentine-Buenos Aires,3,5,29,1859,10,23,1859,1000,"[160, -8]","['Argentina', 'Buenos Aires']",{1}
+567,"Taiping Rebellion, Phase 2",4,3,1,1860,8,9,1866,111025,"[710, -8, 200]","['China', 'Taipings', 'United Kingdom']",{7}
+566,Second Maronite-Druze,7,5,26,1860,7,12,1860,9500,"[-8, -8]","['Maronites', 'Druze']",{6}
+352,Garibaldi Expedition,3,5,11,1860,10,14,1860,6000,"[329, -8]","['Two Sicilies', 'Red Shirts']",{2}
+34,Italian-Roman,1,9,11,1860,9,29,1860,1000,"[325, 327]","['Sardinia/Piedmont', 'Papal States']",{2}
+37,Neapolitan,1,10,15,1860,2,13,1861,1000,"[329, 325]","['Two Sicilies', 'Sardinia/Piedmont']",{2}
+565,Second Colombian,4,5,15,1860,7,18,1861,-18,"[100, -8]","['Colombia', 'Liberals']",{1}
+568,Second Nien Revolt,5,10,25,1860,8,16,1868,-18,"[710, -8]","['China', 'Niens']",{7}
+570,Miao Revolt Phase 2,5,10,25,1860,5,1,1872,-18,"[710, -8]","['China', 'Miaos']",{7}
+571,Panthay Rebellion Phase 2,5,10,25,1860,12,26,1872,-18,"[710, -8]","['China', 'Muslims (Hui)']",{7}
+572,U.S. Civil War,5,4,10,1861,4,9,1865,618000,"[2, -8]","['United States of America', 'Confederacy']",{1}
+573,Third Buenos Aires,5,8,20,1861,12,2,1861,1000,"[160, -8]","['Argentina', 'Buenos Aires']",{1}
+575,Third Turco-Montenegrin,5,12,-9,1861,8,31,1862,-18,"[640, -8]","['Turkey', 'Montenegro']",{2}
+40,Franco-Mexican,1,4,16,1862,2,5,1867,20000,"[70, 220]","['Mexico', 'France']",{1}
+577,Sioux-Minnesota,6,8,17,1862,9,26,1862,1068,"[-8, -8]","['Santee Sioux', 'Settlers & militia']",{1}
+576,Tungan Rebellion,5,5,-9,1862,10,24,1873,-18,"[710, -8]","['China', 'Muslims  in Sinkiang']",{7}
+578,Bolivan Perez Rebellion,4,9,15,1862,9,15,1862,-18,"[145, -8]","['Boliva', ""Gregorio Perez's followers""]",{1}
+353,Spanish-Santo Dominican,2,4,-9,1863,5,3,1865,32000,"[230, -8]","['Spain', 'Santo Domingo']",{1}
+580,Second Polish,5,1,22,1863,4,19,1864,16500,"[365, -8]","['Russia', 'Poles']",{2}
+355,British-Maori,2,6,4,1863,1,14,1866,2700,"[200, -8]","['United Kingdom', 'New Zealand Maori']",{9}
+357,British Umbeyla Campaign,3,10,20,1863,12,21,1863,2400,"[200, -8]","['United Kingdom', 'Pathan tribe']",{7}
+356,Shimonoseki War,3,6,5,1863,9,7,1864,1026,"[2, 220, -8, 200, 210]","['United States', 'France', 'Choshu Daimyo', 'United Kingdom', 'Netherlands']",{7}
+43,Ecuadorian-Colombian,1,11,22,1863,12,6,1863,1000,"[100, 130]","['Colombia', 'Ecuador']",{1}
+581,Second Argentina,4,4,2,1863,11,12,1863,-18,"[160, -8]","['Argentina', 'Montoneros']",{1}
+49,Lopez,1,3,5,1864,3,1,1870,310000,"[150, 140, 160]","['Paraguay', 'Brazil', 'Argentina']",{1}
+46,Second Schleswig-Holstein,1,2,1,1864,7,20,1864,4481,"[255, 390, 300]","['Germany', 'Denmark', 'Austria']",{2}
+359,Russian-Kokand,3,4,24,1864,6,17,1865,1620,"[365, -8]","['Russia', 'Kokand']",{7}
+582,Xinjiang Muslim Revolt,5,6,-9,1864,7,3,1871,-27,"[710, -8, 365]","['China', 'Muslims', 'Russia']",{7}
+52,Naval War,1,1,14,1865,5,9,1866,1000,"[155, 230, 135]","['Chile', 'Spain', 'Peru']",{1}
+360,British-Bhutanese,3,1,-9,1865,11,11,1865,1000,"[200, -8]","['United Kingdom', 'Bhutan']",{7}
+55,Seven Weeks,1,6,15,1866,7,29,1866,44100,"[325, 275, 271, 245, 300, 255, 280, 273, 269, 267, 240]","['Italy', 'Hesse Grand Ducal', 'Wuerttemburg', 'Bavaria', 'Austria', 'Germany', 'Mecklenburg Schwerin', 'Hesse Electoral', 'Saxony', 'Baden', 'Hanover']",{2}
+361,Russian-Bukharan,3,1,12,1866,10,18,1866,1100,"[365, -8]","['Russia', 'Bukhara']",{7}
+583,First  Cretan,5,5,29,1866,2,22,1867,-18,"[640, -8]","['Ottoman Empire', 'Cretans']",{2}
+585,Yellow Cliff Revolt,5,10,-9,1866,10,-9,1866,-18,"[710, -8]","['China', ""Zhang Jizhong's followers""]",{7}
+586,Third Argentina,4,12,15,1866,10,15,1867,-18,"[160, -8]","['Argentina', 'Montoneros']",{1}
+587,Queretaro,4,2,6,1867,5,14,1867,2500,"[70, -8]","['Mexico', 'Liberals']",{1}
+362,British-Ethiopian,3,12,-9,1867,4,13,1868,1200,"[200, -8]","['United Kingdom', 'Ethiopians']",{4}
+363,First Spanish-Cuban,2,10,10,1868,2,11,1878,150000,"[230, -8]","['Spain', 'Cuba']",{1}
+588,Meiji Restoration,4,1,3,1868,7,4,1868,-18,"[740, -8]","['Japan', 'Tokugawa']",{7}
+590,Third Venezuelan,4,1,11,1868,1,7,1871,-18,"[101, -8]","['Venezuela', 'Conservatives']",{1}
+591,Spanish Liberals,4,9,18,1868,9,29,1868,-18,"[230, -8]","['Spain', 'Liberals']",{2}
+364,Attack on Bahr el-Ghazal,3,-9,-9,1869,-9,-9,1870,1491,"[651, -8]","['Egypt', 'Bahr el-Ghazal']",{6}
+592,Guerre des Cacos,4,2,-9,1869,12,18,1869,-18,"[41, -8]","['Haiti', 'Black peasants']",{1}
+58,Franco-Prussian,1,7,19,1870,11,26,1871,204313,"[271, 267, 255, 245, 220]","['Wuerttemburg', 'Baden', 'Germany', 'Bavaria', 'France']",{2}
+365,Ottoman Conquest of Arabia,3,11,30,1870,12,30,1872,5500,"[640, -8]","['Ottoman Empire', 'Yemen, Asir, Hasa']",{6}
+593,Fourth Argentina,5,5,20,1870,3,13,1871,-18,"[160, -8]","['Argentina', 'Entre Rios Province']",{1}
+595,Bolivia-Criollos,4,11,24,1870,1,15,1871,-18,"[145, -8]","['Bolivia', 'Crillos']",{1}
+596,Paris Commune,4,4,2,1871,5,29,1871,25879,"[220, -8]","['France', 'Communards']",{2}
+366,Second Franco-Algerian,2,3,-9,1871,1,-9,1872,12686,"[220, -8]","['France', 'Algeria']",{6}
+597,Third Carlist,4,4,20,1872,2,20,1876,50000,"[230, -8]","['Spain', 'Carlists']",{2}
+370,First Dutch-Achinese,3,3,26,1873,10,13,1878,23000,"[210, -8]","['Netherlands', 'Aceh']",{7}
+367,Second British-Ashanti,3,1,-9,1873,2,4,1874,1500,"[200, -8]","['United Kingdom', 'Ashanti']",{4}
+369,Second Franco-Vietnamese,3,11,20,1873,-9,-9,1874,1000,"[220, -8]","['France', 'Vietnam']",{7}
+598,Catonalist Uprising,5,-9,-9,1874,1,-9,1875,-18,"[230, -8]","['Spain', 'Rebel cities (cantons)']",{2}
+600,Fifth Argentina,4,9,-9,1874,11,6,1874,-18,"[160, -8]","['Argentina', 'Mitre led Rebels']",{1}
+601,Bosnia & Bulgaria Revolt,5,6,30,1875,6,29,1876,9000,"[640, -8]","['Ottoman Empire', 'Bosnia & Bulgaria']",{2}
+372,Egyptian-Ethiopian,3,9,-9,1875,3,9,1876,8800,"[651, -8]","['Egypt', 'Ethiopia']",{4}
+371,Kokand Rebellion,3,8,9,1875,2,28,1876,4900,"[365, -8]","['Russia', 'Kokand']",{7}
+373,Serbian-Turkish,3,6,30,1876,4,23,1877,4991,"[640, -8]","['Ottoman Empire', 'Serbia, Montenegro']",{2}
+60,First Central American,1,3,27,1876,4,25,1876,4000,"[90, 92]","['Guatemala', 'El Salvador']",{1}
+605,Third Colombian,4,7,26,1876,7,1,1877,3870,"[100, -8]","['Colombia', 'Conservatives']",{1}
+602,Diaz Revolt,4,3,-9,1876,11,23,1876,1891,"[70, -8]","['Mexico', 'Rebels']",{1}
+603,Defeat of Xinjiang Muslims,5,4,-9,1876,12,1,1877,-18,"[710, -8]","['China', 'Muslims']",{7}
+61,Second Russo-Turkish,1,4,24,1877,1,31,1878,285000,"[640, 365]","['Turkey', 'Russia']",{11}
+607,Satsuma Rebellion,5,1,29,1877,9,24,1877,17000,"[740, -8]","['Japan', 'Satsumas']",{7}
+374,Third British-Xhosa,2,8,-9,1877,6,-9,1878,3900,"[200, -8]","['United Kingdom', 'S. Africa Xhosa']",{4}
+379,Second British-Afghan,3,11,21,1878,9,2,1880,21000,"[200, -8]","['United Kingdom', 'Afghanistan']",{7}
+376,Russo-Turkoman,3,5,-9,1878,1,24,1881,10000,"[365, -8]","['Russia', 'Turkomans']",{7}
+377,Austrian-Bosnian,3,7,29,1878,10,1,1878,6000,"[300, -8]","['Austria-Hungary', 'Bosnia']",{2}
+375,Egypt-Sudanese Slavers,3,2,-9,1878,7,-9,1879,3991,"[651, -8]","['Egypt', 'Sudanese Slavers']",{6}
+64,War of the Pacific,1,2,5,1879,12,23,1883,13868,"[155, 135, 145]","['Chile', 'Peru', 'Bolivia']",{1}
+380,Second British-Zulu,3,1,11,1879,7,4,1879,10500,"[200, -8]","['United Kingdom', 'Zulu']",{4}
+608,Argentine Indians,5,4,6,1879,7,8,1880,1700,"[160, -8]","['Argentina', 'Indians']",{1}
+381,Gun War,2,9,-9,1880,4,-9,1881,1391,"[200, -8]","['United Kingdom', 'Basuto']",{4}
+610,Fourth Buenos Aires,5,6,21,1880,7,21,1880,1200,"[160, -8]","['Argentina', 'Buenos Aires']",{1}
+382,First Boer War,2,12,16,1880,4,5,1881,1000,"[200, -8]","['United Kingdom', 'Transvaal']",{4}
+384,First British-Mahdi,2,8,-9,1881,9,22,1885,47000,"[651, 200, -8]","['Egypt', 'United Kingdom', 'Mahdist Empire']",{6}
+383,Franco-Tunisian,3,6,-9,1881,4,4,1882,3491,"[220, -8]","['France', 'Tunisia']",{6}
+65,Conquest of Egypt,1,7,11,1882,9,15,1882,10079,"[651, 200]","['Egypt', 'United Kingdom']",{6}
+385,Third Franco-Vietnamese,3,4,14,1882,6,14,1884,7500,"[220, -8, 710]","['France', 'Vietnam, Black Flag', 'China']",{7}
+611,Haitian Civil War,4,3,27,1883,1,8,1884,8100,"[41, -8]","['Haiti', 'Liberals']",{1}
+386,First Franco-Madagascan,3,5,7,1883,12,12,1885,1000,"[220, -8]","['France', 'Madagasar']",{4}
+67,Sino-French,1,6,15,1884,6,9,1885,12100,"[220, 710]","['France', 'China']",{7}
+612,Fourth Colombian,4,11,15,1884,8,26,1885,1000,"[100, -8]","['Colombia', 'Liberals']",{1}
+387,Third British-Burmese,3,11,10,1885,-9,-9,1889,6000,"[200, -8]","['United Kingdom', 'Burma']",{7}
+391,Serbian-Bulgarian,3,11,2,1885,12,7,1885,5000,"[345, -8]","['Serbia', 'Bulgaria']",{2}
+613,Peru's National Problem,5,3,2,1885,5,25,1885,2200,"[135, -8]","['Peru', 'Indians']",{1}
+70,Second Central American,1,3,28,1885,4,15,1885,1000,"[92, 90]","['El Salvador', 'Guatemala']",{1}
+389,French-Mandinka,3,-9,-9,1885,-9,-9,1886,991,"[220, -8]","['France', 'Mandinka']",{4}
+390,Russo-Afghan,3,3,30,1885,4,-9,1885,991,"[365, -8]","['Russia', 'Afghanistan']",{7}
+392,First Italian-Ethiopian,3,1,24,1887,3,-9,1887,1400,"[325, -8]","['Italy', 'Ethiopia']",{4}
+393,Zambezi Conquest,3,-9,-9,1888,-9,-9,1888,5991,"[235, -8]","['Portugal', 'Prazero da Cruz']",{4}
+395,Franco-Jolof,3,4,-9,1890,2,24,1891,3100,"[220, -8]","['France', 'Jolof/Tukulor']",{4}
+394,First Franco-Dahomeyan,3,3,1,1890,4,20,1890,1000,"[220, -8]","['France', 'Dahomey']",{4}
+616,First Yemen Rebellion,5,4,-9,1890,9,-9,1892,-18,"[640, -8]","['Ottoman Empire', 'Zaidi Imam']",{6}
+618,Zaili-Jinden Revolt,5,11,11,1891,12,27,1891,10500,"[710, -8]","['China', 'Zaili & Jindan Sects']",{7}
+617,Second Chilean,4,1,7,1891,8,29,1891,1700,"[155, -8]","['Chile', 'Congressists']",{1}
+397,Belgian-Tib,3,10,-9,1892,2,-9,1894,20000,"[211, -8]","['Belgium', 'Tippu Tib Empire']",{4}
+396,Second Franco-Dahomeyan,3,9,19,1892,11,9,1893,1880,"[220, -8]","['France', 'Dahomey']",{4}
+400,Mahdist-Italian,3,12,21,1893,7,12,1894,5270,"[325, -8]","['Italy', 'Mahdist Empire']",{4}
+399,Melilla War,3,9,29,1893,3,5,1894,2500,"[230, -8]","['Spain', 'Rif tribes']",{6}
+620,Brazil Federalists,5,2,2,1893,8,31,1894,1491,"[140, -8]","['Brazil', 'Rio Grande do Sul']",{1}
+398,Third British-Ashanti,3,9,28,1893,-9,-9,1894,1000,"[200, -8]","['United Kingdom', 'Ashanti']",{4}
+621,Brazil Naval,4,9,6,1893,4,16,1894,991,"[140, -8]","['Brazil', 'Naval Royalists']",{1}
+73,First Sino-Japanese,1,7,25,1894,3,30,1895,15000,"[710, 740]","['China', 'Japan']",{7}
+401,Second Franco-Madagascan,3,6,16,1894,10,1,1895,8000,"[220, -8]","['France', 'Madagasar']",{4}
+402,Second Dutch-Bali,3,7,-9,1894,11,22,1894,3000,"[210, -8]","['Netherlands', 'Bali']",{7}
+625,Third Peru,4,10,15,1894,3,19,1895,-18,"[135, -8]","['Peru', 'Liberals']",{1}
+623,Tonghak Rebellion,4,2,24,1894,11,28,1894,-27,"[740, 730, -8]","['Japan', 'Korea', 'Tonghak Society']",{7}
+404,Second Spanish-Cuban,2,2,24,1895,4,21,1898,79000,"[230, -8]","['Spain', 'Cuba']",{1}
+407,Second Italian-Ethiopian,3,12,7,1895,10,21,1896,16000,"[325, -8]","['Italy', 'Ethiopia']",{4}
+405,Japan-Taiwanese,2,5,29,1895,10,21,1895,12560,"[740, -8]","['Japan', 'Taiwanese']",{7}
+403,Portuguese-Gaza Empire,3,2,1,1895,12,28,1895,2050,"[235, -8]","['Portugal', 'Gaza Empire']",{4}
+626,Fifth Colombian,4,1,22,1895,3,15,1895,1200,"[100, -8]","['Colombia', 'Liberals']",{1}
+406,Mazrui Rebellion,3,7,3,1895,4,21,1896,1000,"[200, -8]","['United Kingdom', 'Mazrui clan of Kenya']",{4}
+627,Ecuador Liberals,4,2,18,1895,9,22,1895,1000,"[130, -8]","['Ecuador', 'liberal caudillos']",{1}
+628,First Gansu Muslim,5,4,-9,1895,4,-9,1896,-18,"[710, -8]","['China', 'Gansu Muslims']",{7}
+630,Druze-Turkish,5,10,-9,1895,-9,-9,1896,-18,"[640, -8]","['Ottoman Empire', 'Druze']",{6}
+409,Second British-Mahdi,3,6,7,1896,11,24,1899,19200,"[200, -8]","['United Kingdom', 'Mahdist Empire']",{6}
+410,Spanish-Philippine,2,8,30,1896,5,1,1898,8000,"[230, -8]","['Spain', 'Philippines']",{7}
+632,Third Brazil-Canudos,5,10,1,1896,10,5,1897,5200,"[140, -8]","['Brazil', 'Canudos']",{1}
+631,Second Cretan,5,3,10,1896,2,14,1897,-18,"[640, -8]","['Ottoman Empire', 'Cretan Muslims']",{2}
+76,Greco-Turkish,1,2,15,1897,5,19,1897,2000,"[350, 640]","['Greece', 'Turkey']",{2}
+412,British-Pathan,2,7,26,1897,3,7,1898,1091,"[200, -8]","['United Kingdom', 'Pathans']",{7}
+411,British-South Nigerian,3,1,6,1897,2,25,1897,1020,"[200, -8]","['United Kingdom', 'Nigeria']",{4}
+79,Spanish-American,1,4,22,1898,8,12,1898,3685,"[230, 2]","['Spain', 'United States of America']",{13}
+413,Hut Tax,2,2,-9,1898,5,-9,1898,2000,"[200, -8]","['United Kingdom', 'Sierra Leone rebels']",{4}
+636,Sixth Colombian (War of the 1000 Days),4,10,17,1899,11,21,1902,100000,"[100, -8]","['Colombia', 'Liberals']",{1}
+416,Second Boer War,3,10,11,1899,5,31,1902,30800,"[200, -8]","['United Kingdom', 'Boer Republics']",{4}
+414,American-Philippine,2,2,4,1899,7,4,1902,20500,"[2, -8]","['United States of America', 'Philippines']",{7}
+633,Fourth Venezuelan,4,5,24,1899,10,22,1899,2100,"[101, -8]","['Venezuela', 'Castro Led Rebels']",{1}
+635,Second Yaqui War,5,7,21,1899,1,18,1900,1600,"[70, -8]","['Mexico', 'Yaqui Indians']",{1}
+415,French Conquest of Chad,3,7,17,1899,4,22,1900,1025,"[220, -8]","['France', 'Rabih az-Zubayr']",{4}
+83,Sino-Russian,1,7,17,1900,10,10,1900,4000,"[365, 710]","['Russia', 'China']",{7}
+82,Boxer Rebellion,1,6,17,1900,8,14,1900,3003,"[365, 740, 2, 710, 200, 220]","['Russia', 'Japan', 'United States of America', 'China', 'United Kingdom', 'France']",{7}
+417,Last Ashanti War,3,4,2,1900,9,30,1900,2000,"[200, -8]","['United Kingdom', 'Ashanti']",{4}
+419,Somali Rebellion,2,3,22,1901,4,21,1904,4391,"[200, 530, -8]","['United Kingdom', 'Ethiopia', 'Mohammad Abdullah Hassan’s Dervishes']",{4}
+638,Fifth Venezuelan,4,12,19,1901,7,19,1903,4000,"[101, -8]","['Venezuela', 'Matos Led Rebels']",{1}
+421,Kuanhama Rebellion,3,-9,-9,1902,-9,-9,1904,4000,"[235, -8]","['Portugal', 'Kuanhama of Angola']",{4}
+420,Bailundu Revolt,3,-9,-9,1902,-9,-9,1903,-18,"[235, -8]","['Portugal', 'Bailundu of Angola']",{4}
+640,Ilinden,5,8,2,1903,11,2,1903,6330,"[640, -8]","['Ottoman Empire', 'IMRO Rebels']",{2}
+422,British Conquest of Kano & Sokoto,3,1,29,1903,7,27,1903,1091,"[200, -8]","['United Kingdom', 'Kano & Sokoto']",{4}
+85,Russo-Japanese,1,2,8,1904,9,15,1905,151831,"[740, 365]","['Japan', 'Russia']",{7}
+642,Second Yemen Rebellion,5,11,8,1904,1,10,1906,29991,"[640, -8]","['Ottoman Empire', ""Imam Yahya's forces""]",{6}
+424,Second Dutch-Achinese,2,-9,-9,1904,12,-9,1907,24200,"[210, -8]","['Netherlands', 'Aceh']",{7}
+423,South West African Revolt,2,1,12,1904,5,4,1906,12800,"[255, -8]","['Germany', 'Herero & Nama']",{4}
+425,Younghusband Expedition,3,3,31,1904,9,7,1904,2800,"[200, -8]","['United Kingdom', 'Tibet']",{7}
+641,First Uruguay,4,1,1,1904,9,1,1904,-18,"[165, -8]","['Uruguay', 'Blancos']",{1}
+426,Maji-Maji Revolt,2,7,31,1905,6,-9,1906,8840,"[255, -8]","['Germany', 'Maji-Maji in Tanganyika']",{4}
+643,Bloody Sunday,4,1,22,1905,1,1,1906,1491,"[365, -8]","['Russia', 'Workers/Peasants']",{2}
+429,Third British-Zulu,2,3,5,1906,6,10,1906,2356,"[200, -8]","['United Kingdom', 'Zulu']",{4}
+427,Sokoto Uprising,2,1,-9,1906,3,10,1906,2080,"[200, -8]","['United Kingdom', 'Mahdist rebels']",{4}
+88,Third Central American,1,5,27,1906,7,20,1906,1000,"[91, 92, 90]","['Honduras', 'El Salvador', 'Guatemala']",{1}
+432,Japan-Korean Guerrillas,2,8,1,1907,8,16,1910,17736,"[740, -8]","['Japan', 'Korea']",{7}
+430,Dembos War,3,-9,-9,1907,-9,-9,1910,5100,"[235, -8]","['Portugal', 'Dembos']",{4}
+431,Anti-Foreign Revolt,3,7,30,1907,-9,-9,1910,3150,"[220, -8]","['France', 'Sheikh Ma Al-Ainie']",{4}
+645,Romanian Peasant Revolt,4,3,15,1907,4,30,1907,1991,"[360, -8]","['Romania', 'Peasants']",{2}
+646,Overthrow of Abd el-Aziz,4,8,1,1907,9,15,1908,1400,"[220, 600, -8]","['France', 'Morocco', 'Mulai el-Hafid']",{6}
+91,Fourth Central American,1,2,19,1907,4,23,1907,1000,"[93, 92, 91]","['Nicaragua', 'El Salvador', 'Honduras']",{1}
+647,Iranian Constitution War,4,4,23,1908,7,17,1909,82,"[630, -8, 365]","['Iran', 'Constitutionalists', 'Russia']",{6}
+433,French Conquest of Wadai,3,5,-9,1909,-9,-9,1911,12000,"[220, -8]","['France', 'Wadai sultanate']",{4}
+94,Second Spanish-Moroccan,1,7,7,1909,3,23,1910,10000,"[230, 600]","['Spain', 'Morocco']",{6}
+648,Young Turks Counter-coup,4,4,14,1909,4,28,1909,-18,"[640, -8]","['Ottoman Empire', 'Anti-government troops']",{6}
+652,Third Mexican,4,11,20,1910,7,15,1914,93750,"[70, -8]","['Mexico', 'Liberals & Radicals']",{1}
+651,Asir-Yemen Revolt,5,10,15,1910,10,9,1911,9000,"[640, -8]","['Ottoman Empire', 'Yemen & Asir Imam Ibn Idris & Sayyid Muhammad']",{6}
+650,Second Albanian Revolt,5,3,-9,1910,10,16,1912,-18,"[640, -8]","['Ottoman Empire', 'Albania']",{2}
+97,Italian-Turkish,1,9,29,1911,10,18,1912,20000,"[325, 640]","['Italy', 'Turkey']",{6}
+656,Paraguay,4,7,15,1911,5,11,1912,5000,"[150, -8]","['Paraguay', 'Radicals']",{1}
+657,First Nationalist,4,10,11,1911,12,31,1911,1000,"[710, -8]","['China', 'Nat. Rel. Alliance']",{7}
+100,First Balkan,1,10,17,1912,4,19,1913,82000,"[640, 350, 355, 345]","['Turkey', 'Greece', 'Bulgaria', 'Yugoslavia']","{2, 11}"
+434,French-Berber,2,3,31,1912,9,6,1912,3600,"[220, -8]","['France', 'Berbers']",{6}
+435,First Sino-Tibetan,2,3,-9,1912,1,-9,1913,1991,"[710, -8]","['China', 'Tibet']",{7}
+658,Cuban Black Uprising,5,5,20,1912,6,27,1912,1050,"[40, -8]","['Cuba', 'Patri do Indepentente']",{1}
+670,Ecuadorian Civil War,5,-9,-9,1912,-9,-9,1914,-18,"[130, -8]","['Ecuador', 'Esmeraldas province']",{1}
+103,Second Balkan,1,6,11,1913,7,30,1913,60500,"[640, 345, 350, 355, 360]","['Turkey', 'Yugoslavia', 'Greece', 'Bulgaria', 'Romania']",{2}
+436,Moroccan Berber,2,3,-9,1913,12,16,1915,1883,"[220, 230, -8, -8]","['France', 'Spain', 'Berbers', 'Berbers']",{6}
+437,Moro Rebellion,2,6,11,1913,10,22,1913,1550,"[2, -8]","['United States', 'Moro']",{7}
+671,Second Nationalist,4,7,12,1913,9,1,1913,-18,"[710, -8]","['China', 'Republicans']",{7}
+106,World War I,1,3,1,1914,12,30,1918,8578031,"[345, 365, 200, 740, 640, 211, 255, 300, 220, 355, 325, 235, 360, 350, 2]","['Yugoslavia', 'Russia', 'United Kingdom', 'Japan', 'Turkey', 'Belgium', 'Germany', 'Austria-Hungary', 'France', 'Bulgaria', 'Italy', 'Portugal', 'Romania', 'Greece', 'United States of America']","{2, 6, 7, 11, 14, 15}"
+673,Fourth Mexican,4,3,15,1914,7,28,1920,31265,"[70, -8, 2]","['Mexico', 'Conventionists', 'United States']",{1}
+672,China Pai Ling (White Wolf),5,3,15,1914,9,15,1914,-18,"[710, -8]","['China', 'Pai-Lings']",{7}
+676,Russia-Turkestan,5,7,4,1916,2,27,1917,1350,"[365, -8]","['Russia', 'Kirghiz & Kazaks']",{2}
+675,Southern China Revolt,5,1,-9,1916,11,17,1918,-18,"[710, -8]","['China', 'Yunnan Rebels']",{7}
+677,Russian Civil War,4,4,1,1917,10,30,1921,802225,"[365, -8, 740, 200, 2, 220, 375]","['USSR', 'Anti-Bolsheviks', 'Japan', 'United Kingdom', 'United States of America', 'France', 'Finland']",{2}
+680,Finnish Civil War,4,1,3,1918,5,30,1918,15150,"[255, 375, 365, -8]","['Germany', 'Finland', 'USSR', 'Red Guard']",{2}
+108,Latvian Liberation,1,1,1,1918,7,15,1920,13246,"[255, 365, 367, 255, 366]","['Germany', 'Russia', 'Latvia', 'Germany', 'Estonia']",{2}
+107,Estonian Liberation,1,11,22,1918,1,3,1920,11750,"[366, 375, 365]","['Estonia', 'Finland', 'Russia']",{2}
+441,Caco Revolt,2,10,17,1918,5,19,1920,2102,"[2, -8]","['United States', 'Caco Rebels']",{1}
+440,Second Sino-Tibetan,3,1,7,1918,8,-9,1918,1500,"[710, -8]","['China', 'Tibet']",{7}
+681,Western Ukrainian,6,11,1,1918,2,13,1919,-18,"[-8, -8]","['Ukraine Poles', 'Ukrainians']",{2}
+109,Russo-Polish,1,2,14,1919,10,18,1920,100000,"[365, 290]","['Russia', 'Poland']",{2}
+115,Second Greco-Turkish,1,5,5,1919,10,11,1922,50000,"[640, 350]","['Turkey', 'Greece']",{11}
+116,Franco-Turkish,1,11,1,1919,10,20,1921,40000,"[640, 220]","['Turkey', 'France']",{6}
+112,Hungarian Adversaries,1,4,16,1919,8,4,1919,11000,"[310, 315, 360]","['Hungary', 'Czechoslovakia', 'Romania']",{2}
+443,First British-Waziristan,3,5,26,1919,3,-9,1920,2400,"[200, -8]","['United Kingdom', 'Waziristan']",{7}
+682,Sparticist Rising,7,1,6,1919,5,-9,1919,2170,"[-8, -8]","['Socialists', 'German Freikorps']",{2}
+442,Third British-Afghan,3,5,3,1919,8,8,1919,2136,"[200, -8]","['United Kingdom', 'Afghanistan']",{7}
+683,Hungary's Red Terror,4,3,25,1919,2,15,1920,1500,"[310, -8]","['Hungary', 'Anti-Communists']",{2}
+445,Iraqi-British,2,6,5,1920,10,17,1920,9540,"[200, -8]","['United Kingdom', 'Iraq']",{6}
+686,Green Rebellion,5,8,-9,1920,8,-9,1921,6700,"[365, -8]","['USSR', 'Peasants in Ta']",{2}
+446,Conquest of Mongolia,3,5,10,1920,8,22,1921,4991,"[710, -8, 365]","['China', 'Baron von Ungern-Sternberg’s White army', 'USSR']",{7}
+444,Franco-Syrian,3,3,-9,1920,8,7,1920,3491,"[220, -8]","['France', 'Syrians']",{6}
+688,Italian Fascist,7,10,-9,1920,10,1,1922,3300,"[-8, -8]","['Blackshirts', 'Leftists']",{2}
+117,Lithuanian-Polish,1,7,15,1920,12,1,1920,1000,"[368, 290]","['Lithuania', 'Poland']",{2}
+685,First Chinese Warlord,7,7,14,1920,7,19,1920,-18,"[-8, -8]","['Anhui army', 'Chihli & Fengtien']",{7}
+687,Gilan Marxists,4,8,10,1920,11,11,1921,-27,"[630, 365, -8]","['Iran', 'USSR', 'SSRI']",{6}
+449,Rif Rebellion,2,4,1,1921,5,27,1926,70000,"[230, -8, 220]","['Spain', 'Riffs', 'France']",{6}
+691,Bashmachi in Turkestan,5,11,10,1921,7,-9,1923,3500,"[365, -8]","['USSR', 'Basmachi/Enver Pasha']",{2}
+690,Kronstadt Rebellion,5,3,7,1921,3,18,1921,2600,"[365, -8]","['USSR', 'Sailors']",{2}
+450,Moplah Rebellion,2,8,20,1921,2,-9,1922,2450,"[200, -8]","['United Kingdom', 'Muslim Moplahs']",{7}
+692,Second Chinese Warlord,7,4,8,1922,5,5,1922,-18,"[-8, -8]","['Chihli army', 'Fengtien army']",{7}
+447,Italian-Sanusi,2,3,23,1923,9,12,1931,40000,"[325, -8]","['Italy', 'Sanusi tribe']",{6}
+693,Agrarian Rising,4,9,23,1923,9,28,1923,-18,"[355, -8]","['Bulgaria', 'Agrarian League']",{2}
+695,De La Huerta Rebellion,4,12,4,1923,2,-9,1924,-18,"[70, -8]","['Mexico', 'Huerta Led Rebels']",{1}
+696,Honduran Conservative,4,2,9,1924,3,31,1924,-18,"[91, -8]","['Honduras', 'Conservatives']",{1}
+697,First Afghan Anti-Reform,4,3,15,1924,1,15,1925,-18,"[700, -8]","['Afghanistan', 'Khost rebels (anti-reformists)']",{7}
+451,Franco-Druze,2,7,18,1925,5,27,1927,6000,"[220, -8]","['France', 'Druze']",{6}
+698,Third Chinese Warlord,6,10,15,1925,4,20,1926,-18,"[-8, -8]","['Feng Yu-Lxiang army', 'Chang Tso-lin army']",{7}
+700,Chinese Northern Expedition,4,6,1,1926,6,30,1928,126500,"[710, -8, 740]","[""War Lord Gov't."", 'Guomindang', 'Japan']",{7}
+701,Cristeros Revolt,4,8,31,1926,6,21,1929,10000,"[70, -8]","['Mexico', 'Cristeros']",{1}
+705,Second Afghan Anti-Reform,4,11,10,1928,10,15,1929,15000,"[700, -8]","['Afghanistan', 'Habibullah (anti-reformists)']",{7}
+702,Ethiopian Northern Resistance,5,8,-9,1928,4,-9,1930,-18,"[530, -8]","['Ethiopia', 'Northern Resistance']",{6}
+703,Second Gansu Muslim,5,-9,-9,1928,-9,-9,1930,-18,"[710, -8]","['China', 'Gansu Muslims']",{7}
+708,Ikhwan Revolt,4,3,30,1929,1,10,1930,5500,"[670, -8]","['Saudi Arabia', 'Ikhwan']",{6}
+118,Manchurian,1,8,17,1929,12,3,1929,3200,"[365, 710]","['USSR', 'China']",{7}
+707,Escobar Rebellion,4,3,3,1929,5,4,1929,2000,"[70, -8]","['Mexico', 'Escobar Led Rebels']",{1}
+706,Intra-Guomindang,4,3,1,1929,11,4,1930,-18,"[710, -8]","['China', 'War Lords']",{7}
+710,"Chinese Civil War, Phase 1",4,11,15,1930,12,31,1936,500000,"[710, -8]","['China', 'Communists']",{7}
+453,Saya San's Rebellion,2,12,22,1930,6,-9,1932,1140,"[200, -8]","['United Kingdom', 'Peasant Rebels']",{7}
+452,Yen Bai Uprising,2,2,9,1930,-9,-9,1931,1001,"[220, -8]","['France', 'Vietnamese Nationalists']",{7}
+121,Second Sino-Japanese,1,12,19,1931,5,22,1933,60000,"[740, 710]","['Japan', 'China']",{7}
+711,Xinjiang Muslim Revolt,5,1,-9,1931,8,7,1934,21000,"[710, -8, 365]","['China', 'Central Asian Rebels', 'USSR']",{7}
+124,Chaco,1,6,15,1932,6,12,1935,92661,"[145, 150]","['Bolivia', 'Paraguay']",{1}
+712,Matanza,4,1,20,1932,1,29,1932,2600,"[92, -8]","['El Salvador', 'Leftists']",{1}
+713,Aprista Revolt,4,5,7,1932,7,17,1932,1100,"[135, -8]","['Peru', 'Aprista Rebels']",{1}
+715,Paulista Rebellion,4,6,9,1932,8,31,1932,-18,"[140, -8]","['Brazil', 'Paolistas']",{1}
+125,Saudi-Yemeni,1,3,20,1934,5,13,1934,2100,"[670, 678]","['Saudi Arabia', 'Yemen Arab Republic']",{6}
+717,Spanish Miners,5,10,4,1934,10,8,1934,1335,"[230, -8]","['Spain', 'Asturian Miners']",{2}
+716,Fukien Revolt,4,1,5,1934,1,15,1934,-18,"[710, -8]","['China', '19th Route Army']",{7}
+127,Conquest of Ethiopia,1,10,3,1935,5,9,1936,20000,"[325, 530]","['Italy', 'Ethiopia']",{4}
+718,Spanish Civil War,4,7,1,1936,3,29,1939,466300,"[230, -8, 235, 255, 325]","['Spain', 'Falange', 'Portugal', 'Germany', 'Italy']",{2}
+455,Second British-Waziristan,3,11,25,1936,1,8,1938,10200,"[200, -8]","['United Kingdom', 'Pathan tribes']",{7}
+454,British-Palestinian,2,4,20,1936,1,-9,1939,2576,"[200, -8]","['United Kingdom', 'Palestinians']",{6}
+130,Third Sino-Japanese,1,7,7,1937,12,6,1941,1000000,"[710, 740]","['China', 'Japan']",{7}
+133,Changkufeng,1,7,29,1938,8,11,1938,1726,"[365, 740]","['USSR', 'Japan']",{7}
+139,World War II,1,1,1,1939,9,28,1945,16634907,"[20, 200, 900, 920, 255, 290, 220, 560, 211, 220, 385, 210, 325, 350, 310, 345, 375, 2, 360, 355, 365, 740, 710, 530, 325, 360, 355, 140, 712]","['Canada', 'United Kingdom', 'Australia', 'New Zealand', 'Germany', 'Poland', 'France', 'South Africa', 'Belgium', 'France', 'Norway', 'Netherlands', 'Italy', 'Greece', 'Hungary', 'Yugoslavia', 'Finland', 'United States of America', 'Romania', 'Bulgaria', 'USSR', 'Japan', 'China', 'Ethiopia', 'Italy', 'Romania', 'Bulgaria', 'Brazil', 'Mongolia']","{2, 4, 7, 12, 14, 15, 16, 17, 19}"
+142,Russo-Finnish,1,11,30,1939,3,12,1940,151798,"[375, 365]","['Finland', 'USSR']",{2}
+136,Nomonhan,1,5,11,1939,9,16,1939,28000,"[365, 712, 740]","['USSR', 'Mongolia', 'Japan']",{7}
+145,Franco-Thai,1,12,1,1940,1,28,1941,1400,"[220, 800]","['France', 'Thailand']",{7}
+720,Greek Civil War,4,12,3,1944,10,16,1949,68207,"[200, 350, -8]","['United Kingdom', 'Greece', 'Communists']",{2}
+722,Ukrainian Partisans,5,5,8,1945,12,31,1947,34991,"[365, -8]","['USSR', 'UPA']",{2}
+723,Forest Brethren,5,5,8,1945,12,31,1951,32400,"[365, -8]","['USSR', 'Baltic Guerillas']",{2}
+721,Polish Ukrainians,5,5,8,1945,11,18,1947,24700,"[290, 365, -8]","['Poland', 'USSR', 'UPA']",{2}
+456,Indonesian,2,11,10,1945,10,15,1946,5400,"[200, 210, -8]","['United Kingdom', 'Netherlands', 'Indonesia']",{7}
+725,"Chinese Civil War, Phase 2",4,3,15,1946,4,21,1950,1200000,"[710, -8]","['China', 'Communists']",{7}
+457,French-Indochina,2,11,20,1946,6,1,1954,269500,"[220, -8]","['France', 'Vietminh']",{7}
+459,Third Franco-Madagascan,2,3,29,1947,12,1,1948,12200,"[220, -8]","['France', 'Madagascar']",{4}
+147,First Kashmir,1,10,26,1947,1,1,1949,3500,"[750, 770]","['India', 'Pakistan']",{7}
+726,Taiwan Revolt,5,2,28,1947,3,21,1947,1250,"[710, -8]","['China', 'Taiwanese']",{7}
+727,Paraguay,4,3,7,1947,8,20,1947,-18,"[150, -8]","['Paraguay', 'Leftists']",{1}
+731,"Seventh Colombian ""La Violencia""",4,4,9,1948,8,7,1958,29800,"[100, -8]","['Colombia', 'Liberals']",{1}
+460,Malayan Rebellion,2,6,18,1948,8,31,1957,9100,"[200, -8]","['United Kingdom', 'Malayan Communists']",{7}
+148,Arab-Israeli,1,5,15,1948,10,31,1949,8000,"[666, 651, 652, 660, 663, 645]","['Israel', 'Egypt', 'Syria', 'Lebanon', 'Jordan', 'Iraq']",{6}
+730,Costa Rica,4,3,12,1948,4,17,1948,2000,"[94, -8]","['Costa Rica', 'National Union Party']",{1}
+461,Indo-Hyderabad,3,9,13,1948,9,17,1948,1210,"[750, -8]","['India', 'Hyderabad']",{7}
+728,Yemeni Imamate,4,2,17,1948,3,20,1948,-18,"[678, -8]","['Yemen', 'Anti-Imam Coalition']",{6}
+732,First Burmese,5,8,15,1948,7,31,1951,-18,"[775, -8]","['Burma', 'Karens & Communists']",{7}
+151,Korean,1,1,1,1950,7,27,1953,910084,"[710, 20, 200, 640, 840, 731, 900, 732, 2, 211, 100, 210, 350, 220, 800, 530]","['China', 'Canada', 'United Kingdom', 'Turkey', 'Philippines', 'North Korea', 'Australia', 'South Korea', 'United States of America', 'Belgium', 'Colombia', 'Netherlands', 'Greece', 'France', 'Thailand', 'Ethiopia']",{7}
+462,Third Sino-Tibetan,3,5,-9,1950,10,28,1950,13200,"[710, -8]","['China', 'Tibet']",{7}
+735,Hukbalahap Rebellion,4,9,1,1950,5,-9,1954,11300,"[840, -8]","['Philippines', 'Huks']",{7}
+733,South Moluccas,5,5,31,1950,11,3,1950,-18,"[850, -8]","['Indonesia', 'Moluccans']",{7}
+464,British-Mau Mau,2,10,20,1952,10,-9,1956,17100,"[200, -8]","['United Kingdom', 'Mau Mau']",{4}
+463,Franco-Tunisian,2,1,18,1952,7,31,1954,3000,"[220, -8]","['France', 'Tunisia']",{6}
+737,Bolivia,4,4,8,1952,4,11,1952,-18,"[145, -8]","['Bolivia', 'Leftists']",{1}
+465,Moroccan Independence,2,8,20,1953,3,12,1956,3000,"[220, -8]","['France', 'Morocco']",{6}
+738,Indonesia Darul Islam,4,9,20,1953,11,23,1953,2700,"[850, -8]","['Indonesia', 'Darul Islam']",{7}
+466,Third Franco-Algerian,2,11,1,1954,3,17,1962,32000,"[220, -8]","['France', 'Algeria']",{6}
+153,Off-shore Islands,1,9,3,1954,4,23,1955,2370,"[710, 713]","['China', 'Taiwan']",{7}
+740,Argentine Military,4,6,15,1955,9,19,1955,-18,"[160, -8]","['Argentina', 'Military']",{1}
+742,Indonesian Leftists,4,12,15,1956,6,4,1962,27200,"[850, -8]","['Indonesia', 'Leftists']",{7}
+741,Tibetan Khamba Rebellion,5,3,1,1956,4,14,1959,16000,"[710, -8]","['China', 'Khamba Tibetans']",{7}
+155,Sinai War,1,10,29,1956,11,6,1956,3221,"[220, 666, 651, 200]","['France', 'Israel', 'Egypt', 'United Kingdom']",{6}
+156,Soviet Invasion of Hungary,1,11,4,1956,11,14,1956,2426,"[310, 365]","['Hungary', 'USSR']",{2}
+467,French-Cameroon,2,1,1,1957,1,5,1958,1900,"[220, -8]","['France', 'UPC']",{4}
+158,IfniWar,1,2,10,1957,4,10,1958,1122,"[230, 600, 220]","['Spain', 'Morocco', 'France']",{6}
+746,Second Burmese,4,11,-9,1958,4,-9,1960,3150,"[775, -8]","['Burma', 'Karens & Communists']",{7}
+745,Cuban Revolution,4,5,24,1958,1,2,1959,3000,"[40, -8]","['Cuba', 'Castroites']",{1}
+159,Taiwan Straits,1,8,23,1958,11,23,1958,1800,"[710, 713]","['China (PRC)', 'Taiwan (ROC)']",{7}
+743,First Lebanese,4,5,9,1958,9,15,1958,-17,"[2, 660, -8]","['United States of America', 'Lebanon', 'National Front']",{6}
+747,Iraq-Shammar,4,3,6,1959,3,10,1959,-18,"[645, -8]","['Iraq', 'Shammar Tribe & Pro-WesternOfficers']",{6}
+748,Vietnam Phase 1,4,1,1,1960,2,6,1965,100706,"[817, -8, 2]","['Vietnam, Republic of', 'NLF', 'United States of America']",{7}
+751,First Laotian,4,5,1,1960,7,15,1962,4991,"[812, -8, 816]","['Laos', 'Pathet Lao', 'Vietnam, Democratic Rep.']",{7}
+750,First DRC (Zaire),5,7,4,1960,9,14,1963,32,"[490, 211, -8]","['Zaire', 'Belgium', 'Katanga & Leftists']",{4}
+469,Angolan-Portuguese,2,2,3,1961,10,14,1974,29000,"[235, -8]","['Portugal', 'Angola']",{4}
+752,First Iraqi Kurd,5,9,11,1961,11,22,1963,2500,"[645, -8]","['Iraq', 'Kurds']",{6}
+755,North Yemen,4,11,15,1962,10,16,1969,9982,"[651, 678, -8]","['Egypt/United Arab Republic', 'Yemen Arab Republic', 'Royalists']",{6}
+160,Assam,1,10,20,1962,11,22,1962,1853,"[750, 710]","['India', 'China (PRC)']",{7}
+753,Algerian Revolutionaries,4,7,28,1962,1,15,1963,1500,"[615, -8]","['Algeria', 'ALN']",{6}
+756,Second Laotian Phase 1,4,3,19,1963,1,12,1968,20950,"[812, -8, 816, 2]","['Laos', 'Pathet Lao', 'Vietnam, Democratic Rep.', 'United States of America']",{7}
+761,First Rwanda,4,11,15,1963,2,6,1964,1000,"[517, -8]","['Rwanda', 'Watusi']",{4}
+758,First South Sudan,5,10,1,1963,2,28,1972,-18,"[625, -8]","['Sudan', 'Anya Nya']",{6}
+760,Second DRC (Jeunesse),5,10,-9,1963,1,1,1965,-18,"[490, -8]","['Congo', 'Juenesse warriors']",{4}
+757,First Ogaden,5,6,-9,1963,3,30,1964,-27,"[530, 520, -8]","['Ethiopia', 'Somalia', 'Ogaden']",{4}
+471,Mozambique-Portuguese,2,9,25,1964,6,25,1975,13500,"[235, -8]","['Portugal', 'Mozambique']",{4}
+762,Third DRC (Simba) Rebellion,4,1,1,1964,9,14,1965,4254,"[211, 490, -8]","['Belgium', 'Congo', 'Gbenye followers']",{4}
+763,Zanzibar Arab-African,4,1,12,1964,1,15,1964,-18,"[511, -8]","['Zanzibar', 'Africans']",{4}
+163,"Vietnam War, Phase 2",1,2,1,1965,12,30,1975,1021442,"[2, 732, 817, 816, 900, 840, 800, 811]","['United States of America', 'South Korea', 'South Vietnam', 'Vietnam', 'Australia', 'Philippines', 'Thailand', 'Cambodia']",{7}
+166,Second Kashmir,1,8,5,1965,9,23,1965,7061,"[750, 770]","['India', 'Pakistan']",{7}
+765,Second Iraqi Kurds,5,4,3,1965,6,21,1966,3000,"[645, -8]","['Iraq', 'Kurds']",{6}
+766,Dominican Republic,4,4,25,1965,9,6,1965,2518,"[2, 42, -8]","['United States of America', 'Dominican Republic', 'Leftists']",{1}
+767,First West Papua,5,7,26,1965,7,17,1969,-18,"[850, -8]","['Indonesia', 'OPM, West Papua']",{7}
+771,First Chad (FROLINAT) Rebellion,5,8,-9,1966,6,16,1971,3550,"[483, -8, 220]","['Chad', 'Frolinat Rebels', 'France']",{4}
+770,First Guatemala,4,10,-9,1966,8,-9,1968,1028,"[2, 90, -8]","['United States', 'Guatemala', 'Leftists']",{1}
+768,First Uganda,5,5,23,1966,6,1,1966,-18,"[500, -8]","['Uganda', 'Buganda Tribe']",{4}
+773,Third Burmese,5,6,-9,1967,10,22,1980,29200,"[775, -8]","['Burma', 'Karens & Communists']",{7}
+169,Six Day War,1,6,5,1967,6,10,1967,19600,"[666, 651, 663, 652]","['Israel', 'Egypt', 'Jordan', 'Syria']",{6}
+772,Cultural Revolution Phase 1,6,1,9,1967,9,4,1967,-18,"[-8, -8]","['Red Guard', 'Regional military']",{7}
+775,Biafra,5,7,6,1967,1,12,1970,-18,"[475, -8]","['Nigeria', 'Biafrans']",{4}
+776,Cultural Revolution Phase 2,4,9,5,1967,9,1,1968,-18,"[710, -8]","['China', 'Red Guard']",{7}
+170,"Second Laotian, Phase 2",1,1,13,1968,4,17,1973,13866,"[2, 812, 816, 800]","['United States of America', 'Laos', 'Vietnam', 'Thailand']",{7}
+172,War of Attrition,1,3,6,1969,8,7,1970,5368,"[651, 666]","['Egypt', 'Israel']",{6}
+777,Third Iraqi Kurds,5,1,3,1969,3,11,1970,4000,"[645, -8]","['Iraq', 'Kurds']",{6}
+175,Football War,1,7,14,1969,7,18,1969,1900,"[91, 92]","['Honduras', 'El Salvador']",{1}
+176,Communist Coalition,1,3,1,1970,7,2,1971,6525,"[816, 2, 811, 817]","['Vietnam', 'United States of America', 'Cambodia', 'South Vietnam']",{7}
+780,Black September,4,9,13,1970,9,24,1970,3540,"[663, 652, -8]","['Jordan', 'Syria', 'Palestinians']",{6}
+778,Naxalite Rebellion,5,2,-9,1970,11,-9,1971,2100,"[750, -8]","['India', 'Naxalite Marxists']",{7}
+781,Second Guatemala,4,11,15,1970,9,15,1971,1000,"[90, -8]","['Guatemala', 'Leftists']",{1}
+785,Khmer Rouge,4,7,3,1971,8,17,1975,85375,"[2, 811, -8]","['United States of America', 'Cambodia', 'Khmer Rouge']",{7}
+178,Bangladesh,1,12,3,1971,12,17,1971,11223,"[750, 770]","['India', 'Pakistan']",{7}
+783,First Sri Lanka-JVP,4,4,6,1971,5,16,1971,4053,"[780, -8]","['Sri Lanka', 'Janatha Vimukthi- JVP']",{7}
+782,Pakistan-Bengal,5,3,25,1971,12,2,1971,2491,"[770, -8]","['Pakistan', 'Bengalis']",{7}
+790,Philippines-NPA,4,10,1,1972,12,31,1992,31000,"[840, -8]","['Philippines', 'NPA']",{7}
+786,First Philippine-Moro,5,1,1,1972,4,19,1981,30000,"[840, -8]","['Philippines', 'MNLF Moros']",{7}
+791,Rhodesia,4,12,28,1972,12,28,1979,11000,"[552, -8]","['Rhodesia', 'Patriotic Front']",{4}
+787,Communist Insurgency,4,1,-9,1972,10,15,1973,2200,"[800, -8]","['Thailand', 'Communists']",{7}
+789,First Burundi,4,4,29,1972,5,25,1972,2000,"[516, -8]","['Burundi', 'Hutu']",{4}
+788,Eritrean Split,7,2,-9,1972,-9,-9,1974,-18,"[-8, -8]","['ELF', 'EPLF']",{4}
+181,Yom Kippur War,1,10,6,1973,10,24,1973,14439,"[651, 670, 666, 663, 652, 645]","['Egypt', 'Saudi Arabia', 'Israel', 'Jordan', 'Syria', 'Iraq']",{6}
+792,Baluchi Separatists,5,1,23,1973,7,-9,1977,8600,"[770, -8]","['Pakistan', 'Baluchi Rebels']",{7}
+793,Chilean Coup of 1973,4,9,11,1973,9,15,1973,3400,"[155, -8]","['Chile', 'Pinochet led military']",{1}
+795,Dhofar Rebellion Phase 2,5,10,-9,1973,12,11,1975,3005,"[200, 630, 698, -8]","['United Kingdom', 'Iran', 'Oman', 'PFLOAG']",{6}
+797,Fourth Iraqi Kurds,5,3,18,1974,4,6,1975,19991,"[645, 630, -8]","['Iraq', 'Iran', 'Kurds']",{6}
+184,Turco-Cypriot,1,7,20,1974,8,16,1974,1500,"[640, 352]","['Turkey', 'Cyprus']",{2}
+472,"East Timorese, Phase 2",3,10,16,1975,7,17,1976,32500,"[850, -8]","['Indonesia', 'Fretilin & UDT']",{7}
+473,Namibian,2,10,17,1975,12,13,1988,20100,"[560, -8]","['South Africa', 'SWAPO-Namibia']",{4}
+474,Western Saharan,3,1,11,1975,12,23,1983,16000,"[600, 435, -8, 615]","['Morocco', 'Mauritania', 'Polisario', 'Algeria']",{6}
+798,Eritrean War,5,1,5,1975,12,-9,1978,12491,"[530, -8, 40]","['Ethiopia', 'Eritrean Peo. Lib.', 'Cuba']",{4}
+800,Argentine Leftists,4,2,-9,1975,3,-9,1977,2850,"[160, -8]","['Argentina', 'Montoneros, ERP']",{1}
+186,War over Angola,1,10,11,1975,2,12,1976,2700,"[40, 560, 490, 540]","['Cuba', 'South Africa', 'Democratic Republic of the Congo', 'Angola']",{4}
+801,Second Lebanese,7,4,13,1975,11,15,1976,482,"[660, -8, 652]","['Maronite militias', 'Lebanese National Movement', 'Syria']",{6}
+805,Second Ogaden Phase 1,5,7,1,1976,7,22,1977,32400,"[40, 530, 520, -8]","['Cuba', 'Ethiopia', 'Somalia', 'WSLF']",{4}
+803,Third Laotian,5,1,-9,1976,5,-9,1979,7000,"[812, 816, -8]","['Laos', 'Vietnam', 'Hmong']",{7}
+804,Angolan Control,4,2,13,1976,6,15,1991,6282,"[40, 540, -8, 560]","['Cuba', 'Angola', 'UNITA', 'South Africa']",{4}
+802,Second West Papua,5,1,1,1976,4,14,1978,2100,"[850, -8]","['Indonesia', 'OPR, West Papua']",{7}
+806,East Timorese War Phase 3,5,7,18,1976,5,26,1979,1791,"[850, -8]","['Indonesia', 'Fretilin']",{7}
+187,"Second Ogaden War, Phase 2",1,7,23,1977,3,9,1978,10500,"[530, 40, 520]","['Ethiopia', 'Cuba', 'Somalia']",{4}
+189,Vietnamese-Cambodian,1,9,24,1977,1,8,1979,8000,"[816, 811]","['Vietnam', 'Cambodia']",{7}
+812,First Afghan Mujahideen Uprising,4,3,1,1978,2,21,1980,35000,"[700, -8, 365]","['Afghanistan', 'Mujahideen', 'Russia']",{7}
+808,Second Ogaden Phase 3,5,3,10,1978,12,3,1980,23991,"[40, 530, -8, 520]","['Cuba', 'Ethiopia', 'Ogaden, WSLF', 'Somalia']",{4}
+809,Third Guatemala,4,3,12,1978,4,13,1984,6000,"[90, -8]","['Guatemala', 'The Democratic Front Against Repression (FDCR)']",{1}
+815,Sandinista Rebellion,4,9,9,1978,7,18,1979,4000,"[93, -8]","['Nicaragua', 'Sandinistas']",{1}
+807,Third Lebanese,7,2,1,1978,10,4,1978,3091,"[-8, 666, -8, 652]","['Lebanese Forces', 'Israel', 'PLO & Shiite militia', 'Syria']",{6}
+190,Ugandian-Tanzanian,1,2,1,1978,4,11,1979,3000,"[500, 510, 620]","['Uganda', 'Tanzania', 'Libya']",{4}
+810,Saur Revolution,4,4,27,1978,4,28,1978,3000,"[700, -8]","['Afghanistan', 'Leftist Military']",{7}
+813,Overthrow of the Shah,4,9,3,1978,2,11,1979,1100,"[630, -8]","['Iran', 'Anti-Shah Coalition']",{6}
+811,Fourth DRC (Shaba),4,5,1,1978,6,6,1978,996,"[211, 220, 490, -8]","['Belgium', 'France', 'DRC', 'FNLC']",{4}
+475,Khmer Insurgency,3,1,9,1979,9,25,1989,40291,"[816, 811, -8]","['Vietnam', 'Cambodia', 'Khmer Rouge']",{7}
+193,Sino-Vietnamese Punitive,1,2,17,1979,3,16,1979,21000,"[710, 816]","['China', 'Vietnam']",{7}
+818,Mozambique,4,-9,-9,1979,10,4,1992,532,"[541, -8, 552, 510]","['Mozambique', 'Renamo', 'Zimbabwe', 'Tanzania']",{4}
+816,Anti-Khomeini Coalition,4,2,12,1979,3,-9,1984,-18,"[630, -8]","['Iran', 'Anti-Khmoneini Coalition: Fedayeen Kalq & Kurds']",{6}
+817,El Salvador,4,7,1,1979,2,1,1992,-18,"[92, -8]","['El Salvador', 'Salvadorean Democratic Front']",{1}
+199,Iran-Iraq,1,9,22,1980,8,20,1988,1250000,"[645, 630]","['Iraq', 'Iran']",{6}
+476,Soviet Quagmire,3,2,22,1980,2,15,1989,120000,"[365, 700, -8]","['USSR', 'Afghanistan', 'Muhajadin']",{7}
+822,Second Uganda,5,12,8,1980,3,19,1986,46000,"[500, -8]","['Uganda', 'National Resistance Army']",{4}
+820,Second Chad (Habre Revolt),5,3,-9,1980,9,-9,1984,6200,"[483, 620, -8, 220]","['Chad', 'Libya', 'FAN', 'France']",{4}
+823,Nigeria-Muslim,5,12,18,1980,1,1,1981,1050,"[475, -8]","['Nigeria', 'Muslim fundamentalists']",{4}
+825,Hama,4,11,-9,1981,2,23,1982,3000,"[652, -8]","['Syria', 'Muslim Brotherhood']",{6}
+826,Tigrean and Eritrean,5,1,23,1982,5,28,1991,75000,"[530, -8]","['Ethiopia', 'Tigray & Eritrea']",{4}
+828,Contra War,4,3,18,1982,4,19,1990,32200,"[93, -8]","['Nicaragua', 'Contras']",{1}
+827,Shining Path,4,3,4,1982,9,12,1992,16000,"[135, -8]","['Peru', 'Shining Path & TARM']",{1}
+205,War over Lebanon,1,4,21,1982,9,15,1982,1655,"[666, 652]","['Israel', 'Syria']",{6}
+202,Falkland Islands,1,3,25,1982,6,15,1982,1001,"[200, 160]","['United Kingdom', 'Argentina']",{1}
+835,First Sri Lanka Tamil,5,7,25,1983,5,24,2002,26655,"[780, -8, 750]","['Sri Lanka', 'Tamils', 'India']",{7}
+832,Fourth Burmese,5,2,1,1983,1,-9,1988,4000,"[775, -8]","['Burma', 'Karen & Kachin Rebels']",{7}
+833,Fourth Lebanese Civil,4,4,18,1983,2,29,1984,350,"[2, 220, 660, -8]","['United States', 'France', 'Lebanon', ""Shi'ites & Druze""]",{6}
+831,Matabeleland,4,1,-9,1983,12,27,1987,-18,"[552, -8]","['Zimbabwe', 'ZAPU']",{4}
+836,Second South Sudan,4,11,17,1983,1,10,2005,-18,"[625, -8]","['Sudan', 'SPLA-Garang faction']",{6}
+838,First Turkish Kurds,5,8,14,1984,3,-9,1986,10500,"[640, -8]","['Turkey', 'Kurds, PKK']",{6}
+837,Indian Golden Temple,5,6,1,1984,7,30,1984,1191,"[750, -8]","['India', 'Sikhs']",{7}
+840,Fifth Iraqi  Kurds,5,1,-9,1985,9,17,1988,-27,"[645, 630, -8]","['Iraq', 'Iran', 'Kurds']",{6}
+842,South Yemen,4,1,13,1986,1,29,1986,13000,"[680, -8]","[""Yemen People's Republic"", 'Leftist Factions']",{6}
+207,War over the Aouzou Strip,1,11,15,1986,9,11,1987,8000,"[483, 620]","['Chad', 'Libya']",{18}
+843,Holy Spirit Movement,4,8,-9,1986,10,-9,1987,7000,"[500, -8]","['Uganda', 'HSMF']",{4}
+208,Sino-Vietnamese Border War,1,1,5,1987,2,6,1987,4000,"[816, 710]","['Vietnam', 'China']",{7}
+845,Second Sri Lanka-JVP,4,7,29,1987,12,29,1989,-18,"[780, -8]","['Sri Lanka', 'JVP']",{7}
+846,Inkatha-ANC,7,12,20,1987,4,26,1994,-18,"[-8, -8]","['Inkatha', 'ANC']",{4}
+847,Fifth Burmese,4,3,-9,1988,10,3,1988,-18,"[775, -8]","['Burma', 'Pro-democracy']",{7}
+848,First Somalia,4,5,26,1988,1,26,1991,-18,"[520, -8]","['Somalia', 'rebel clans']",{4}
+856,Eighth Colombia,5,8,19,1989,31,12,2007,28161,"[100, -8]","['Colombia', 'FARC & Drug Lords']",{1}
+852,Third Chad (Deby Coup),4,3,-9,1989,12,4,1990,3800,"[483, -8]","['Chad', ""Deby's MPS""]",{4}
+850,Fifth Lebanese,4,2,-9,1989,10,13,1990,2641,"[660, 652, -8]","['Lebanon', 'Syria', 'militias']",{6}
+858,Romania,4,12,18,1989,12,26,1989,1000,"[360, -8]","['Romania', 'Anti-Ceaucescu Rebels']",{2}
+851,Second Afghan Mujahideen Uprising,4,2,16,1989,10,6,2001,-18,"[700, -8]","['Afghanistan', 'Mujahadin']",{7}
+853,First Aceh,5,6,-9,1989,6,-9,1991,-18,"[850, -8]","['Indonesia', 'GAM']",{7}
+854,Bougainville Secession,5,7,14,1989,9,-9,1992,-18,"[910, -8]","['Papua New Guinea', 'BRA']",{7}
+857,First Cambodian Civil War,4,9,26,1989,10,23,1991,-18,"[811, -8]","['Cambodia', 'Khmer Rouge & KPNFL']",{7}
+860,First Liberia,4,11,-9,1989,11,28,1990,-18,"[450, -8, 475]","['Liberia', 'NPFL', 'Nigeria']",{4}
+211,Gulf War,1,1,2,1990,4,11,1991,41466,"[690, 645, 2, 20, 200, 325, 600, 651, 698, 220, 696, 694, 670, 652]","['Kuwait', 'Iraq', 'United States of America', 'Canada', 'United Kingdom', 'Italy', 'Morocco', 'Egypt', 'Oman', 'France', 'United Arab Emirates', 'Qatar', 'Saudi Arabia', 'Syria']",{6}
+861,Kashmir Insurgents,5,9,19,1990,10,8,2005,27700,"[750, -8]","['India', 'Kashmiri Guerillas']",{7}
+865,Second Turkish Kurds,5,7,10,1991,2,16,1999,16500,"[640, -8]","['Turkey', 'Kurds, PKK']",{6}
+872,Nagorno-Karabakh,5,12,26,1991,2,5,1993,11000,"[373, 371, -8]","['Azerbaijan', 'Armenia', 'Nagorno-Karabakh']",{2}
+477,First PKK in Iraq,3,8,4,1991,3,25,1992,2300,"[640, -8]","['Turkey', 'PKK in Iraq']",{6}
+870,Second Somalia,4,11,-9,1991,3,25,1997,25,"[520, -8, 475, 770, 900, 220, 2, 325]","['Somalia', 'Aideed Faction', 'Nigeria', 'Pakistan', 'Australia', 'France', 'United States of America', 'Italy']",{4}
+862,Shiite and Kurdish,5,3,1,1991,3,31,1991,-18,"[645, -8]","['Iraq', 'Shiites & Kurds']",{6}
+863,First Sierra Leone,4,3,23,1991,4,23,1996,-18,"[451, -8]","['Sierra Leone', 'RUF']",{4}
+864,Croatian Independence,5,5,2,1991,1,2,1992,-18,"[345, -8]","['Yugoslavia/Serbia', 'Croatia']",{2}
+866,The SPLA Division (Dinka-Nuer) War,7,8,28,1991,11,-9,1992,-18,"[-8, -8]","['Garang faction', 'Nuer faction']",{4}
+868,Jukun-Tiv War,7,10,-9,1991,3,-9,1992,-18,"[-8, -8]","['Jukun', 'Tiv']",{4}
+871,Georgia,4,12,26,1991,3,-9,1992,-18,"[372, -8]","['Georgia', 'Reform']",{2}
+873,Dniestrian Independence,5,12,26,1991,7,2,1992,-18,"[359, -8]","['Moldova', 'Dniestria']",{2}
+877,Bosnian-Serb Rebellion,5,2,6,1992,12,22,1995,46219,"[346, 344, -8, 344, 2]","['Bosnia', 'Croatia', 'Bosnian Serbs', 'Croatia', 'United States']",{2}
+215,Bosnian Independence,1,4,7,1992,5,13,1992,5240,"[344, 346, 345]","['Croatia', 'Bosnia', 'Yugoslavia']",{2}
+875,Algerian Islamic Front,4,2,7,1992,6,-9,1999,-18,"[615, -8]","['Algeria', 'Islamic Front']",{6}
+880,Angolan War of the Cities,4,10,28,1992,11,15,1994,-18,"[540, -8]","['Angola', 'UNITA']",{4}
+876,Tajikistan,4,3,-9,1992,6,27,1997,-27,"[702, -8, 365]","['Tadzhikistan', 'United Tajik Opposition', 'Russia']",{7}
+878,Second Liberia,4,10,15,1992,12,31,1995,-27,"[450, 475, -8]","['Liberia', 'Nigeria', 'NPFL & ULIMO']",{4}
+216,Azeri-Armenian,1,2,6,1993,5,12,1994,14000,"[373, 371]","['Azerbaijan', 'Armenia']",{2}
+882,Abkhazia Revolt,5,8,18,1993,4,14,1994,8000,"[372, -8]","['Georgia', 'Abkhazia']",{2}
+881,Second Cambodia Civil,4,1,29,1993,7,1,1997,-18,"[811, -8]","['Cambodia', 'Khmer Rouge']",{7}
+883,Second Burundi,4,10,21,1993,6,-9,1998,-18,"[516, -8]","['Burundi', 'Tutsi army']",{4}
+888,First Chechnya,5,12,11,1994,8,31,1996,10000,"[365, -8]","['Russia', 'Chechnya']",{2}
+885,South Yemeni Secessionist,5,2,21,1994,7,7,1994,-18,"[679, -8]","['Yemen', 'South Yemen']",{6}
+886,Second Rwanda,4,4,6,1994,7,18,1994,-18,"[517, -8]","['Rwanda', 'Patriotic Front']",{4}
+890,Iraqi Kurd Internecine,7,12,20,1994,8,11,1995,-18,"[-8, -8]","['PUK', 'KDP']",{6}
+217,Cenepa Valley,1,1,9,1995,2,27,1995,1500,"[130, 135]","['Ecuador', 'Peru']",{1}
+891,Croatia-Krajina War,5,5,-9,1995,11,-9,1995,-18,"[344, -8]","['Croatia', 'Krajinia Serbs']",{2}
+892,Third Liberia,4,4,5,1996,8,20,1996,-18,"[450, -8]","['Liberia', 'NPFL']",{4}
+893,Sixth Iraqi Kurds,5,8,31,1996,10,23,1996,-18,"[645, -8]","['Iraq', 'PUK']",{6}
+895,Fifth DRC,4,1,1,1996,5,30,1997,-45,"[490, -8, 500, 517, 540]","['DRC', 'ADFL', 'Uganda', 'Rwanda', 'Angola']",{4}
+896,Third Rwanda,4,3,17,1997,10,30,1998,3300,"[517, -8]","['Rwanda', 'Hutu rebels']",{4}
+479,Second PKK in Iraq,3,5,14,1997,6,14,1997,2600,"[640, -8]","['Turkey', 'PKK in Iraq']",{6}
+897,First Congo (Brazzaville),4,6,5,1997,10,15,1997,-27,"[484, 540, -8]","['Congo', 'Angola', 'FDU (Cobra militia)']",{4}
+219,Badme Border,1,5,6,1998,12,12,2000,120000,"[531, 530]","['Eritrea', 'Ethiopia']",{4}
+900,Kosovo Independence,5,2,28,1998,3,23,1999,1200,"[345, -8]","['Yugoslavia', 'KLA']",{2}
+906,Fourth Chad (Togoimi Revolt),4,10,16,1998,4,28,2000,-18,"[483, -8]","['Chad', 'MDD & MDJT']",{4}
+907,Third Angolan,4,12,4,1998,2,22,2002,-18,"[540, -8]","['Angola', 'UNITA']",{4}
+908,Second Congo (Brazzaville),4,12,15,1998,11,16,1999,-18,"[484, -8]","['Congo (Brazzaville)', 'Ninjas and Cocoye militias']",{4}
+902,Guinea-Bissau Military,4,6,7,1998,11,6,1999,-36,"[438, 404, 433, -8]","['Guinea', 'Guinea-Bissau', 'Senegal', 'Mané Junta']",{4}
+898,Second Sierra Leone,4,2,6,1998,11,10,2000,-54,"[451, -8, 452, 475, 438, 200]","['Sierra Leone', 'Kabbah faction', 'Ghana', 'Nigeria', 'Guinea', 'United Kingdom']",{4}
+905,Africa's World War,4,8,2,1998,12,22,2002,-90,"[540, 625, 565, 552, 483, 490, 517, 516, 500, -8]","['Angola', 'Sudan', 'Namibia', 'Zimbabwe', 'Chad', 'Democratic Republic of Congo', 'Rwanda', 'Burundi', 'Uganda', 'RCD, MLC, et al']",{4}
+915,Second Chechen,5,8,7,1999,10,3,2003,20000,"[365, -8]","['Russia', 'Chechnya']",{2}
+221,War for Kosovo,1,3,24,1999,6,10,1999,5002,"[640, 325, 200, 2, 210, 220, 345, 255]","['Turkey', 'Italy', 'United Kingdom', 'United States of America', 'Netherlands', 'France', 'Yugoslavia', 'Germany']",{2}
+912,Second Aceh,5,5,3,1999,12,9,2002,3830,"[850, -8]","['Indonesia', 'GAM']",{7}
+910,Moluccas Sectarian,7,1,-9,1999,8,22,2000,1791,"[-8, -8]","['Laskar Jihad', 'FKM & RMS']",{7}
+223,Kargil War,1,5,8,1999,7,17,1999,1172,"[750, 770]","['India', 'Pakistan']",{7}
+913,Oromo Liberation,5,5,30,1999,8,18,1999,1000,"[530, -8]","['Ethiopia', 'Oromo Lib. Front']",{4}
+911,First Nigeria Christian-Muslim,7,5,-9,1999,5,31,2000,-18,"[-8, -8]","['Christian Tarok', 'Muslim Fulani']",{4}
+480,Al Aqsa Intifada,2,9,28,2000,9,9,2003,4300,"[666, -8]","['Israel', 'Palestinians']",{6}
+916,Second Philippine-Moro,5,4,23,2000,6,22,2001,-18,"[840, -8]","['Philippines', 'MILF']",{7}
+917,Guinean,4,9,11,2000,4,-9,2001,-18,"[438, -8]","['Guinea ', 'RDFG']",{4}
+481,Afghan Resistance,3,12,23,2001,12,31,2007,14393,"[220, 900, 255, 200, 20, 2, 700, -8]","['France', 'Australia', 'Germany', 'United Kingdom', 'Canada', 'United States', 'Afghanistan', 'al-Qaeda & Taliban']",{7}
+225,Invasion of Afghanistan,1,10,7,2001,12,22,2001,4002,"[20, 220, 200, 2, 900, 700]","['Canada', 'France', 'United Kingdom', 'United States of America', 'Australia', 'Afghanistan']",{7}
+921,First Nepal Maoist Insurgency,4,11,23,2001,1,29,2003,3780,"[790, -8]","['Nepal ', 'CPN']",{7}
+918,Third Burundi,4,3,21,2001,10,8,2003,3150,"[516, -8]","['Burundi', 'FNL & FROLINA']",{4}
+920,Fourth Rwanda,4,5,21,2001,9,4,2001,1791,"[517, -8]","['Rwanda', 'Army for the Liberation of Rwanda']",{4}
+925,Cote d'Ivoire Military,4,9,11,2002,11,16,2004,2709,"[220, 437, -8]","['France', ""Cote d'Ivoire"", 'MPCI, MPIGO, MJP']",{4}
+922,Fourth Liberian,4,2,-9,2002,8,11,2003,-18,"[450, -8]","['Liberia', 'LURD & MODEL']",{4}
+923,Ethiopian Anyuaa-Nuer,7,8,-9,2002,1,-9,2003,-18,"[-8, -8]","['Anyuaa', 'Nuer']",{4}
+482,Iraqi Resistance,3,3,-9,2003,12,31,2007,35017,"[900, 2, 200, -8, 210, 230, 290, 325, 369, 645, 732]","['Australia', 'United States', 'United Kingdom', 'al-Qaeda & Iraqi resistence', 'Netherlands', 'Spain', 'Poland', 'Italy', 'Ukraine', 'Iraq', 'Republic of Korea']",{6}
+227,Invasion of Iraq,1,3,19,2003,5,2,2003,7173,"[900, 200, 2, 645]","['Australia', 'United Kingdom', 'United States of America', 'Iraq']",{6}
+931,Second Nepal Maoists,4,8,27,2003,4,26,2006,7030,"[790, -8]","['Nepal', 'CPN']",{7}
+930,Third Aceh,5,5,18,2003,11,18,2003,1550,"[850, -8]","['Indonesia', 'GAM']",{7}
+926,Third Philippine-Moro,5,2,11,2003,7,-9,2003,1000,"[840, -8]","['Phillippines', 'MILF & ASG']",{7}
+927,Darfur,5,2,26,2003,12,11,2006,-18,"[625, -8]","['Sudan', 'SLA & JEM']",{6}
+932,Waziristan,5,2,20,2004,9,5,2006,2991,"[2, 770, -8]","['United States', 'Pakistan', 'Waziri tribes']",{7}
+935,First Yemeni Cleric,4,6,21,2004,4,8,2005,2250,"[679, -8]","['Yemen', 'Zaidi Muslims']",{6}
+933,Second Nigeria Christian-Muslim,7,3,-9,2004,9,16,2004,-18,"[-8, -8]","['Christian Tarok', 'Muslim Fulani']",{4}
+936,Philippine Joint Offensive,5,1,17,2005,7,11,2006,2823,"[840, -8]","['Phillippines', 'MILF & NPA']",{7}
+937,Fifth Chad,4,12,18,2005,12,20,2006,1100,"[483, -8]","['Chad', 'FUDC']",{4}
+940,Second Sri Lanka Tamil,5,10,11,2006,12,31,2007,-18,"[780, -8]","['Sri Lanka', 'LTTE']",{7}
+938,Third Somalia,4,1,6,2006,6,11,2008,-45,"[520, 530, -8, 531, 2]","['Somalia', 'Ethiopia', 'SCIC', 'Eritrea', 'United States']",{4}
+941,Second Yemeni Cleric,4,1,29,2007,6,16,2007,3500,"[679, -8]","['Yemen', 'Zaidi Muslims']",{6}
