@@ -1,875 +1,875 @@
-,WarName,Year,Ccode1,Player1,Ccode2,Player2,Religion1,Religion2,Initiator
-1,Franco-Spanish War,1823,230,Spain,220,France,Christianity,Christianity,0
-2,Franco-Spanish War,1823,220,France,230,Spain,Christianity,Christianity,1
-5,First Russo-Turkish,1828,640,Ottoman Empire,365,Russia,Islam,Non,0
-6,First Russo-Turkish,1828,365,Russia,640,Ottoman Empire,Non,Islam,1
-9,Mexican-American,1846,70,Mexico,2,United States of America,Christianity,Christianity,0
-10,Mexican-American,1846,2,United States of America,70,Mexico,Christianity,Christianity,1
-14,Austro-Sardinian,1848,337,Tuscany,300,Austria,,,0
-18,Austro-Sardinian,1848,325,Italy,300,Austria,Christianity,,1
-20,Austro-Sardinian,1848,300,Austria,337,Tuscany,,,0
-21,Austro-Sardinian,1848,300,Austria,325,Italy,,Christianity,0
-23,Austro-Sardinian,1848,300,Austria,332,Modena,,,0
-26,Austro-Sardinian,1848,332,Modena,300,Austria,,,0
-29,First Schleswig-Holstein,1848,255,Prussia,390,Denmark,Christianity,Christianity,1
-30,First Schleswig-Holstein,1848,390,Denmark,255,Prussia,Christianity,Christianity,0
-35,Roman Republic,1849,220,France,327,Papal States,Christianity,,1
-39,Roman Republic,1849,329,Two Sicilies,327,Papal States,,,0
-43,Roman Republic,1849,300,Austria,327,Papal States,,,0
-44,Roman Republic,1849,327,Papal States,220,France,,Christianity,0
-45,Roman Republic,1849,327,Papal States,329,Two Sicilies,,,0
-46,Roman Republic,1849,327,Papal States,300,Austria,,,0
-49,La Plata,1851,160,Argentina,140,Brazil,Christianity,Christianity,0
-50,La Plata,1851,140,Brazil,160,Argentina,Christianity,Christianity,1
-56,Crimean,1853,640,Turkey,365,Russia,Islam,Non,1
-61,Crimean,1855,325,Italy,365,Russia,Christianity,Non,0
-66,Crimean,1854,220,France,365,Russia,Christianity,Non,0
-71,Crimean,1854,200,United Kingdom,365,Russia,Christianity,Non,0
-72,Crimean,1853,365,Russia,640,Turkey,Non,Islam,0
-73,Crimean,1853,365,Russia,325,Italy,Non,Christianity,0
-74,Crimean,1853,365,Russia,220,France,Non,Christianity,0
-75,Crimean,1853,365,Russia,200,United Kingdom,Non,Christianity,0
-78,Anglo-Persian,1856,200,United Kingdom,630,Iran,Christianity,Islam,1
-79,Anglo-Persian,1856,630,Iran,200,United Kingdom,Islam,Christianity,0
-82,Italian Unification,1859,325,Sardinia/Piedmont,300,Austria,Christianity,,0
-84,Italian Unification,1859,300,Austria,325,Sardinia/Piedmont,,Christianity,1
-86,Italian Unification,1859,300,Austria,220,France,,Christianity,1
-88,Italian Unification,1859,220,France,300,Austria,Christianity,,0
-91,First Spanish-Moroccan,1859,600,Morocco,230,Spain,Islam,Christianity,0
-92,First Spanish-Moroccan,1859,230,Spain,600,Morocco,Christianity,Islam,1
-95,Italian-Roman,1860,325,Sardinia/Piedmont,327,Papal States,Christianity,,1
-96,Italian-Roman,1860,327,Papal States,325,Sardinia/Piedmont,,Christianity,0
-99,Neapolitan,1860,329,Two Sicilies,325,Sardinia/Piedmont,,Christianity,0
-100,Neapolitan,1860,325,Sardinia/Piedmont,329,Two Sicilies,Christianity,,1
-103,Franco-Mexican,1862,70,Mexico,220,France,Christianity,Christianity,0
-104,Franco-Mexican,1862,220,France,70,Mexico,Christianity,Christianity,1
-107,Ecuadorian-Colombian,1863,100,Colombia,130,Ecuador,Christianity,Christianity,1
-108,Ecuadorian-Colombian,1863,130,Ecuador,100,Colombia,Christianity,Christianity,0
-111,Second Schleswig-Holstein,1864,255,Germany,390,Denmark,Christianity,Christianity,1
-113,Second Schleswig-Holstein,1864,390,Denmark,255,Germany,Christianity,Christianity,0
-115,Second Schleswig-Holstein,1864,390,Denmark,300,Austria,Christianity,,0
-117,Second Schleswig-Holstein,1864,300,Austria,390,Denmark,,Christianity,0
-120,Lopez,1865,160,Argentina,150,Paraguay,Christianity,Christianity,0
-122,Lopez,1864,150,Paraguay,160,Argentina,Christianity,Christianity,1
-124,Lopez,1864,150,Paraguay,140,Brazil,Christianity,Christianity,1
-126,Lopez,1864,140,Brazil,150,Paraguay,Christianity,Christianity,0
-130,Naval War,1865,155,Chile,230,Spain,Christianity,Christianity,0
-133,Naval War,1866,135,Peru,230,Spain,Christianity,Christianity,0
-134,Naval War,1865,230,Spain,155,Chile,Christianity,Christianity,1
-135,Naval War,1865,230,Spain,135,Peru,Christianity,Christianity,1
-138,Seven Weeks,1866,325,Italy,275,Hesse Grand Ducal,Christianity,,0
-139,Seven Weeks,1866,325,Italy,271,Wuerttemburg,Christianity,,0
-140,Seven Weeks,1866,325,Italy,245,Bavaria,Christianity,,0
-141,Seven Weeks,1866,325,Italy,300,Austria,Christianity,,0
-144,Seven Weeks,1866,325,Italy,273,Hesse Electoral,Christianity,,0
-145,Seven Weeks,1866,325,Italy,269,Saxony,Christianity,,0
-146,Seven Weeks,1866,325,Italy,267,Baden,Christianity,,0
-147,Seven Weeks,1866,325,Italy,240,Hanover,Christianity,,0
-148,Seven Weeks,1866,275,Hesse Grand Ducal,325,Italy,,Christianity,0
-153,Seven Weeks,1866,275,Hesse Grand Ducal,255,Germany,,Christianity,0
-154,Seven Weeks,1866,275,Hesse Grand Ducal,280,Mecklenburg Schwerin,,,0
-159,Seven Weeks,1866,271,Wuerttemburg,325,Italy,,Christianity,0
-164,Seven Weeks,1866,271,Wuerttemburg,255,Germany,,Christianity,0
-165,Seven Weeks,1866,271,Wuerttemburg,280,Mecklenburg Schwerin,,,0
-170,Seven Weeks,1866,245,Bavaria,325,Italy,,Christianity,0
-175,Seven Weeks,1866,245,Bavaria,255,Germany,,Christianity,0
-176,Seven Weeks,1866,245,Bavaria,280,Mecklenburg Schwerin,,,0
-181,Seven Weeks,1866,300,Austria,325,Italy,,Christianity,0
-186,Seven Weeks,1866,300,Austria,255,Germany,,Christianity,0
-187,Seven Weeks,1866,300,Austria,280,Mecklenburg Schwerin,,,0
-193,Seven Weeks,1866,255,Germany,275,Hesse Grand Ducal,Christianity,,1
-194,Seven Weeks,1866,255,Germany,271,Wuerttemburg,Christianity,,1
-195,Seven Weeks,1866,255,Germany,245,Bavaria,Christianity,,1
-196,Seven Weeks,1866,255,Germany,300,Austria,Christianity,,1
-199,Seven Weeks,1866,255,Germany,273,Hesse Electoral,Christianity,,1
-200,Seven Weeks,1866,255,Germany,269,Saxony,Christianity,,1
-201,Seven Weeks,1866,255,Germany,267,Baden,Christianity,,1
-202,Seven Weeks,1866,255,Germany,240,Hanover,Christianity,,1
-204,Seven Weeks,1866,280,Mecklenburg Schwerin,275,Hesse Grand Ducal,,,0
-205,Seven Weeks,1866,280,Mecklenburg Schwerin,271,Wuerttemburg,,,0
-206,Seven Weeks,1866,280,Mecklenburg Schwerin,245,Bavaria,,,0
-207,Seven Weeks,1866,280,Mecklenburg Schwerin,300,Austria,,,0
-210,Seven Weeks,1866,280,Mecklenburg Schwerin,273,Hesse Electoral,,,0
-211,Seven Weeks,1866,280,Mecklenburg Schwerin,269,Saxony,,,0
-212,Seven Weeks,1866,280,Mecklenburg Schwerin,267,Baden,,,0
-213,Seven Weeks,1866,280,Mecklenburg Schwerin,240,Hanover,,,0
-214,Seven Weeks,1866,273,Hesse Electoral,325,Italy,,Christianity,0
-219,Seven Weeks,1866,273,Hesse Electoral,255,Germany,,Christianity,0
-220,Seven Weeks,1866,273,Hesse Electoral,280,Mecklenburg Schwerin,,,0
-225,Seven Weeks,1866,269,Saxony,325,Italy,,Christianity,0
-230,Seven Weeks,1866,269,Saxony,255,Germany,,Christianity,0
-231,Seven Weeks,1866,269,Saxony,280,Mecklenburg Schwerin,,,0
-236,Seven Weeks,1866,267,Baden,325,Italy,,Christianity,0
-241,Seven Weeks,1866,267,Baden,255,Germany,,Christianity,0
-242,Seven Weeks,1866,267,Baden,280,Mecklenburg Schwerin,,,0
-247,Seven Weeks,1866,240,Hanover,325,Italy,,Christianity,0
-252,Seven Weeks,1866,240,Hanover,255,Germany,,Christianity,0
-253,Seven Weeks,1866,240,Hanover,280,Mecklenburg Schwerin,,,0
-262,Franco-Prussian,1870,271,Wuerttemburg,220,France,,Christianity,0
-267,Franco-Prussian,1870,267,Baden,220,France,,Christianity,0
-272,Franco-Prussian,1870,255,Germany,220,France,Christianity,Christianity,0
-277,Franco-Prussian,1870,245,Bavaria,220,France,,Christianity,0
-278,Franco-Prussian,1870,220,France,271,Wuerttemburg,Christianity,,1
-279,Franco-Prussian,1870,220,France,267,Baden,Christianity,,1
-280,Franco-Prussian,1870,220,France,255,Germany,Christianity,Christianity,1
-281,Franco-Prussian,1870,220,France,245,Bavaria,Christianity,,1
-284,First Central American,1876,90,Guatemala,92,El Salvador,Christianity,Christianity,1
-285,First Central American,1876,92,El Salvador,90,Guatemala,Christianity,Christianity,0
-288,Second Russo-Turkish,1877,640,Turkey,365,Russia,Islam,Non,0
-289,Second Russo-Turkish,1877,365,Russia,640,Turkey,Non,Islam,1
-292,War of the Pacific,1879,155,Chile,135,Peru,Christianity,Christianity,1
-293,War of the Pacific,1879,155,Chile,145,Bolivia,Christianity,Christianity,1
-294,War of the Pacific,1879,135,Peru,155,Chile,Christianity,Christianity,0
-297,War of the Pacific,1879,145,Bolivia,155,Chile,Christianity,Christianity,0
-301,Conquest of Egypt,1882,651,Egypt,200,United Kingdom,Islam,Christianity,0
-302,Conquest of Egypt,1882,200,United Kingdom,651,Egypt,Christianity,Islam,1
-305,Sino-French,1884,220,France,710,China,Christianity,Syncretic,1
-306,Sino-French,1884,710,China,220,France,Syncretic,Christianity,0
-309,Second Central American,1885,92,El Salvador,90,Guatemala,Christianity,Christianity,0
-310,Second Central American,1885,90,Guatemala,92,El Salvador,Christianity,Christianity,1
-313,First Sino-Japanese,1894,710,China,740,Japan,Syncretic,Shinto,0
-314,First Sino-Japanese,1894,740,Japan,710,China,Shinto,Syncretic,1
-317,Greco-Turkish,1897,350,Greece,640,Turkey,Christianity,Islam,1
-318,Greco-Turkish,1897,640,Turkey,350,Greece,Islam,Christianity,0
-321,Spanish-American,1898,230,Spain,2,United States of America,Christianity,Christianity,0
-322,Spanish-American,1898,2,United States of America,230,Spain,Christianity,Christianity,1
-327,Boxer Rebellion,1900,365,Russia,710,China,Non,Syncretic,1
-333,Boxer Rebellion,1900,740,Japan,710,China,Shinto,Syncretic,1
-339,Boxer Rebellion,1900,2,United States of America,710,China,Christianity,Syncretic,1
-342,Boxer Rebellion,1900,710,China,365,Russia,Syncretic,Non,0
-343,Boxer Rebellion,1900,710,China,740,Japan,Syncretic,Shinto,0
-344,Boxer Rebellion,1900,710,China,2,United States of America,Syncretic,Christianity,0
-346,Boxer Rebellion,1900,710,China,200,United Kingdom,Syncretic,Christianity,0
-347,Boxer Rebellion,1900,710,China,220,France,Syncretic,Christianity,0
-351,Boxer Rebellion,1900,200,United Kingdom,710,China,Christianity,Syncretic,1
-357,Boxer Rebellion,1900,220,France,710,China,Christianity,Syncretic,1
-361,Sino-Russian,1900,365,Russia,710,China,Non,Syncretic,1
-362,Sino-Russian,1900,710,China,365,Russia,Syncretic,Non,0
-365,Russo-Japanese,1904,740,Japan,365,Russia,Shinto,Non,1
-366,Russo-Japanese,1904,365,Russia,740,Japan,Non,Shinto,0
-370,Third Central American,1906,91,Honduras,90,Guatemala,Christianity,Christianity,0
-373,Third Central American,1906,92,El Salvador,90,Guatemala,Christianity,Christianity,0
-374,Third Central American,1906,90,Guatemala,91,Honduras,Christianity,Christianity,1
-375,Third Central American,1906,90,Guatemala,92,El Salvador,Christianity,Christianity,1
-378,Fourth Central American,1907,93,Nicaragua,92,El Salvador,Christianity,Christianity,1
-379,Fourth Central American,1907,93,Nicaragua,91,Honduras,Christianity,Christianity,1
-380,Fourth Central American,1907,92,El Salvador,93,Nicaragua,Christianity,Christianity,0
-383,Fourth Central American,1907,91,Honduras,93,Nicaragua,Christianity,Christianity,0
-387,Second Spanish-Moroccan,1909,230,Spain,600,Morocco,Christianity,Islam,1
-388,Second Spanish-Moroccan,1909,600,Morocco,230,Spain,Islam,Christianity,0
-391,Italian-Turkish,1911,325,Italy,640,Turkey,Christianity,Islam,1
-392,Italian-Turkish,1911,640,Turkey,325,Italy,Islam,Christianity,0
-395,First Balkan,1912,640,Turkey,350,Greece,Islam,Christianity,0
-396,First Balkan,1912,640,Turkey,355,Bulgaria,Islam,Christianity,0
-397,First Balkan,1912,640,Turkey,345,Yugoslavia,Islam,Christianity,0
-398,First Balkan,1912,350,Greece,640,Turkey,Christianity,Islam,0
-402,First Balkan,1912,355,Bulgaria,640,Turkey,Christianity,Islam,0
-406,First Balkan,1912,345,Yugoslavia,640,Turkey,Christianity,Islam,1
-413,Second Balkan,1913,640,Turkey,355,Bulgaria,Islam,Christianity,0
-418,Second Balkan,1913,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
-423,Second Balkan,1913,350,Greece,355,Bulgaria,Christianity,Christianity,0
-425,Second Balkan,1913,355,Bulgaria,640,Turkey,Christianity,Islam,1
-426,Second Balkan,1913,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,1
-427,Second Balkan,1913,355,Bulgaria,350,Greece,Christianity,Christianity,1
-429,Second Balkan,1913,355,Bulgaria,360,Romania,Christianity,Christianity,1
-433,Second Balkan,1913,360,Romania,355,Bulgaria,Christianity,Christianity,0
-437,World War I,1914,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
-441,World War I,1914,345,Yugoslavia,640,Turkey,Christianity,Islam,0
-443,World War I,1914,345,Yugoslavia,255,Germany,Christianity,Christianity,0
-446,World War I,1914,345,Yugoslavia,300,Austria-Hungary,Christianity,,0
-452,World War I,1914,365,Russia,355,Bulgaria,Non,Christianity,0
-456,World War I,1914,365,Russia,640,Turkey,Non,Islam,0
-458,World War I,1914,365,Russia,255,Germany,Non,Christianity,0
-461,World War I,1914,365,Russia,300,Austria-Hungary,Non,,0
-465,World War I,1915,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,0
-466,World War I,1915,355,Bulgaria,365,Russia,Christianity,Non,0
-468,World War I,1915,355,Bulgaria,200,United Kingdom,Christianity,Christianity,0
-469,World War I,1915,355,Bulgaria,740,Japan,Christianity,Shinto,0
-470,World War I,1915,355,Bulgaria,235,Portugal,Christianity,Christianity,0
-472,World War I,1915,355,Bulgaria,211,Belgium,Christianity,Christianity,0
-474,World War I,1915,355,Bulgaria,350,Greece,Christianity,Christianity,0
-475,World War I,1915,355,Bulgaria,360,Romania,Christianity,Christianity,0
-477,World War I,1915,355,Bulgaria,220,France,Christianity,Christianity,0
-478,World War I,1915,355,Bulgaria,325,Italy,Christianity,Christianity,0
-479,World War I,1915,355,Bulgaria,2,United States of America,Christianity,Christianity,0
-482,World War I,1914,200,United Kingdom,355,Bulgaria,Christianity,Christianity,0
-486,World War I,1914,200,United Kingdom,640,Turkey,Christianity,Islam,0
-488,World War I,1914,200,United Kingdom,255,Germany,Christianity,Christianity,0
-491,World War I,1914,200,United Kingdom,300,Austria-Hungary,Christianity,,0
-497,World War I,1914,740,Japan,355,Bulgaria,Shinto,Christianity,0
-501,World War I,1914,740,Japan,640,Turkey,Shinto,Islam,0
-503,World War I,1914,740,Japan,255,Germany,Shinto,Christianity,0
-506,World War I,1914,740,Japan,300,Austria-Hungary,Shinto,,0
-512,World War I,1916,235,Portugal,355,Bulgaria,Christianity,Christianity,0
-516,World War I,1916,235,Portugal,640,Turkey,Christianity,Islam,0
-518,World War I,1916,235,Portugal,255,Germany,Christianity,Christianity,0
-521,World War I,1916,235,Portugal,300,Austria-Hungary,Christianity,,0
-525,World War I,1914,640,Turkey,345,Yugoslavia,Islam,Christianity,0
-526,World War I,1914,640,Turkey,365,Russia,Islam,Non,0
-528,World War I,1914,640,Turkey,200,United Kingdom,Islam,Christianity,0
-529,World War I,1914,640,Turkey,740,Japan,Islam,Shinto,0
-530,World War I,1914,640,Turkey,235,Portugal,Islam,Christianity,0
-532,World War I,1914,640,Turkey,211,Belgium,Islam,Christianity,0
-534,World War I,1914,640,Turkey,350,Greece,Islam,Christianity,0
-535,World War I,1914,640,Turkey,360,Romania,Islam,Christianity,0
-537,World War I,1914,640,Turkey,220,France,Islam,Christianity,0
-538,World War I,1914,640,Turkey,325,Italy,Islam,Christianity,0
-539,World War I,1914,640,Turkey,2,United States of America,Islam,Christianity,0
-542,World War I,1914,211,Belgium,355,Bulgaria,Christianity,Christianity,0
-546,World War I,1914,211,Belgium,640,Turkey,Christianity,Islam,0
-548,World War I,1914,211,Belgium,255,Germany,Christianity,Christianity,0
-551,World War I,1914,211,Belgium,300,Austria-Hungary,Christianity,,0
-555,World War I,1914,255,Germany,345,Yugoslavia,Christianity,Christianity,0
-556,World War I,1914,255,Germany,365,Russia,Christianity,Non,0
-558,World War I,1914,255,Germany,200,United Kingdom,Christianity,Christianity,0
-559,World War I,1914,255,Germany,740,Japan,Christianity,Shinto,0
-560,World War I,1914,255,Germany,235,Portugal,Christianity,Christianity,0
-562,World War I,1914,255,Germany,211,Belgium,Christianity,Christianity,0
-564,World War I,1914,255,Germany,350,Greece,Christianity,Christianity,0
-565,World War I,1914,255,Germany,360,Romania,Christianity,Christianity,0
-567,World War I,1914,255,Germany,220,France,Christianity,Christianity,0
-568,World War I,1914,255,Germany,325,Italy,Christianity,Christianity,0
-569,World War I,1914,255,Germany,2,United States of America,Christianity,Christianity,0
-572,World War I,1917,350,Greece,355,Bulgaria,Christianity,Christianity,0
-576,World War I,1917,350,Greece,640,Turkey,Christianity,Islam,0
-578,World War I,1917,350,Greece,255,Germany,Christianity,Christianity,0
-581,World War I,1917,350,Greece,300,Austria-Hungary,Christianity,,0
-587,World War I,1916,360,Romania,355,Bulgaria,Christianity,Christianity,0
-591,World War I,1916,360,Romania,640,Turkey,Christianity,Islam,0
-593,World War I,1916,360,Romania,255,Germany,Christianity,Christianity,0
-596,World War I,1916,360,Romania,300,Austria-Hungary,Christianity,,0
-600,World War I,1914,300,Austria-Hungary,345,Yugoslavia,,Christianity,1
-601,World War I,1914,300,Austria-Hungary,365,Russia,,Non,1
-603,World War I,1914,300,Austria-Hungary,200,United Kingdom,,Christianity,1
-604,World War I,1914,300,Austria-Hungary,740,Japan,,Shinto,1
-605,World War I,1914,300,Austria-Hungary,235,Portugal,,Christianity,1
-607,World War I,1914,300,Austria-Hungary,211,Belgium,,Christianity,1
-609,World War I,1914,300,Austria-Hungary,350,Greece,,Christianity,1
-610,World War I,1914,300,Austria-Hungary,360,Romania,,Christianity,1
-612,World War I,1914,300,Austria-Hungary,220,France,,Christianity,1
-613,World War I,1914,300,Austria-Hungary,325,Italy,,Christianity,1
-614,World War I,1914,300,Austria-Hungary,2,United States of America,,Christianity,1
-617,World War I,1914,220,France,355,Bulgaria,Christianity,Christianity,0
-621,World War I,1914,220,France,640,Turkey,Christianity,Islam,0
-623,World War I,1914,220,France,255,Germany,Christianity,Christianity,0
-626,World War I,1914,220,France,300,Austria-Hungary,Christianity,,0
-632,World War I,1915,325,Italy,355,Bulgaria,Christianity,Christianity,0
-636,World War I,1915,325,Italy,640,Turkey,Christianity,Islam,0
-638,World War I,1915,325,Italy,255,Germany,Christianity,Christianity,0
-641,World War I,1915,325,Italy,300,Austria-Hungary,Christianity,,0
-647,World War I,1917,2,United States of America,355,Bulgaria,Christianity,Christianity,0
-651,World War I,1917,2,United States of America,640,Turkey,Christianity,Islam,0
-653,World War I,1917,2,United States of America,255,Germany,Christianity,Christianity,0
-656,World War I,1917,2,United States of America,300,Austria-Hungary,Christianity,,0
-662,Estonian Liberation,1918,366,Estonia,365,Russia,Non,Non,0
-665,Estonian Liberation,1918,375,Finland,365,Russia,Christianity,Non,0
-666,Estonian Liberation,1918,365,Russia,366,Estonia,Non,Non,1
-667,Estonian Liberation,1918,365,Russia,375,Finland,Non,Christianity,1
-670,Latvian Liberation,1918,255,Germany,365,Russia,Christianity,Non,0
-674,Latvian Liberation,1918,365,Russia,255,Germany,Non,Christianity,1
-677,Latvian Liberation,1918,365,Russia,366,Estonia,Non,Non,1
-678,Latvian Liberation,1918,365,Russia,367,Latvia,Non,Christianity,1
-682,Latvian Liberation,1919,255,Germany,366,Estonia,Christianity,Non,0
-683,Latvian Liberation,1919,255,Germany,367,Latvia,Christianity,Christianity,0
-685,Latvian Liberation,1919,366,Estonia,365,Russia,Non,Non,0
-686,Latvian Liberation,1919,366,Estonia,255,Germany,Non,Christianity,0
-690,Latvian Liberation,1918,367,Latvia,365,Russia,Christianity,Non,0
-691,Latvian Liberation,1918,367,Latvia,255,Germany,Christianity,Christianity,0
-695,Russo-Polish,1919,365,Russia,290,Poland,Non,Christianity,1
-696,Russo-Polish,1919,290,Poland,365,Russia,Christianity,Non,0
-699,Hungarian Adversaries,1919,310,Hungary,315,Czechoslovakia,Christianity,Christianity,0
-700,Hungarian Adversaries,1919,310,Hungary,360,Romania,Christianity,Christianity,0
-701,Hungarian Adversaries,1919,315,Czechoslovakia,310,Hungary,Christianity,Christianity,0
-704,Hungarian Adversaries,1919,360,Romania,310,Hungary,Christianity,Christianity,1
-708,Second Greco-Turkish,1919,640,Turkey,350,Greece,Islam,Christianity,0
-709,Second Greco-Turkish,1919,350,Greece,640,Turkey,Christianity,Islam,1
-712,Franco-Turkish,1919,640,Turkey,220,France,Islam,Christianity,0
-713,Franco-Turkish,1919,220,France,640,Turkey,Christianity,Islam,1
-716,Lithuanian-Polish,1920,368,Lithuania,290,Poland,Christianity,Christianity,0
-717,Lithuanian-Polish,1920,290,Poland,368,Lithuania,Christianity,Christianity,1
-720,Manchurian,1929,365,USSR,710,China,Non,Syncretic,1
-721,Manchurian,1929,710,China,365,USSR,Syncretic,Non,0
-724,Second Sino-Japanese,1931,740,Japan,710,China,Shinto,Syncretic,1
-725,Second Sino-Japanese,1931,710,China,740,Japan,Syncretic,Shinto,0
-728,Chaco,1932,145,Bolivia,150,Paraguay,Christianity,Christianity,1
-729,Chaco,1932,150,Paraguay,145,Bolivia,Christianity,Christianity,0
-732,Saudi-Yemeni,1934,670,Saudi Arabia,678,Yemen Arab Republic,Islam,Islam,1
-733,Saudi-Yemeni,1934,678,Yemen Arab Republic,670,Saudi Arabia,Islam,Islam,0
-736,Conquest of Ethiopia,1935,325,Italy,530,Ethiopia,Christianity,Christianity,1
-737,Conquest of Ethiopia,1935,530,Ethiopia,325,Italy,Christianity,Christianity,0
-740,Third Sino-Japanese,1937,710,China,740,Japan,Syncretic,Shinto,0
-741,Third Sino-Japanese,1937,740,Japan,710,China,Shinto,Syncretic,1
-744,Changkufeng,1938,365,USSR,740,Japan,Non,Shinto,0
-745,Changkufeng,1938,740,Japan,365,USSR,Shinto,Non,1
-749,Nomonhan,1939,365,USSR,740,Japan,Non,Shinto,0
-752,Nomonhan,1939,712,Mongolia,740,Japan,Non,Shinto,0
-753,Nomonhan,1939,740,Japan,365,USSR,Shinto,Non,1
-754,Nomonhan,1939,740,Japan,712,Mongolia,Shinto,Non,1
-757,World War II,1941,310,Hungary,211,Belgium,Christianity,Christianity,0
-759,World War II,1941,310,Hungary,345,Yugoslavia,Christianity,Christianity,0
-761,World War II,1941,310,Hungary,385,Norway,Christianity,Christianity,0
-762,World War II,1941,310,Hungary,20,Canada,Christianity,Christianity,0
-763,World War II,1941,310,Hungary,2,United States of America,Christianity,Christianity,0
-764,World War II,1941,310,Hungary,200,United Kingdom,Christianity,Christianity,0
-765,World War II,1941,310,Hungary,210,Netherlands,Christianity,Christianity,0
-767,World War II,1941,310,Hungary,360,Romania,Christianity,Christianity,0
-770,World War II,1941,310,Hungary,355,Bulgaria,Christianity,Christianity,0
-771,World War II,1941,310,Hungary,350,Greece,Christianity,Christianity,0
-772,World War II,1941,310,Hungary,140,Brazil,Christianity,Christianity,0
-773,World War II,1941,310,Hungary,325,Italy,Christianity,Christianity,0
-774,World War II,1941,310,Hungary,900,Australia,Christianity,Christianity,0
-775,World War II,1941,310,Hungary,920,New Zealand,Christianity,Christianity,0
-776,World War II,1941,310,Hungary,365,USSR,Christianity,Non,0
-778,World War II,1941,310,Hungary,290,Poland,Christianity,Christianity,0
-779,World War II,1941,310,Hungary,220,France,Christianity,Christianity,0
-781,World War II,1941,310,Hungary,712,Mongolia,Christianity,Non,0
-782,World War II,1941,310,Hungary,710,China,Christianity,Syncretic,0
-783,World War II,1941,310,Hungary,560,South Africa,Christianity,Christianity,0
-784,World War II,1941,310,Hungary,530,Ethiopia,Christianity,Christianity,0
-785,World War II,1940,211,Belgium,310,Hungary,Christianity,Christianity,0
-787,World War II,1940,211,Belgium,220,France,Christianity,Christianity,0
-789,World War II,1940,211,Belgium,375,Finland,Christianity,Christianity,0
-795,World War II,1940,211,Belgium,325,Italy,Christianity,Christianity,0
-797,World War II,1940,211,Belgium,360,Romania,Christianity,Christianity,0
-798,World War II,1940,211,Belgium,355,Bulgaria,Christianity,Christianity,0
-806,World War II,1940,211,Belgium,255,Germany,Christianity,Christianity,0
-809,World War II,1940,211,Belgium,740,Japan,Christianity,Shinto,0
-815,World War II,1940,220,France,211,Belgium,Christianity,Christianity,0
-817,World War II,1940,220,France,345,Yugoslavia,Christianity,Christianity,0
-819,World War II,1940,220,France,385,Norway,Christianity,Christianity,0
-820,World War II,1940,220,France,20,Canada,Christianity,Christianity,0
-821,World War II,1940,220,France,2,United States of America,Christianity,Christianity,0
-822,World War II,1940,220,France,200,United Kingdom,Christianity,Christianity,0
-823,World War II,1940,220,France,210,Netherlands,Christianity,Christianity,0
-825,World War II,1940,220,France,360,Romania,Christianity,Christianity,0
-828,World War II,1940,220,France,355,Bulgaria,Christianity,Christianity,0
-829,World War II,1940,220,France,350,Greece,Christianity,Christianity,0
-830,World War II,1940,220,France,140,Brazil,Christianity,Christianity,0
-831,World War II,1940,220,France,325,Italy,Christianity,Christianity,0
-832,World War II,1940,220,France,900,Australia,Christianity,Christianity,0
-833,World War II,1940,220,France,920,New Zealand,Christianity,Christianity,0
-834,World War II,1940,220,France,365,USSR,Christianity,Non,0
-836,World War II,1940,220,France,290,Poland,Christianity,Christianity,0
-839,World War II,1940,220,France,712,Mongolia,Christianity,Non,0
-840,World War II,1940,220,France,710,China,Christianity,Syncretic,0
-841,World War II,1940,220,France,560,South Africa,Christianity,Christianity,0
-842,World War II,1940,220,France,530,Ethiopia,Christianity,Christianity,0
-843,World War II,1941,345,Yugoslavia,310,Hungary,Christianity,Christianity,0
-845,World War II,1941,345,Yugoslavia,220,France,Christianity,Christianity,0
-847,World War II,1941,345,Yugoslavia,375,Finland,Christianity,Christianity,0
-853,World War II,1941,345,Yugoslavia,325,Italy,Christianity,Christianity,0
-855,World War II,1941,345,Yugoslavia,360,Romania,Christianity,Christianity,0
-856,World War II,1941,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
-864,World War II,1941,345,Yugoslavia,255,Germany,Christianity,Christianity,0
-867,World War II,1941,345,Yugoslavia,740,Japan,Christianity,Shinto,0
-873,World War II,1941,375,Finland,211,Belgium,Christianity,Christianity,0
-875,World War II,1941,375,Finland,345,Yugoslavia,Christianity,Christianity,0
-877,World War II,1941,375,Finland,385,Norway,Christianity,Christianity,0
-878,World War II,1941,375,Finland,20,Canada,Christianity,Christianity,0
-879,World War II,1941,375,Finland,2,United States of America,Christianity,Christianity,0
-880,World War II,1941,375,Finland,200,United Kingdom,Christianity,Christianity,0
-881,World War II,1941,375,Finland,210,Netherlands,Christianity,Christianity,0
-883,World War II,1941,375,Finland,360,Romania,Christianity,Christianity,0
-886,World War II,1941,375,Finland,355,Bulgaria,Christianity,Christianity,0
-887,World War II,1941,375,Finland,350,Greece,Christianity,Christianity,0
-888,World War II,1941,375,Finland,140,Brazil,Christianity,Christianity,0
-889,World War II,1941,375,Finland,325,Italy,Christianity,Christianity,0
-890,World War II,1941,375,Finland,900,Australia,Christianity,Christianity,0
-891,World War II,1941,375,Finland,920,New Zealand,Christianity,Christianity,0
-892,World War II,1941,375,Finland,365,USSR,Christianity,Non,0
-894,World War II,1941,375,Finland,290,Poland,Christianity,Christianity,0
-895,World War II,1941,375,Finland,220,France,Christianity,Christianity,0
-897,World War II,1941,375,Finland,712,Mongolia,Christianity,Non,0
-898,World War II,1941,375,Finland,710,China,Christianity,Syncretic,0
-899,World War II,1941,375,Finland,560,South Africa,Christianity,Christianity,0
-900,World War II,1941,375,Finland,530,Ethiopia,Christianity,Christianity,0
-901,World War II,1940,385,Norway,310,Hungary,Christianity,Christianity,0
-903,World War II,1940,385,Norway,220,France,Christianity,Christianity,0
-905,World War II,1940,385,Norway,375,Finland,Christianity,Christianity,0
-911,World War II,1940,385,Norway,325,Italy,Christianity,Christianity,0
-913,World War II,1940,385,Norway,360,Romania,Christianity,Christianity,0
-914,World War II,1940,385,Norway,355,Bulgaria,Christianity,Christianity,0
-922,World War II,1940,385,Norway,255,Germany,Christianity,Christianity,0
-925,World War II,1940,385,Norway,740,Japan,Christianity,Shinto,0
-930,World War II,1939,20,Canada,310,Hungary,Christianity,Christianity,0
-932,World War II,1939,20,Canada,220,France,Christianity,Christianity,0
-934,World War II,1939,20,Canada,375,Finland,Christianity,Christianity,0
-940,World War II,1939,20,Canada,325,Italy,Christianity,Christianity,0
-942,World War II,1939,20,Canada,360,Romania,Christianity,Christianity,0
-943,World War II,1939,20,Canada,355,Bulgaria,Christianity,Christianity,0
-951,World War II,1939,20,Canada,255,Germany,Christianity,Christianity,0
-954,World War II,1939,20,Canada,740,Japan,Christianity,Shinto,0
-959,World War II,1941,2,United States of America,310,Hungary,Christianity,Christianity,0
-961,World War II,1941,2,United States of America,220,France,Christianity,Christianity,0
-963,World War II,1941,2,United States of America,375,Finland,Christianity,Christianity,0
-969,World War II,1941,2,United States of America,325,Italy,Christianity,Christianity,0
-971,World War II,1941,2,United States of America,360,Romania,Christianity,Christianity,0
-972,World War II,1941,2,United States of America,355,Bulgaria,Christianity,Christianity,0
-980,World War II,1941,2,United States of America,255,Germany,Christianity,Christianity,0
-983,World War II,1941,2,United States of America,740,Japan,Christianity,Shinto,0
-988,World War II,1939,200,United Kingdom,310,Hungary,Christianity,Christianity,0
-990,World War II,1939,200,United Kingdom,220,France,Christianity,Christianity,0
-992,World War II,1939,200,United Kingdom,375,Finland,Christianity,Christianity,0
-998,World War II,1939,200,United Kingdom,325,Italy,Christianity,Christianity,0
-1000,World War II,1939,200,United Kingdom,360,Romania,Christianity,Christianity,0
-1001,World War II,1939,200,United Kingdom,355,Bulgaria,Christianity,Christianity,0
-1009,World War II,1939,200,United Kingdom,255,Germany,Christianity,Christianity,0
-1012,World War II,1939,200,United Kingdom,740,Japan,Christianity,Shinto,0
-1017,World War II,1940,210,Netherlands,310,Hungary,Christianity,Christianity,0
-1019,World War II,1940,210,Netherlands,220,France,Christianity,Christianity,0
-1021,World War II,1940,210,Netherlands,375,Finland,Christianity,Christianity,0
-1027,World War II,1940,210,Netherlands,325,Italy,Christianity,Christianity,0
-1029,World War II,1940,210,Netherlands,360,Romania,Christianity,Christianity,0
-1030,World War II,1940,210,Netherlands,355,Bulgaria,Christianity,Christianity,0
-1038,World War II,1940,210,Netherlands,255,Germany,Christianity,Christianity,0
-1041,World War II,1940,210,Netherlands,740,Japan,Christianity,Shinto,0
-1047,World War II,1940,325,Italy,211,Belgium,Christianity,Christianity,0
-1049,World War II,1940,325,Italy,345,Yugoslavia,Christianity,Christianity,0
-1051,World War II,1940,325,Italy,385,Norway,Christianity,Christianity,0
-1052,World War II,1940,325,Italy,20,Canada,Christianity,Christianity,0
-1053,World War II,1940,325,Italy,2,United States of America,Christianity,Christianity,0
-1054,World War II,1940,325,Italy,200,United Kingdom,Christianity,Christianity,0
-1055,World War II,1940,325,Italy,210,Netherlands,Christianity,Christianity,0
-1057,World War II,1940,325,Italy,360,Romania,Christianity,Christianity,0
-1060,World War II,1940,325,Italy,355,Bulgaria,Christianity,Christianity,0
-1061,World War II,1940,325,Italy,350,Greece,Christianity,Christianity,0
-1062,World War II,1940,325,Italy,140,Brazil,Christianity,Christianity,0
-1064,World War II,1940,325,Italy,900,Australia,Christianity,Christianity,0
-1065,World War II,1940,325,Italy,920,New Zealand,Christianity,Christianity,0
-1066,World War II,1940,325,Italy,365,USSR,Christianity,Non,0
-1068,World War II,1940,325,Italy,290,Poland,Christianity,Christianity,0
-1069,World War II,1940,325,Italy,220,France,Christianity,Christianity,0
-1071,World War II,1940,325,Italy,712,Mongolia,Christianity,Non,0
-1072,World War II,1940,325,Italy,710,China,Christianity,Syncretic,0
-1073,World War II,1940,325,Italy,560,South Africa,Christianity,Christianity,0
-1074,World War II,1940,325,Italy,530,Ethiopia,Christianity,Christianity,0
-1075,World War II,1944,360,Romania,310,Hungary,Christianity,Christianity,0
-1077,World War II,1944,360,Romania,220,France,Christianity,Christianity,0
-1079,World War II,1944,360,Romania,375,Finland,Christianity,Christianity,0
-1085,World War II,1944,360,Romania,325,Italy,Christianity,Christianity,0
-1088,World War II,1944,360,Romania,355,Bulgaria,Christianity,Christianity,0
-1096,World War II,1944,360,Romania,255,Germany,Christianity,Christianity,0
-1099,World War II,1944,360,Romania,740,Japan,Christianity,Shinto,0
-1105,World War II,1941,360,Romania,211,Belgium,Christianity,Christianity,0
-1107,World War II,1941,360,Romania,345,Yugoslavia,Christianity,Christianity,0
-1109,World War II,1941,360,Romania,385,Norway,Christianity,Christianity,0
-1110,World War II,1941,360,Romania,20,Canada,Christianity,Christianity,0
-1111,World War II,1941,360,Romania,2,United States of America,Christianity,Christianity,0
-1112,World War II,1941,360,Romania,200,United Kingdom,Christianity,Christianity,0
-1113,World War II,1941,360,Romania,210,Netherlands,Christianity,Christianity,0
-1118,World War II,1941,360,Romania,355,Bulgaria,Christianity,Christianity,0
-1119,World War II,1941,360,Romania,350,Greece,Christianity,Christianity,0
-1120,World War II,1941,360,Romania,140,Brazil,Christianity,Christianity,0
-1121,World War II,1941,360,Romania,325,Italy,Christianity,Christianity,0
-1122,World War II,1941,360,Romania,900,Australia,Christianity,Christianity,0
-1123,World War II,1941,360,Romania,920,New Zealand,Christianity,Christianity,0
-1124,World War II,1941,360,Romania,365,USSR,Christianity,Non,0
-1126,World War II,1941,360,Romania,290,Poland,Christianity,Christianity,0
-1127,World War II,1941,360,Romania,220,France,Christianity,Christianity,0
-1129,World War II,1941,360,Romania,712,Mongolia,Christianity,Non,0
-1130,World War II,1941,360,Romania,710,China,Christianity,Syncretic,0
-1131,World War II,1941,360,Romania,560,South Africa,Christianity,Christianity,0
-1132,World War II,1941,360,Romania,530,Ethiopia,Christianity,Christianity,0
-1134,World War II,1941,355,Bulgaria,211,Belgium,Christianity,Christianity,0
-1136,World War II,1941,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,0
-1138,World War II,1941,355,Bulgaria,385,Norway,Christianity,Christianity,0
-1139,World War II,1941,355,Bulgaria,20,Canada,Christianity,Christianity,0
-1140,World War II,1941,355,Bulgaria,2,United States of America,Christianity,Christianity,0
-1141,World War II,1941,355,Bulgaria,200,United Kingdom,Christianity,Christianity,0
-1142,World War II,1941,355,Bulgaria,210,Netherlands,Christianity,Christianity,0
-1144,World War II,1941,355,Bulgaria,360,Romania,Christianity,Christianity,0
-1148,World War II,1941,355,Bulgaria,350,Greece,Christianity,Christianity,0
-1149,World War II,1941,355,Bulgaria,140,Brazil,Christianity,Christianity,0
-1150,World War II,1941,355,Bulgaria,325,Italy,Christianity,Christianity,0
-1151,World War II,1941,355,Bulgaria,900,Australia,Christianity,Christianity,0
-1152,World War II,1941,355,Bulgaria,920,New Zealand,Christianity,Christianity,0
-1153,World War II,1941,355,Bulgaria,365,USSR,Christianity,Non,0
-1155,World War II,1941,355,Bulgaria,290,Poland,Christianity,Christianity,0
-1156,World War II,1941,355,Bulgaria,220,France,Christianity,Christianity,0
-1158,World War II,1941,355,Bulgaria,712,Mongolia,Christianity,Non,0
-1159,World War II,1941,355,Bulgaria,710,China,Christianity,Syncretic,0
-1160,World War II,1941,355,Bulgaria,560,South Africa,Christianity,Christianity,0
-1161,World War II,1941,355,Bulgaria,530,Ethiopia,Christianity,Christianity,0
-1162,World War II,1944,355,Bulgaria,310,Hungary,Christianity,Christianity,0
-1164,World War II,1944,355,Bulgaria,220,France,Christianity,Christianity,0
-1166,World War II,1944,355,Bulgaria,375,Finland,Christianity,Christianity,0
-1172,World War II,1944,355,Bulgaria,325,Italy,Christianity,Christianity,0
-1174,World War II,1944,355,Bulgaria,360,Romania,Christianity,Christianity,0
-1183,World War II,1944,355,Bulgaria,255,Germany,Christianity,Christianity,0
-1186,World War II,1944,355,Bulgaria,740,Japan,Christianity,Shinto,0
-1191,World War II,1940,350,Greece,310,Hungary,Christianity,Christianity,0
-1193,World War II,1940,350,Greece,220,France,Christianity,Christianity,0
-1195,World War II,1940,350,Greece,375,Finland,Christianity,Christianity,0
-1201,World War II,1940,350,Greece,325,Italy,Christianity,Christianity,0
-1203,World War II,1940,350,Greece,360,Romania,Christianity,Christianity,0
-1204,World War II,1940,350,Greece,355,Bulgaria,Christianity,Christianity,0
-1212,World War II,1940,350,Greece,255,Germany,Christianity,Christianity,0
-1215,World War II,1940,350,Greece,740,Japan,Christianity,Shinto,0
-1220,World War II,1944,140,Brazil,310,Hungary,Christianity,Christianity,0
-1222,World War II,1944,140,Brazil,220,France,Christianity,Christianity,0
-1224,World War II,1944,140,Brazil,375,Finland,Christianity,Christianity,0
-1230,World War II,1944,140,Brazil,325,Italy,Christianity,Christianity,0
-1232,World War II,1944,140,Brazil,360,Romania,Christianity,Christianity,0
-1233,World War II,1944,140,Brazil,355,Bulgaria,Christianity,Christianity,0
-1241,World War II,1944,140,Brazil,255,Germany,Christianity,Christianity,0
-1244,World War II,1944,140,Brazil,740,Japan,Christianity,Shinto,0
-1249,World War II,1943,325,Italy,310,Hungary,Christianity,Christianity,0
-1251,World War II,1943,325,Italy,220,France,Christianity,Christianity,0
-1253,World War II,1943,325,Italy,375,Finland,Christianity,Christianity,0
-1261,World War II,1943,325,Italy,360,Romania,Christianity,Christianity,0
-1262,World War II,1943,325,Italy,355,Bulgaria,Christianity,Christianity,0
-1270,World War II,1943,325,Italy,255,Germany,Christianity,Christianity,0
-1273,World War II,1943,325,Italy,740,Japan,Christianity,Shinto,0
-1278,World War II,1939,900,Australia,310,Hungary,Christianity,Christianity,0
-1280,World War II,1939,900,Australia,220,France,Christianity,Christianity,0
-1282,World War II,1939,900,Australia,375,Finland,Christianity,Christianity,0
-1288,World War II,1939,900,Australia,325,Italy,Christianity,Christianity,0
-1290,World War II,1939,900,Australia,360,Romania,Christianity,Christianity,0
-1291,World War II,1939,900,Australia,355,Bulgaria,Christianity,Christianity,0
-1299,World War II,1939,900,Australia,255,Germany,Christianity,Christianity,0
-1302,World War II,1939,900,Australia,740,Japan,Christianity,Shinto,0
-1307,World War II,1939,920,New Zealand,310,Hungary,Christianity,Christianity,0
-1309,World War II,1939,920,New Zealand,220,France,Christianity,Christianity,0
-1311,World War II,1939,920,New Zealand,375,Finland,Christianity,Christianity,0
-1317,World War II,1939,920,New Zealand,325,Italy,Christianity,Christianity,0
-1319,World War II,1939,920,New Zealand,360,Romania,Christianity,Christianity,0
-1320,World War II,1939,920,New Zealand,355,Bulgaria,Christianity,Christianity,0
-1328,World War II,1939,920,New Zealand,255,Germany,Christianity,Christianity,0
-1331,World War II,1939,920,New Zealand,740,Japan,Christianity,Shinto,0
-1336,World War II,1941,365,USSR,310,Hungary,Non,Christianity,0
-1338,World War II,1941,365,USSR,220,France,Non,Christianity,0
-1340,World War II,1941,365,USSR,375,Finland,Non,Christianity,0
-1346,World War II,1941,365,USSR,325,Italy,Non,Christianity,0
-1348,World War II,1941,365,USSR,360,Romania,Non,Christianity,0
-1349,World War II,1941,365,USSR,355,Bulgaria,Non,Christianity,0
-1357,World War II,1941,365,USSR,255,Germany,Non,Christianity,0
-1360,World War II,1941,365,USSR,740,Japan,Non,Shinto,0
-1366,World War II,1939,255,Germany,211,Belgium,Christianity,Christianity,1
-1368,World War II,1939,255,Germany,345,Yugoslavia,Christianity,Christianity,1
-1370,World War II,1939,255,Germany,385,Norway,Christianity,Christianity,1
-1371,World War II,1939,255,Germany,20,Canada,Christianity,Christianity,1
-1372,World War II,1939,255,Germany,2,United States of America,Christianity,Christianity,1
-1373,World War II,1939,255,Germany,200,United Kingdom,Christianity,Christianity,1
-1374,World War II,1939,255,Germany,210,Netherlands,Christianity,Christianity,1
-1376,World War II,1939,255,Germany,360,Romania,Christianity,Christianity,1
-1379,World War II,1939,255,Germany,355,Bulgaria,Christianity,Christianity,1
-1380,World War II,1939,255,Germany,350,Greece,Christianity,Christianity,1
-1381,World War II,1939,255,Germany,140,Brazil,Christianity,Christianity,1
-1382,World War II,1939,255,Germany,325,Italy,Christianity,Christianity,1
-1383,World War II,1939,255,Germany,900,Australia,Christianity,Christianity,1
-1384,World War II,1939,255,Germany,920,New Zealand,Christianity,Christianity,1
-1385,World War II,1939,255,Germany,365,USSR,Christianity,Non,1
-1387,World War II,1939,255,Germany,290,Poland,Christianity,Christianity,1
-1388,World War II,1939,255,Germany,220,France,Christianity,Christianity,1
-1390,World War II,1939,255,Germany,712,Mongolia,Christianity,Non,1
-1391,World War II,1939,255,Germany,710,China,Christianity,Syncretic,1
-1392,World War II,1939,255,Germany,560,South Africa,Christianity,Christianity,1
-1393,World War II,1939,255,Germany,530,Ethiopia,Christianity,Christianity,1
-1394,World War II,1939,290,Poland,310,Hungary,Christianity,Christianity,0
-1396,World War II,1939,290,Poland,220,France,Christianity,Christianity,0
-1398,World War II,1939,290,Poland,375,Finland,Christianity,Christianity,0
-1404,World War II,1939,290,Poland,325,Italy,Christianity,Christianity,0
-1406,World War II,1939,290,Poland,360,Romania,Christianity,Christianity,0
-1407,World War II,1939,290,Poland,355,Bulgaria,Christianity,Christianity,0
-1415,World War II,1939,290,Poland,255,Germany,Christianity,Christianity,0
-1418,World War II,1939,290,Poland,740,Japan,Christianity,Shinto,0
-1423,World War II,1939,220,France,310,Hungary,Christianity,Christianity,0
-1427,World War II,1939,220,France,375,Finland,Christianity,Christianity,0
-1433,World War II,1939,220,France,325,Italy,Christianity,Christianity,0
-1435,World War II,1939,220,France,360,Romania,Christianity,Christianity,0
-1436,World War II,1939,220,France,355,Bulgaria,Christianity,Christianity,0
-1444,World War II,1939,220,France,255,Germany,Christianity,Christianity,0
-1447,World War II,1939,220,France,740,Japan,Christianity,Shinto,0
-1453,World War II,1941,740,Japan,211,Belgium,Shinto,Christianity,0
-1455,World War II,1941,740,Japan,345,Yugoslavia,Shinto,Christianity,0
-1457,World War II,1941,740,Japan,385,Norway,Shinto,Christianity,0
-1458,World War II,1941,740,Japan,20,Canada,Shinto,Christianity,0
-1459,World War II,1941,740,Japan,2,United States of America,Shinto,Christianity,0
-1460,World War II,1941,740,Japan,200,United Kingdom,Shinto,Christianity,0
-1461,World War II,1941,740,Japan,210,Netherlands,Shinto,Christianity,0
-1463,World War II,1941,740,Japan,360,Romania,Shinto,Christianity,0
-1466,World War II,1941,740,Japan,355,Bulgaria,Shinto,Christianity,0
-1467,World War II,1941,740,Japan,350,Greece,Shinto,Christianity,0
-1468,World War II,1941,740,Japan,140,Brazil,Shinto,Christianity,0
-1469,World War II,1941,740,Japan,325,Italy,Shinto,Christianity,0
-1470,World War II,1941,740,Japan,900,Australia,Shinto,Christianity,0
-1471,World War II,1941,740,Japan,920,New Zealand,Shinto,Christianity,0
-1472,World War II,1941,740,Japan,365,USSR,Shinto,Non,0
-1474,World War II,1941,740,Japan,290,Poland,Shinto,Christianity,0
-1475,World War II,1941,740,Japan,220,France,Shinto,Christianity,0
-1477,World War II,1941,740,Japan,712,Mongolia,Shinto,Non,0
-1478,World War II,1941,740,Japan,710,China,Shinto,Syncretic,0
-1479,World War II,1941,740,Japan,560,South Africa,Shinto,Christianity,0
-1480,World War II,1941,740,Japan,530,Ethiopia,Shinto,Christianity,0
-1481,World War II,1945,712,Mongolia,310,Hungary,Non,Christianity,0
-1483,World War II,1945,712,Mongolia,220,France,Non,Christianity,0
-1485,World War II,1945,712,Mongolia,375,Finland,Non,Christianity,0
-1491,World War II,1945,712,Mongolia,325,Italy,Non,Christianity,0
-1493,World War II,1945,712,Mongolia,360,Romania,Non,Christianity,0
-1494,World War II,1945,712,Mongolia,355,Bulgaria,Non,Christianity,0
-1502,World War II,1945,712,Mongolia,255,Germany,Non,Christianity,0
-1505,World War II,1945,712,Mongolia,740,Japan,Non,Shinto,0
-1510,World War II,1941,710,China,310,Hungary,Syncretic,Christianity,0
-1512,World War II,1941,710,China,220,France,Syncretic,Christianity,0
-1514,World War II,1941,710,China,375,Finland,Syncretic,Christianity,0
-1520,World War II,1941,710,China,325,Italy,Syncretic,Christianity,0
-1522,World War II,1941,710,China,360,Romania,Syncretic,Christianity,0
-1523,World War II,1941,710,China,355,Bulgaria,Syncretic,Christianity,0
-1531,World War II,1941,710,China,255,Germany,Syncretic,Christianity,0
-1534,World War II,1941,710,China,740,Japan,Syncretic,Shinto,0
-1539,World War II,1939,560,South Africa,310,Hungary,Christianity,Christianity,0
-1541,World War II,1939,560,South Africa,220,France,Christianity,Christianity,0
-1543,World War II,1939,560,South Africa,375,Finland,Christianity,Christianity,0
-1549,World War II,1939,560,South Africa,325,Italy,Christianity,Christianity,0
-1551,World War II,1939,560,South Africa,360,Romania,Christianity,Christianity,0
-1552,World War II,1939,560,South Africa,355,Bulgaria,Christianity,Christianity,0
-1560,World War II,1939,560,South Africa,255,Germany,Christianity,Christianity,0
-1563,World War II,1939,560,South Africa,740,Japan,Christianity,Shinto,0
-1568,World War II,1941,530,Ethiopia,310,Hungary,Christianity,Christianity,0
-1570,World War II,1941,530,Ethiopia,220,France,Christianity,Christianity,0
-1572,World War II,1941,530,Ethiopia,375,Finland,Christianity,Christianity,0
-1578,World War II,1941,530,Ethiopia,325,Italy,Christianity,Christianity,0
-1580,World War II,1941,530,Ethiopia,360,Romania,Christianity,Christianity,0
-1581,World War II,1941,530,Ethiopia,355,Bulgaria,Christianity,Christianity,0
-1589,World War II,1941,530,Ethiopia,255,Germany,Christianity,Christianity,0
-1592,World War II,1941,530,Ethiopia,740,Japan,Christianity,Shinto,0
-1598,Russo-Finnish,1939,375,Finland,365,USSR,Christianity,Non,0
-1599,Russo-Finnish,1939,365,USSR,375,Finland,Non,Christianity,1
-1602,Franco-Thai,1940,220,France,800,Thailand,Christianity,Buddhism,0
-1603,Franco-Thai,1940,800,Thailand,220,France,Buddhism,Christianity,1
-1606,First Kashmir,1947,750,India,770,Pakistan,Hindu,Islam,1
-1607,First Kashmir,1947,770,Pakistan,750,India,Islam,Hindu,0
-1610,Arab-Israeli,1948,666,Israel,651,Egypt,Judaism,Islam,0
-1611,Arab-Israeli,1948,666,Israel,652,Syria,Judaism,Islam,0
-1612,Arab-Israeli,1948,666,Israel,660,Lebanon,Judaism,Christianity,0
-1613,Arab-Israeli,1948,666,Israel,663,Jordan,Judaism,Islam,0
-1614,Arab-Israeli,1948,666,Israel,645,Iraq,Judaism,Islam,0
-1615,Arab-Israeli,1948,651,Egypt,666,Israel,Islam,Judaism,0
-1621,Arab-Israeli,1948,652,Syria,666,Israel,Islam,Judaism,0
-1627,Arab-Israeli,1948,660,Lebanon,666,Israel,Christianity,Judaism,0
-1633,Arab-Israeli,1948,663,Jordan,666,Israel,Islam,Judaism,1
-1639,Arab-Israeli,1948,645,Iraq,666,Israel,Islam,Judaism,0
-1646,Korean,1950,710,China,211,Belgium,Syncretic,Christianity,0
-1647,Korean,1950,710,China,20,Canada,Syncretic,Christianity,0
-1648,Korean,1950,710,China,100,Colombia,Syncretic,Christianity,0
-1649,Korean,1950,710,China,200,United Kingdom,Syncretic,Christianity,0
-1650,Korean,1950,710,China,210,Netherlands,Syncretic,Christianity,0
-1651,Korean,1950,710,China,350,Greece,Syncretic,Christianity,0
-1652,Korean,1950,710,China,220,France,Syncretic,Christianity,0
-1653,Korean,1950,710,China,640,Turkey,Syncretic,Islam,0
-1654,Korean,1950,710,China,840,Philippines,Syncretic,Christianity,0
-1655,Korean,1950,710,China,800,Thailand,Syncretic,Buddhism,0
-1657,Korean,1950,710,China,530,Ethiopia,Syncretic,Christianity,0
-1658,Korean,1950,710,China,900,Australia,Syncretic,Christianity,0
-1659,Korean,1950,710,China,732,South Korea,Syncretic,Animist,0
-1660,Korean,1950,710,China,2,United States of America,Syncretic,Christianity,0
-1661,Korean,1951,211,Belgium,710,China,Christianity,Syncretic,0
-1672,Korean,1951,211,Belgium,731,North Korea,Christianity,Non,0
-1677,Korean,1950,20,Canada,710,China,Christianity,Syncretic,0
-1688,Korean,1950,20,Canada,731,North Korea,Christianity,Non,0
-1693,Korean,1951,100,Colombia,710,China,Christianity,Syncretic,0
-1704,Korean,1951,100,Colombia,731,North Korea,Christianity,Non,0
-1709,Korean,1950,200,United Kingdom,710,China,Christianity,Syncretic,0
-1720,Korean,1950,200,United Kingdom,731,North Korea,Christianity,Non,0
-1725,Korean,1951,210,Netherlands,710,China,Christianity,Syncretic,0
-1736,Korean,1951,210,Netherlands,731,North Korea,Christianity,Non,0
-1741,Korean,1951,350,Greece,710,China,Christianity,Syncretic,0
-1752,Korean,1951,350,Greece,731,North Korea,Christianity,Non,0
-1757,Korean,1951,220,France,710,China,Christianity,Syncretic,0
-1768,Korean,1951,220,France,731,North Korea,Christianity,Non,0
-1773,Korean,1950,640,Turkey,710,China,Islam,Syncretic,0
-1784,Korean,1950,640,Turkey,731,North Korea,Islam,Non,0
-1789,Korean,1950,840,Philippines,710,China,Christianity,Syncretic,0
-1800,Korean,1950,840,Philippines,731,North Korea,Christianity,Non,0
-1805,Korean,1951,800,Thailand,710,China,Buddhism,Syncretic,0
-1816,Korean,1951,800,Thailand,731,North Korea,Buddhism,Non,0
-1822,Korean,1950,731,North Korea,211,Belgium,Non,Christianity,1
-1823,Korean,1950,731,North Korea,20,Canada,Non,Christianity,1
-1824,Korean,1950,731,North Korea,100,Colombia,Non,Christianity,1
-1825,Korean,1950,731,North Korea,200,United Kingdom,Non,Christianity,1
-1826,Korean,1950,731,North Korea,210,Netherlands,Non,Christianity,1
-1827,Korean,1950,731,North Korea,350,Greece,Non,Christianity,1
-1828,Korean,1950,731,North Korea,220,France,Non,Christianity,1
-1829,Korean,1950,731,North Korea,640,Turkey,Non,Islam,1
-1830,Korean,1950,731,North Korea,840,Philippines,Non,Christianity,1
-1831,Korean,1950,731,North Korea,800,Thailand,Non,Buddhism,1
-1833,Korean,1950,731,North Korea,530,Ethiopia,Non,Christianity,1
-1834,Korean,1950,731,North Korea,900,Australia,Non,Christianity,1
-1835,Korean,1950,731,North Korea,732,South Korea,Non,Animist,1
-1836,Korean,1950,731,North Korea,2,United States of America,Non,Christianity,1
-1837,Korean,1951,530,Ethiopia,710,China,Christianity,Syncretic,0
-1848,Korean,1951,530,Ethiopia,731,North Korea,Christianity,Non,0
-1853,Korean,1950,900,Australia,710,China,Christianity,Syncretic,0
-1864,Korean,1950,900,Australia,731,North Korea,Christianity,Non,0
-1869,Korean,1950,732,South Korea,710,China,Animist,Syncretic,0
-1880,Korean,1950,732,South Korea,731,North Korea,Animist,Non,0
-1885,Korean,1950,2,United States of America,710,China,Christianity,Syncretic,0
-1896,Korean,1950,2,United States of America,731,North Korea,Christianity,Non,0
-1902,Off-shore Islands,1954,710,China,713,Taiwan,Syncretic,Syncretic,1
-1903,Off-shore Islands,1954,713,Taiwan,710,China,Syncretic,Syncretic,0
-1907,Sinai War,1956,220,France,651,Egypt,Christianity,Islam,0
-1911,Sinai War,1956,666,Israel,651,Egypt,Judaism,Islam,1
-1913,Sinai War,1956,651,Egypt,220,France,Islam,Christianity,0
-1914,Sinai War,1956,651,Egypt,666,Israel,Islam,Judaism,0
-1916,Sinai War,1956,651,Egypt,200,United Kingdom,Islam,Christianity,0
-1919,Sinai War,1956,200,United Kingdom,651,Egypt,Christianity,Islam,0
-1922,Soviet Invasion of Hungary,1956,310,Hungary,365,USSR,Christianity,Non,0
-1923,Soviet Invasion of Hungary,1956,365,USSR,310,Hungary,Non,Christianity,1
-1927,IfniWar,1958,220,France,600,Morocco,Christianity,Islam,0
-1930,IfniWar,1957,230,Spain,600,Morocco,Christianity,Islam,0
-1931,IfniWar,1957,600,Morocco,220,France,Islam,Christianity,1
-1932,IfniWar,1957,600,Morocco,230,Spain,Islam,Christianity,1
-1935,Taiwan Straits,1958,710,China (PRC),713,Taiwan (ROC),Syncretic,Syncretic,1
-1936,Taiwan Straits,1958,713,Taiwan (ROC),710,China (PRC),Syncretic,Syncretic,0
-1939,Assam,1962,750,India,710,China (PRC),Hindu,Syncretic,0
-1940,Assam,1962,710,China (PRC),750,India,Syncretic,Hindu,1
-1947,"Vietnam War, Phase 2",1965,2,United States of America,816,Vietnam,Christianity,Non,1
-1955,"Vietnam War, Phase 2",1970,811,Cambodia,816,Vietnam,Buddhism,Non,0
-1963,"Vietnam War, Phase 2",1965,732,South Korea,816,Vietnam,Animist,Non,0
-1971,"Vietnam War, Phase 2",1966,840,Philippines,816,Vietnam,Christianity,Non,0
-1979,"Vietnam War, Phase 2",1965,817,South Vietnam,816,Vietnam,Buddhism,Non,0
-1982,"Vietnam War, Phase 2",1965,816,Vietnam,2,United States of America,Non,Christianity,0
-1983,"Vietnam War, Phase 2",1965,816,Vietnam,811,Cambodia,Non,Buddhism,0
-1984,"Vietnam War, Phase 2",1965,816,Vietnam,732,South Korea,Non,Animist,0
-1985,"Vietnam War, Phase 2",1965,816,Vietnam,840,Philippines,Non,Christianity,0
-1986,"Vietnam War, Phase 2",1965,816,Vietnam,817,South Vietnam,Non,Buddhism,0
-1988,"Vietnam War, Phase 2",1965,816,Vietnam,800,Thailand,Non,Buddhism,0
-1989,"Vietnam War, Phase 2",1965,816,Vietnam,900,Australia,Non,Christianity,0
-1995,"Vietnam War, Phase 2",1967,800,Thailand,816,Vietnam,Buddhism,Non,0
-2003,"Vietnam War, Phase 2",1965,900,Australia,816,Vietnam,Christianity,Non,0
-2007,Second Kashmir,1965,750,India,770,Pakistan,Hindu,Islam,0
-2008,Second Kashmir,1965,770,Pakistan,750,India,Islam,Hindu,1
-2011,Six Day War,1967,666,Israel,651,Egypt,Judaism,Islam,1
-2012,Six Day War,1967,666,Israel,663,Jordan,Judaism,Islam,1
-2013,Six Day War,1967,666,Israel,652,Syria,Judaism,Islam,1
-2014,Six Day War,1967,651,Egypt,666,Israel,Islam,Judaism,0
-2018,Six Day War,1967,663,Jordan,666,Israel,Islam,Judaism,0
-2022,Six Day War,1967,652,Syria,666,Israel,Islam,Judaism,0
-2029,"Second Laotian, Phase 2",1968,2,United States of America,816,Vietnam,Christianity,Non,0
-2033,"Second Laotian, Phase 2",1970,800,Thailand,816,Vietnam,Buddhism,Non,0
-2037,"Second Laotian, Phase 2",1968,812,Laos,816,Vietnam,Buddhism,Non,0
-2038,"Second Laotian, Phase 2",1968,816,Vietnam,2,United States of America,Non,Christianity,1
-2039,"Second Laotian, Phase 2",1968,816,Vietnam,800,Thailand,Non,Buddhism,1
-2040,"Second Laotian, Phase 2",1968,816,Vietnam,812,Laos,Non,Buddhism,1
-2043,War of Attrition,1969,651,Egypt,666,Israel,Islam,Judaism,1
-2044,War of Attrition,1969,666,Israel,651,Egypt,Judaism,Islam,0
-2047,Football War,1969,91,Honduras,92,El Salvador,Christianity,Christianity,0
-2048,Football War,1969,92,El Salvador,91,Honduras,Christianity,Christianity,1
-2051,Communist Coalition,1970,816,Vietnam,2,United States of America,Non,Christianity,1
-2052,Communist Coalition,1970,816,Vietnam,811,Cambodia,Non,Buddhism,1
-2053,Communist Coalition,1970,816,Vietnam,817,South Vietnam,Non,Buddhism,1
-2054,Communist Coalition,1970,2,United States of America,816,Vietnam,Christianity,Non,0
-2058,Communist Coalition,1970,811,Cambodia,816,Vietnam,Buddhism,Non,0
-2062,Communist Coalition,1970,817,South Vietnam,816,Vietnam,Buddhism,Non,0
-2067,Bangladesh,1971,750,India,770,Pakistan,Hindu,Islam,0
-2068,Bangladesh,1971,770,Pakistan,750,India,Islam,Hindu,1
-2072,Yom Kippur War,1973,651,Egypt,666,Israel,Islam,Judaism,1
-2078,Yom Kippur War,1973,670,Saudi Arabia,666,Israel,Islam,Judaism,0
-2082,Yom Kippur War,1973,666,Israel,651,Egypt,Judaism,Islam,0
-2083,Yom Kippur War,1973,666,Israel,670,Saudi Arabia,Judaism,Islam,0
-2085,Yom Kippur War,1973,666,Israel,663,Jordan,Judaism,Islam,0
-2086,Yom Kippur War,1973,666,Israel,652,Syria,Judaism,Islam,0
-2087,Yom Kippur War,1973,666,Israel,645,Iraq,Judaism,Islam,0
-2090,Yom Kippur War,1973,663,Jordan,666,Israel,Islam,Judaism,0
-2096,Yom Kippur War,1973,652,Syria,666,Israel,Islam,Judaism,1
-2102,Yom Kippur War,1973,645,Iraq,666,Israel,Islam,Judaism,0
-2107,Turco-Cypriot,1974,640,Turkey,352,Cyprus,Islam,Christianity,1
-2108,Turco-Cypriot,1974,352,Cyprus,640,Turkey,Christianity,Islam,0
-2111,War over Angola,1975,40,Cuba,560,South Africa,Christianity,Christianity,0
-2112,War over Angola,1975,40,Cuba,490,Democratic Republic of the Congo,Christianity,Christianity,0
-2114,War over Angola,1975,560,South Africa,40,Cuba,Christianity,Christianity,1
-2117,War over Angola,1975,560,South Africa,540,Angola,Christianity,Christianity,1
-2118,War over Angola,1975,490,Democratic Republic of the Congo,40,Cuba,Christianity,Christianity,0
-2121,War over Angola,1975,490,Democratic Republic of the Congo,540,Angola,Christianity,Christianity,0
-2123,War over Angola,1975,540,Angola,560,South Africa,Christianity,Christianity,0
-2124,War over Angola,1975,540,Angola,490,Democratic Republic of the Congo,Christianity,Christianity,0
-2128,"Second Ogaden War, Phase 2",1977,530,Ethiopia,520,Somalia,Christianity,Islam,0
-2131,"Second Ogaden War, Phase 2",1977,40,Cuba,520,Somalia,Christianity,Islam,0
-2132,"Second Ogaden War, Phase 2",1977,520,Somalia,530,Ethiopia,Islam,Christianity,1
-2133,"Second Ogaden War, Phase 2",1977,520,Somalia,40,Cuba,Islam,Christianity,1
-2136,Vietnamese-Cambodian,1977,816,Vietnam,811,Cambodia,Non,Buddhism,0
-2137,Vietnamese-Cambodian,1977,811,Cambodia,816,Vietnam,Buddhism,Non,1
-2140,Ugandian-Tanzanian,1978,500,Uganda,510,Tanzania,Christianity,Christianity,1
-2142,Ugandian-Tanzanian,1978,510,Tanzania,500,Uganda,Christianity,Christianity,0
-2144,Ugandian-Tanzanian,1978,510,Tanzania,620,Libya,Christianity,Islam,0
-2146,Ugandian-Tanzanian,1979,620,Libya,510,Tanzania,Islam,Christianity,0
-2149,Sino-Vietnamese Punitive,1979,710,China,816,Vietnam,Syncretic,Non,1
-2150,Sino-Vietnamese Punitive,1979,816,Vietnam,710,China,Non,Syncretic,0
-2153,Iran-Iraq,1980,645,Iraq,630,Iran,Islam,Islam,1
-2154,Iran-Iraq,1980,630,Iran,645,Iraq,Islam,Islam,0
-2157,Falkland Islands,1982,200,United Kingdom,160,Argentina,Christianity,Christianity,0
-2158,Falkland Islands,1982,160,Argentina,200,United Kingdom,Christianity,Christianity,1
-2161,War over Lebanon,1982,666,Israel,652,Syria,Judaism,Islam,1
-2162,War over Lebanon,1982,652,Syria,666,Israel,Islam,Judaism,0
-2165,War over the Aouzou Strip,1986,483,Chad,620,Libya,Islam,Islam,1
-2166,War over the Aouzou Strip,1986,620,Libya,483,Chad,Islam,Islam,0
-2169,Sino-Vietnamese Border War,1987,816,Vietnam,710,China,Non,Syncretic,0
-2170,Sino-Vietnamese Border War,1987,710,China,816,Vietnam,Syncretic,Non,1
-2178,Gulf War,1990,690,Kuwait,645,Iraq,Islam,Islam,0
-2192,Gulf War,1991,2,United States of America,645,Iraq,Christianity,Islam,0
-2206,Gulf War,1991,20,Canada,645,Iraq,Christianity,Islam,0
-2220,Gulf War,1991,200,United Kingdom,645,Iraq,Christianity,Islam,0
-2234,Gulf War,1991,325,Italy,645,Iraq,Christianity,Islam,0
-2248,Gulf War,1991,600,Morocco,645,Iraq,Islam,Islam,0
-2256,Gulf War,1990,645,Iraq,690,Kuwait,Islam,Islam,1
-2257,Gulf War,1990,645,Iraq,2,United States of America,Islam,Christianity,1
-2258,Gulf War,1990,645,Iraq,20,Canada,Islam,Christianity,1
-2259,Gulf War,1990,645,Iraq,200,United Kingdom,Islam,Christianity,1
-2260,Gulf War,1990,645,Iraq,325,Italy,Islam,Christianity,1
-2261,Gulf War,1990,645,Iraq,600,Morocco,Islam,Islam,1
-2263,Gulf War,1990,645,Iraq,651,Egypt,Islam,Islam,1
-2264,Gulf War,1990,645,Iraq,698,Oman,Islam,Islam,1
-2265,Gulf War,1990,645,Iraq,220,France,Islam,Christianity,1
-2266,Gulf War,1990,645,Iraq,696,United Arab Emirates,Islam,Islam,1
-2267,Gulf War,1990,645,Iraq,694,Qatar,Islam,Islam,1
-2268,Gulf War,1990,645,Iraq,670,Saudi Arabia,Islam,Islam,1
-2269,Gulf War,1990,645,Iraq,652,Syria,Islam,Islam,1
-2276,Gulf War,1991,651,Egypt,645,Iraq,Islam,Islam,0
-2290,Gulf War,1991,698,Oman,645,Iraq,Islam,Islam,0
-2304,Gulf War,1991,220,France,645,Iraq,Christianity,Islam,0
-2318,Gulf War,1991,696,United Arab Emirates,645,Iraq,Islam,Islam,0
-2332,Gulf War,1991,694,Qatar,645,Iraq,Islam,Islam,0
-2346,Gulf War,1991,670,Saudi Arabia,645,Iraq,Islam,Islam,0
-2360,Gulf War,1991,652,Syria,645,Iraq,Islam,Islam,0
-2370,Bosnian Independence,1992,344,Croatia,345,Yugoslavia,Christianity,Christianity,0
-2373,Bosnian Independence,1992,346,Bosnia,345,Yugoslavia,Christianity,Christianity,0
-2374,Bosnian Independence,1992,345,Yugoslavia,344,Croatia,Christianity,Christianity,1
-2375,Bosnian Independence,1992,345,Yugoslavia,346,Bosnia,Christianity,Christianity,1
-2378,Azeri-Armenian,1993,373,Azerbaijan,371,Armenia,Islam,Christianity,0
-2379,Azeri-Armenian,1993,371,Armenia,373,Azerbaijan,Christianity,Islam,1
-2382,Cenepa Valley,1995,130,Ecuador,135,Peru,Christianity,Christianity,1
-2383,Cenepa Valley,1995,135,Peru,130,Ecuador,Christianity,Christianity,0
-2386,Badme Border,1998,531,Eritrea,530,Ethiopia,Christianity,Christianity,1
-2387,Badme Border,1998,530,Ethiopia,531,Eritrea,Christianity,Christianity,0
-2395,War for Kosovo,1999,640,Turkey,345,Yugoslavia,Islam,Christianity,1
-2403,War for Kosovo,1999,325,Italy,345,Yugoslavia,Christianity,Christianity,1
-2411,War for Kosovo,1999,200,United Kingdom,345,Yugoslavia,Christianity,Christianity,1
-2419,War for Kosovo,1999,2,United States of America,345,Yugoslavia,Christianity,Christianity,1
-2427,War for Kosovo,1999,210,Netherlands,345,Yugoslavia,Christianity,Christianity,1
-2435,War for Kosovo,1999,220,France,345,Yugoslavia,Christianity,Christianity,1
-2437,War for Kosovo,1999,345,Yugoslavia,640,Turkey,Christianity,Islam,0
-2438,War for Kosovo,1999,345,Yugoslavia,325,Italy,Christianity,Christianity,0
-2439,War for Kosovo,1999,345,Yugoslavia,200,United Kingdom,Christianity,Christianity,0
-2440,War for Kosovo,1999,345,Yugoslavia,2,United States of America,Christianity,Christianity,0
-2441,War for Kosovo,1999,345,Yugoslavia,210,Netherlands,Christianity,Christianity,0
-2442,War for Kosovo,1999,345,Yugoslavia,220,France,Christianity,Christianity,0
-2444,War for Kosovo,1999,345,Yugoslavia,255,Germany,Christianity,Christianity,0
-2451,War for Kosovo,1999,255,Germany,345,Yugoslavia,Christianity,Christianity,1
-2454,Kargil War,1999,750,India,770,Pakistan,Hindu,Islam,0
-2455,Kargil War,1999,770,Pakistan,750,India,Islam,Hindu,1
-2462,Invasion of Afghanistan,2001,20,Canada,700,Afghanistan,Christianity,Islam,0
-2468,Invasion of Afghanistan,2001,220,France,700,Afghanistan,Christianity,Islam,0
-2474,Invasion of Afghanistan,2001,200,United Kingdom,700,Afghanistan,Christianity,Islam,1
-2480,Invasion of Afghanistan,2001,2,United States of America,700,Afghanistan,Christianity,Islam,1
-2486,Invasion of Afghanistan,2001,900,Australia,700,Afghanistan,Christianity,Islam,0
-2487,Invasion of Afghanistan,2001,700,Afghanistan,20,Canada,Islam,Christianity,0
-2488,Invasion of Afghanistan,2001,700,Afghanistan,220,France,Islam,Christianity,0
-2489,Invasion of Afghanistan,2001,700,Afghanistan,200,United Kingdom,Islam,Christianity,0
-2490,Invasion of Afghanistan,2001,700,Afghanistan,2,United States of America,Islam,Christianity,0
-2491,Invasion of Afghanistan,2001,700,Afghanistan,900,Australia,Islam,Christianity,0
-2496,Invasion of Iraq,2003,900,Australia,645,Iraq,Christianity,Islam,1
-2500,Invasion of Iraq,2003,200,United Kingdom,645,Iraq,Christianity,Islam,1
-2504,Invasion of Iraq,2003,2,United States of America,645,Iraq,Christianity,Islam,1
-2505,Invasion of Iraq,2003,645,Iraq,900,Australia,Islam,Christianity,0
-2506,Invasion of Iraq,2003,645,Iraq,200,United Kingdom,Islam,Christianity,0
-2507,Invasion of Iraq,2003,645,Iraq,2,United States of America,Islam,Christianity,0
+WarName,Year,Ccode1,Player1,Ccode2,Player2,Religion1,Religion2,Initiator
+Franco-Spanish War,1823,230,Spain,220,France,Christianity,Christianity,0
+Franco-Spanish War,1823,220,France,230,Spain,Christianity,Christianity,1
+First Russo-Turkish,1828,640,Ottoman Empire,365,Russia,Islam,Non,0
+First Russo-Turkish,1828,365,Russia,640,Ottoman Empire,Non,Islam,1
+Mexican-American,1846,70,Mexico,2,United States of America,Christianity,Christianity,0
+Mexican-American,1846,2,United States of America,70,Mexico,Christianity,Christianity,1
+Austro-Sardinian,1848,337,Tuscany,300,Austria,,,0
+Austro-Sardinian,1848,325,Italy,300,Austria,Christianity,,1
+Austro-Sardinian,1848,300,Austria,337,Tuscany,,,0
+Austro-Sardinian,1848,300,Austria,325,Italy,,Christianity,0
+Austro-Sardinian,1848,300,Austria,332,Modena,,,0
+Austro-Sardinian,1848,332,Modena,300,Austria,,,0
+First Schleswig-Holstein,1848,255,Prussia,390,Denmark,Christianity,Christianity,1
+First Schleswig-Holstein,1848,390,Denmark,255,Prussia,Christianity,Christianity,0
+Roman Republic,1849,220,France,327,Papal States,Christianity,,1
+Roman Republic,1849,329,Two Sicilies,327,Papal States,,,0
+Roman Republic,1849,300,Austria,327,Papal States,,,0
+Roman Republic,1849,327,Papal States,220,France,,Christianity,0
+Roman Republic,1849,327,Papal States,329,Two Sicilies,,,0
+Roman Republic,1849,327,Papal States,300,Austria,,,0
+La Plata,1851,160,Argentina,140,Brazil,Christianity,Christianity,0
+La Plata,1851,140,Brazil,160,Argentina,Christianity,Christianity,1
+Crimean,1853,640,Turkey,365,Russia,Islam,Non,1
+Crimean,1855,325,Italy,365,Russia,Christianity,Non,0
+Crimean,1854,220,France,365,Russia,Christianity,Non,0
+Crimean,1854,200,United Kingdom,365,Russia,Christianity,Non,0
+Crimean,1853,365,Russia,640,Turkey,Non,Islam,0
+Crimean,1853,365,Russia,325,Italy,Non,Christianity,0
+Crimean,1853,365,Russia,220,France,Non,Christianity,0
+Crimean,1853,365,Russia,200,United Kingdom,Non,Christianity,0
+Anglo-Persian,1856,200,United Kingdom,630,Iran,Christianity,Islam,1
+Anglo-Persian,1856,630,Iran,200,United Kingdom,Islam,Christianity,0
+Italian Unification,1859,325,Sardinia/Piedmont,300,Austria,Christianity,,0
+Italian Unification,1859,300,Austria,325,Sardinia/Piedmont,,Christianity,1
+Italian Unification,1859,300,Austria,220,France,,Christianity,1
+Italian Unification,1859,220,France,300,Austria,Christianity,,0
+First Spanish-Moroccan,1859,600,Morocco,230,Spain,Islam,Christianity,0
+First Spanish-Moroccan,1859,230,Spain,600,Morocco,Christianity,Islam,1
+Italian-Roman,1860,325,Sardinia/Piedmont,327,Papal States,Christianity,,1
+Italian-Roman,1860,327,Papal States,325,Sardinia/Piedmont,,Christianity,0
+Neapolitan,1860,329,Two Sicilies,325,Sardinia/Piedmont,,Christianity,0
+Neapolitan,1860,325,Sardinia/Piedmont,329,Two Sicilies,Christianity,,1
+Franco-Mexican,1862,70,Mexico,220,France,Christianity,Christianity,0
+Franco-Mexican,1862,220,France,70,Mexico,Christianity,Christianity,1
+Ecuadorian-Colombian,1863,100,Colombia,130,Ecuador,Christianity,Christianity,1
+Ecuadorian-Colombian,1863,130,Ecuador,100,Colombia,Christianity,Christianity,0
+Second Schleswig-Holstein,1864,255,Germany,390,Denmark,Christianity,Christianity,1
+Second Schleswig-Holstein,1864,390,Denmark,255,Germany,Christianity,Christianity,0
+Second Schleswig-Holstein,1864,390,Denmark,300,Austria,Christianity,,0
+Second Schleswig-Holstein,1864,300,Austria,390,Denmark,,Christianity,0
+Lopez,1865,160,Argentina,150,Paraguay,Christianity,Christianity,0
+Lopez,1864,150,Paraguay,160,Argentina,Christianity,Christianity,1
+Lopez,1864,150,Paraguay,140,Brazil,Christianity,Christianity,1
+Lopez,1864,140,Brazil,150,Paraguay,Christianity,Christianity,0
+Naval War,1865,155,Chile,230,Spain,Christianity,Christianity,0
+Naval War,1866,135,Peru,230,Spain,Christianity,Christianity,0
+Naval War,1865,230,Spain,155,Chile,Christianity,Christianity,1
+Naval War,1865,230,Spain,135,Peru,Christianity,Christianity,1
+Seven Weeks,1866,325,Italy,275,Hesse Grand Ducal,Christianity,,0
+Seven Weeks,1866,325,Italy,271,Wuerttemburg,Christianity,,0
+Seven Weeks,1866,325,Italy,245,Bavaria,Christianity,,0
+Seven Weeks,1866,325,Italy,300,Austria,Christianity,,0
+Seven Weeks,1866,325,Italy,273,Hesse Electoral,Christianity,,0
+Seven Weeks,1866,325,Italy,269,Saxony,Christianity,,0
+Seven Weeks,1866,325,Italy,267,Baden,Christianity,,0
+Seven Weeks,1866,325,Italy,240,Hanover,Christianity,,0
+Seven Weeks,1866,275,Hesse Grand Ducal,325,Italy,,Christianity,0
+Seven Weeks,1866,275,Hesse Grand Ducal,255,Germany,,Christianity,0
+Seven Weeks,1866,275,Hesse Grand Ducal,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,271,Wuerttemburg,325,Italy,,Christianity,0
+Seven Weeks,1866,271,Wuerttemburg,255,Germany,,Christianity,0
+Seven Weeks,1866,271,Wuerttemburg,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,245,Bavaria,325,Italy,,Christianity,0
+Seven Weeks,1866,245,Bavaria,255,Germany,,Christianity,0
+Seven Weeks,1866,245,Bavaria,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,300,Austria,325,Italy,,Christianity,0
+Seven Weeks,1866,300,Austria,255,Germany,,Christianity,0
+Seven Weeks,1866,300,Austria,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,255,Germany,275,Hesse Grand Ducal,Christianity,,1
+Seven Weeks,1866,255,Germany,271,Wuerttemburg,Christianity,,1
+Seven Weeks,1866,255,Germany,245,Bavaria,Christianity,,1
+Seven Weeks,1866,255,Germany,300,Austria,Christianity,,1
+Seven Weeks,1866,255,Germany,273,Hesse Electoral,Christianity,,1
+Seven Weeks,1866,255,Germany,269,Saxony,Christianity,,1
+Seven Weeks,1866,255,Germany,267,Baden,Christianity,,1
+Seven Weeks,1866,255,Germany,240,Hanover,Christianity,,1
+Seven Weeks,1866,280,Mecklenburg Schwerin,275,Hesse Grand Ducal,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,271,Wuerttemburg,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,245,Bavaria,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,300,Austria,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,273,Hesse Electoral,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,269,Saxony,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,267,Baden,,,0
+Seven Weeks,1866,280,Mecklenburg Schwerin,240,Hanover,,,0
+Seven Weeks,1866,273,Hesse Electoral,325,Italy,,Christianity,0
+Seven Weeks,1866,273,Hesse Electoral,255,Germany,,Christianity,0
+Seven Weeks,1866,273,Hesse Electoral,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,269,Saxony,325,Italy,,Christianity,0
+Seven Weeks,1866,269,Saxony,255,Germany,,Christianity,0
+Seven Weeks,1866,269,Saxony,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,267,Baden,325,Italy,,Christianity,0
+Seven Weeks,1866,267,Baden,255,Germany,,Christianity,0
+Seven Weeks,1866,267,Baden,280,Mecklenburg Schwerin,,,0
+Seven Weeks,1866,240,Hanover,325,Italy,,Christianity,0
+Seven Weeks,1866,240,Hanover,255,Germany,,Christianity,0
+Seven Weeks,1866,240,Hanover,280,Mecklenburg Schwerin,,,0
+Franco-Prussian,1870,271,Wuerttemburg,220,France,,Christianity,0
+Franco-Prussian,1870,267,Baden,220,France,,Christianity,0
+Franco-Prussian,1870,255,Germany,220,France,Christianity,Christianity,0
+Franco-Prussian,1870,245,Bavaria,220,France,,Christianity,0
+Franco-Prussian,1870,220,France,271,Wuerttemburg,Christianity,,1
+Franco-Prussian,1870,220,France,267,Baden,Christianity,,1
+Franco-Prussian,1870,220,France,255,Germany,Christianity,Christianity,1
+Franco-Prussian,1870,220,France,245,Bavaria,Christianity,,1
+First Central American,1876,90,Guatemala,92,El Salvador,Christianity,Christianity,1
+First Central American,1876,92,El Salvador,90,Guatemala,Christianity,Christianity,0
+Second Russo-Turkish,1877,640,Turkey,365,Russia,Islam,Non,0
+Second Russo-Turkish,1877,365,Russia,640,Turkey,Non,Islam,1
+War of the Pacific,1879,155,Chile,135,Peru,Christianity,Christianity,1
+War of the Pacific,1879,155,Chile,145,Bolivia,Christianity,Christianity,1
+War of the Pacific,1879,135,Peru,155,Chile,Christianity,Christianity,0
+War of the Pacific,1879,145,Bolivia,155,Chile,Christianity,Christianity,0
+Conquest of Egypt,1882,651,Egypt,200,United Kingdom,Islam,Christianity,0
+Conquest of Egypt,1882,200,United Kingdom,651,Egypt,Christianity,Islam,1
+Sino-French,1884,220,France,710,China,Christianity,Syncretic,1
+Sino-French,1884,710,China,220,France,Syncretic,Christianity,0
+Second Central American,1885,92,El Salvador,90,Guatemala,Christianity,Christianity,0
+Second Central American,1885,90,Guatemala,92,El Salvador,Christianity,Christianity,1
+First Sino-Japanese,1894,710,China,740,Japan,Syncretic,Shinto,0
+First Sino-Japanese,1894,740,Japan,710,China,Shinto,Syncretic,1
+Greco-Turkish,1897,350,Greece,640,Turkey,Christianity,Islam,1
+Greco-Turkish,1897,640,Turkey,350,Greece,Islam,Christianity,0
+Spanish-American,1898,230,Spain,2,United States of America,Christianity,Christianity,0
+Spanish-American,1898,2,United States of America,230,Spain,Christianity,Christianity,1
+Boxer Rebellion,1900,365,Russia,710,China,Non,Syncretic,1
+Boxer Rebellion,1900,740,Japan,710,China,Shinto,Syncretic,1
+Boxer Rebellion,1900,2,United States of America,710,China,Christianity,Syncretic,1
+Boxer Rebellion,1900,710,China,365,Russia,Syncretic,Non,0
+Boxer Rebellion,1900,710,China,740,Japan,Syncretic,Shinto,0
+Boxer Rebellion,1900,710,China,2,United States of America,Syncretic,Christianity,0
+Boxer Rebellion,1900,710,China,200,United Kingdom,Syncretic,Christianity,0
+Boxer Rebellion,1900,710,China,220,France,Syncretic,Christianity,0
+Boxer Rebellion,1900,200,United Kingdom,710,China,Christianity,Syncretic,1
+Boxer Rebellion,1900,220,France,710,China,Christianity,Syncretic,1
+Sino-Russian,1900,365,Russia,710,China,Non,Syncretic,1
+Sino-Russian,1900,710,China,365,Russia,Syncretic,Non,0
+Russo-Japanese,1904,740,Japan,365,Russia,Shinto,Non,1
+Russo-Japanese,1904,365,Russia,740,Japan,Non,Shinto,0
+Third Central American,1906,91,Honduras,90,Guatemala,Christianity,Christianity,0
+Third Central American,1906,92,El Salvador,90,Guatemala,Christianity,Christianity,0
+Third Central American,1906,90,Guatemala,91,Honduras,Christianity,Christianity,1
+Third Central American,1906,90,Guatemala,92,El Salvador,Christianity,Christianity,1
+Fourth Central American,1907,93,Nicaragua,92,El Salvador,Christianity,Christianity,1
+Fourth Central American,1907,93,Nicaragua,91,Honduras,Christianity,Christianity,1
+Fourth Central American,1907,92,El Salvador,93,Nicaragua,Christianity,Christianity,0
+Fourth Central American,1907,91,Honduras,93,Nicaragua,Christianity,Christianity,0
+Second Spanish-Moroccan,1909,230,Spain,600,Morocco,Christianity,Islam,1
+Second Spanish-Moroccan,1909,600,Morocco,230,Spain,Islam,Christianity,0
+Italian-Turkish,1911,325,Italy,640,Turkey,Christianity,Islam,1
+Italian-Turkish,1911,640,Turkey,325,Italy,Islam,Christianity,0
+First Balkan,1912,640,Turkey,350,Greece,Islam,Christianity,0
+First Balkan,1912,640,Turkey,355,Bulgaria,Islam,Christianity,0
+First Balkan,1912,640,Turkey,345,Yugoslavia,Islam,Christianity,0
+First Balkan,1912,350,Greece,640,Turkey,Christianity,Islam,0
+First Balkan,1912,355,Bulgaria,640,Turkey,Christianity,Islam,0
+First Balkan,1912,345,Yugoslavia,640,Turkey,Christianity,Islam,1
+Second Balkan,1913,640,Turkey,355,Bulgaria,Islam,Christianity,0
+Second Balkan,1913,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
+Second Balkan,1913,350,Greece,355,Bulgaria,Christianity,Christianity,0
+Second Balkan,1913,355,Bulgaria,640,Turkey,Christianity,Islam,1
+Second Balkan,1913,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,1
+Second Balkan,1913,355,Bulgaria,350,Greece,Christianity,Christianity,1
+Second Balkan,1913,355,Bulgaria,360,Romania,Christianity,Christianity,1
+Second Balkan,1913,360,Romania,355,Bulgaria,Christianity,Christianity,0
+World War I,1914,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
+World War I,1914,345,Yugoslavia,640,Turkey,Christianity,Islam,0
+World War I,1914,345,Yugoslavia,255,Germany,Christianity,Christianity,0
+World War I,1914,345,Yugoslavia,300,Austria-Hungary,Christianity,,0
+World War I,1914,365,Russia,355,Bulgaria,Non,Christianity,0
+World War I,1914,365,Russia,640,Turkey,Non,Islam,0
+World War I,1914,365,Russia,255,Germany,Non,Christianity,0
+World War I,1914,365,Russia,300,Austria-Hungary,Non,,0
+World War I,1915,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,365,Russia,Christianity,Non,0
+World War I,1915,355,Bulgaria,200,United Kingdom,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,740,Japan,Christianity,Shinto,0
+World War I,1915,355,Bulgaria,235,Portugal,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,211,Belgium,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,350,Greece,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,360,Romania,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,220,France,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,325,Italy,Christianity,Christianity,0
+World War I,1915,355,Bulgaria,2,United States of America,Christianity,Christianity,0
+World War I,1914,200,United Kingdom,355,Bulgaria,Christianity,Christianity,0
+World War I,1914,200,United Kingdom,640,Turkey,Christianity,Islam,0
+World War I,1914,200,United Kingdom,255,Germany,Christianity,Christianity,0
+World War I,1914,200,United Kingdom,300,Austria-Hungary,Christianity,,0
+World War I,1914,740,Japan,355,Bulgaria,Shinto,Christianity,0
+World War I,1914,740,Japan,640,Turkey,Shinto,Islam,0
+World War I,1914,740,Japan,255,Germany,Shinto,Christianity,0
+World War I,1914,740,Japan,300,Austria-Hungary,Shinto,,0
+World War I,1916,235,Portugal,355,Bulgaria,Christianity,Christianity,0
+World War I,1916,235,Portugal,640,Turkey,Christianity,Islam,0
+World War I,1916,235,Portugal,255,Germany,Christianity,Christianity,0
+World War I,1916,235,Portugal,300,Austria-Hungary,Christianity,,0
+World War I,1914,640,Turkey,345,Yugoslavia,Islam,Christianity,0
+World War I,1914,640,Turkey,365,Russia,Islam,Non,0
+World War I,1914,640,Turkey,200,United Kingdom,Islam,Christianity,0
+World War I,1914,640,Turkey,740,Japan,Islam,Shinto,0
+World War I,1914,640,Turkey,235,Portugal,Islam,Christianity,0
+World War I,1914,640,Turkey,211,Belgium,Islam,Christianity,0
+World War I,1914,640,Turkey,350,Greece,Islam,Christianity,0
+World War I,1914,640,Turkey,360,Romania,Islam,Christianity,0
+World War I,1914,640,Turkey,220,France,Islam,Christianity,0
+World War I,1914,640,Turkey,325,Italy,Islam,Christianity,0
+World War I,1914,640,Turkey,2,United States of America,Islam,Christianity,0
+World War I,1914,211,Belgium,355,Bulgaria,Christianity,Christianity,0
+World War I,1914,211,Belgium,640,Turkey,Christianity,Islam,0
+World War I,1914,211,Belgium,255,Germany,Christianity,Christianity,0
+World War I,1914,211,Belgium,300,Austria-Hungary,Christianity,,0
+World War I,1914,255,Germany,345,Yugoslavia,Christianity,Christianity,0
+World War I,1914,255,Germany,365,Russia,Christianity,Non,0
+World War I,1914,255,Germany,200,United Kingdom,Christianity,Christianity,0
+World War I,1914,255,Germany,740,Japan,Christianity,Shinto,0
+World War I,1914,255,Germany,235,Portugal,Christianity,Christianity,0
+World War I,1914,255,Germany,211,Belgium,Christianity,Christianity,0
+World War I,1914,255,Germany,350,Greece,Christianity,Christianity,0
+World War I,1914,255,Germany,360,Romania,Christianity,Christianity,0
+World War I,1914,255,Germany,220,France,Christianity,Christianity,0
+World War I,1914,255,Germany,325,Italy,Christianity,Christianity,0
+World War I,1914,255,Germany,2,United States of America,Christianity,Christianity,0
+World War I,1917,350,Greece,355,Bulgaria,Christianity,Christianity,0
+World War I,1917,350,Greece,640,Turkey,Christianity,Islam,0
+World War I,1917,350,Greece,255,Germany,Christianity,Christianity,0
+World War I,1917,350,Greece,300,Austria-Hungary,Christianity,,0
+World War I,1916,360,Romania,355,Bulgaria,Christianity,Christianity,0
+World War I,1916,360,Romania,640,Turkey,Christianity,Islam,0
+World War I,1916,360,Romania,255,Germany,Christianity,Christianity,0
+World War I,1916,360,Romania,300,Austria-Hungary,Christianity,,0
+World War I,1914,300,Austria-Hungary,345,Yugoslavia,,Christianity,1
+World War I,1914,300,Austria-Hungary,365,Russia,,Non,1
+World War I,1914,300,Austria-Hungary,200,United Kingdom,,Christianity,1
+World War I,1914,300,Austria-Hungary,740,Japan,,Shinto,1
+World War I,1914,300,Austria-Hungary,235,Portugal,,Christianity,1
+World War I,1914,300,Austria-Hungary,211,Belgium,,Christianity,1
+World War I,1914,300,Austria-Hungary,350,Greece,,Christianity,1
+World War I,1914,300,Austria-Hungary,360,Romania,,Christianity,1
+World War I,1914,300,Austria-Hungary,220,France,,Christianity,1
+World War I,1914,300,Austria-Hungary,325,Italy,,Christianity,1
+World War I,1914,300,Austria-Hungary,2,United States of America,,Christianity,1
+World War I,1914,220,France,355,Bulgaria,Christianity,Christianity,0
+World War I,1914,220,France,640,Turkey,Christianity,Islam,0
+World War I,1914,220,France,255,Germany,Christianity,Christianity,0
+World War I,1914,220,France,300,Austria-Hungary,Christianity,,0
+World War I,1915,325,Italy,355,Bulgaria,Christianity,Christianity,0
+World War I,1915,325,Italy,640,Turkey,Christianity,Islam,0
+World War I,1915,325,Italy,255,Germany,Christianity,Christianity,0
+World War I,1915,325,Italy,300,Austria-Hungary,Christianity,,0
+World War I,1917,2,United States of America,355,Bulgaria,Christianity,Christianity,0
+World War I,1917,2,United States of America,640,Turkey,Christianity,Islam,0
+World War I,1917,2,United States of America,255,Germany,Christianity,Christianity,0
+World War I,1917,2,United States of America,300,Austria-Hungary,Christianity,,0
+Estonian Liberation,1918,366,Estonia,365,Russia,Non,Non,0
+Estonian Liberation,1918,375,Finland,365,Russia,Christianity,Non,0
+Estonian Liberation,1918,365,Russia,366,Estonia,Non,Non,1
+Estonian Liberation,1918,365,Russia,375,Finland,Non,Christianity,1
+Latvian Liberation,1918,255,Germany,365,Russia,Christianity,Non,0
+Latvian Liberation,1918,365,Russia,255,Germany,Non,Christianity,1
+Latvian Liberation,1918,365,Russia,366,Estonia,Non,Non,1
+Latvian Liberation,1918,365,Russia,367,Latvia,Non,Christianity,1
+Latvian Liberation,1919,255,Germany,366,Estonia,Christianity,Non,0
+Latvian Liberation,1919,255,Germany,367,Latvia,Christianity,Christianity,0
+Latvian Liberation,1919,366,Estonia,365,Russia,Non,Non,0
+Latvian Liberation,1919,366,Estonia,255,Germany,Non,Christianity,0
+Latvian Liberation,1918,367,Latvia,365,Russia,Christianity,Non,0
+Latvian Liberation,1918,367,Latvia,255,Germany,Christianity,Christianity,0
+Russo-Polish,1919,365,Russia,290,Poland,Non,Christianity,1
+Russo-Polish,1919,290,Poland,365,Russia,Christianity,Non,0
+Hungarian Adversaries,1919,310,Hungary,315,Czechoslovakia,Christianity,Christianity,0
+Hungarian Adversaries,1919,310,Hungary,360,Romania,Christianity,Christianity,0
+Hungarian Adversaries,1919,315,Czechoslovakia,310,Hungary,Christianity,Christianity,0
+Hungarian Adversaries,1919,360,Romania,310,Hungary,Christianity,Christianity,1
+Second Greco-Turkish,1919,640,Turkey,350,Greece,Islam,Christianity,0
+Second Greco-Turkish,1919,350,Greece,640,Turkey,Christianity,Islam,1
+Franco-Turkish,1919,640,Turkey,220,France,Islam,Christianity,0
+Franco-Turkish,1919,220,France,640,Turkey,Christianity,Islam,1
+Lithuanian-Polish,1920,368,Lithuania,290,Poland,Christianity,Christianity,0
+Lithuanian-Polish,1920,290,Poland,368,Lithuania,Christianity,Christianity,1
+Manchurian,1929,365,USSR,710,China,Non,Syncretic,1
+Manchurian,1929,710,China,365,USSR,Syncretic,Non,0
+Second Sino-Japanese,1931,740,Japan,710,China,Shinto,Syncretic,1
+Second Sino-Japanese,1931,710,China,740,Japan,Syncretic,Shinto,0
+Chaco,1932,145,Bolivia,150,Paraguay,Christianity,Christianity,1
+Chaco,1932,150,Paraguay,145,Bolivia,Christianity,Christianity,0
+Saudi-Yemeni,1934,670,Saudi Arabia,678,Yemen Arab Republic,Islam,Islam,1
+Saudi-Yemeni,1934,678,Yemen Arab Republic,670,Saudi Arabia,Islam,Islam,0
+Conquest of Ethiopia,1935,325,Italy,530,Ethiopia,Christianity,Christianity,1
+Conquest of Ethiopia,1935,530,Ethiopia,325,Italy,Christianity,Christianity,0
+Third Sino-Japanese,1937,710,China,740,Japan,Syncretic,Shinto,0
+Third Sino-Japanese,1937,740,Japan,710,China,Shinto,Syncretic,1
+Changkufeng,1938,365,USSR,740,Japan,Non,Shinto,0
+Changkufeng,1938,740,Japan,365,USSR,Shinto,Non,1
+Nomonhan,1939,365,USSR,740,Japan,Non,Shinto,0
+Nomonhan,1939,712,Mongolia,740,Japan,Non,Shinto,0
+Nomonhan,1939,740,Japan,365,USSR,Shinto,Non,1
+Nomonhan,1939,740,Japan,712,Mongolia,Shinto,Non,1
+World War II,1941,310,Hungary,211,Belgium,Christianity,Christianity,0
+World War II,1941,310,Hungary,345,Yugoslavia,Christianity,Christianity,0
+World War II,1941,310,Hungary,385,Norway,Christianity,Christianity,0
+World War II,1941,310,Hungary,20,Canada,Christianity,Christianity,0
+World War II,1941,310,Hungary,2,United States of America,Christianity,Christianity,0
+World War II,1941,310,Hungary,200,United Kingdom,Christianity,Christianity,0
+World War II,1941,310,Hungary,210,Netherlands,Christianity,Christianity,0
+World War II,1941,310,Hungary,360,Romania,Christianity,Christianity,0
+World War II,1941,310,Hungary,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,310,Hungary,350,Greece,Christianity,Christianity,0
+World War II,1941,310,Hungary,140,Brazil,Christianity,Christianity,0
+World War II,1941,310,Hungary,325,Italy,Christianity,Christianity,0
+World War II,1941,310,Hungary,900,Australia,Christianity,Christianity,0
+World War II,1941,310,Hungary,920,New Zealand,Christianity,Christianity,0
+World War II,1941,310,Hungary,365,USSR,Christianity,Non,0
+World War II,1941,310,Hungary,290,Poland,Christianity,Christianity,0
+World War II,1941,310,Hungary,220,France,Christianity,Christianity,0
+World War II,1941,310,Hungary,712,Mongolia,Christianity,Non,0
+World War II,1941,310,Hungary,710,China,Christianity,Syncretic,0
+World War II,1941,310,Hungary,560,South Africa,Christianity,Christianity,0
+World War II,1941,310,Hungary,530,Ethiopia,Christianity,Christianity,0
+World War II,1940,211,Belgium,310,Hungary,Christianity,Christianity,0
+World War II,1940,211,Belgium,220,France,Christianity,Christianity,0
+World War II,1940,211,Belgium,375,Finland,Christianity,Christianity,0
+World War II,1940,211,Belgium,325,Italy,Christianity,Christianity,0
+World War II,1940,211,Belgium,360,Romania,Christianity,Christianity,0
+World War II,1940,211,Belgium,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,211,Belgium,255,Germany,Christianity,Christianity,0
+World War II,1940,211,Belgium,740,Japan,Christianity,Shinto,0
+World War II,1940,220,France,211,Belgium,Christianity,Christianity,0
+World War II,1940,220,France,345,Yugoslavia,Christianity,Christianity,0
+World War II,1940,220,France,385,Norway,Christianity,Christianity,0
+World War II,1940,220,France,20,Canada,Christianity,Christianity,0
+World War II,1940,220,France,2,United States of America,Christianity,Christianity,0
+World War II,1940,220,France,200,United Kingdom,Christianity,Christianity,0
+World War II,1940,220,France,210,Netherlands,Christianity,Christianity,0
+World War II,1940,220,France,360,Romania,Christianity,Christianity,0
+World War II,1940,220,France,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,220,France,350,Greece,Christianity,Christianity,0
+World War II,1940,220,France,140,Brazil,Christianity,Christianity,0
+World War II,1940,220,France,325,Italy,Christianity,Christianity,0
+World War II,1940,220,France,900,Australia,Christianity,Christianity,0
+World War II,1940,220,France,920,New Zealand,Christianity,Christianity,0
+World War II,1940,220,France,365,USSR,Christianity,Non,0
+World War II,1940,220,France,290,Poland,Christianity,Christianity,0
+World War II,1940,220,France,712,Mongolia,Christianity,Non,0
+World War II,1940,220,France,710,China,Christianity,Syncretic,0
+World War II,1940,220,France,560,South Africa,Christianity,Christianity,0
+World War II,1940,220,France,530,Ethiopia,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,310,Hungary,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,220,France,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,375,Finland,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,325,Italy,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,360,Romania,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,255,Germany,Christianity,Christianity,0
+World War II,1941,345,Yugoslavia,740,Japan,Christianity,Shinto,0
+World War II,1941,375,Finland,211,Belgium,Christianity,Christianity,0
+World War II,1941,375,Finland,345,Yugoslavia,Christianity,Christianity,0
+World War II,1941,375,Finland,385,Norway,Christianity,Christianity,0
+World War II,1941,375,Finland,20,Canada,Christianity,Christianity,0
+World War II,1941,375,Finland,2,United States of America,Christianity,Christianity,0
+World War II,1941,375,Finland,200,United Kingdom,Christianity,Christianity,0
+World War II,1941,375,Finland,210,Netherlands,Christianity,Christianity,0
+World War II,1941,375,Finland,360,Romania,Christianity,Christianity,0
+World War II,1941,375,Finland,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,375,Finland,350,Greece,Christianity,Christianity,0
+World War II,1941,375,Finland,140,Brazil,Christianity,Christianity,0
+World War II,1941,375,Finland,325,Italy,Christianity,Christianity,0
+World War II,1941,375,Finland,900,Australia,Christianity,Christianity,0
+World War II,1941,375,Finland,920,New Zealand,Christianity,Christianity,0
+World War II,1941,375,Finland,365,USSR,Christianity,Non,0
+World War II,1941,375,Finland,290,Poland,Christianity,Christianity,0
+World War II,1941,375,Finland,220,France,Christianity,Christianity,0
+World War II,1941,375,Finland,712,Mongolia,Christianity,Non,0
+World War II,1941,375,Finland,710,China,Christianity,Syncretic,0
+World War II,1941,375,Finland,560,South Africa,Christianity,Christianity,0
+World War II,1941,375,Finland,530,Ethiopia,Christianity,Christianity,0
+World War II,1940,385,Norway,310,Hungary,Christianity,Christianity,0
+World War II,1940,385,Norway,220,France,Christianity,Christianity,0
+World War II,1940,385,Norway,375,Finland,Christianity,Christianity,0
+World War II,1940,385,Norway,325,Italy,Christianity,Christianity,0
+World War II,1940,385,Norway,360,Romania,Christianity,Christianity,0
+World War II,1940,385,Norway,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,385,Norway,255,Germany,Christianity,Christianity,0
+World War II,1940,385,Norway,740,Japan,Christianity,Shinto,0
+World War II,1939,20,Canada,310,Hungary,Christianity,Christianity,0
+World War II,1939,20,Canada,220,France,Christianity,Christianity,0
+World War II,1939,20,Canada,375,Finland,Christianity,Christianity,0
+World War II,1939,20,Canada,325,Italy,Christianity,Christianity,0
+World War II,1939,20,Canada,360,Romania,Christianity,Christianity,0
+World War II,1939,20,Canada,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,20,Canada,255,Germany,Christianity,Christianity,0
+World War II,1939,20,Canada,740,Japan,Christianity,Shinto,0
+World War II,1941,2,United States of America,310,Hungary,Christianity,Christianity,0
+World War II,1941,2,United States of America,220,France,Christianity,Christianity,0
+World War II,1941,2,United States of America,375,Finland,Christianity,Christianity,0
+World War II,1941,2,United States of America,325,Italy,Christianity,Christianity,0
+World War II,1941,2,United States of America,360,Romania,Christianity,Christianity,0
+World War II,1941,2,United States of America,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,2,United States of America,255,Germany,Christianity,Christianity,0
+World War II,1941,2,United States of America,740,Japan,Christianity,Shinto,0
+World War II,1939,200,United Kingdom,310,Hungary,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,220,France,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,375,Finland,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,325,Italy,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,360,Romania,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,255,Germany,Christianity,Christianity,0
+World War II,1939,200,United Kingdom,740,Japan,Christianity,Shinto,0
+World War II,1940,210,Netherlands,310,Hungary,Christianity,Christianity,0
+World War II,1940,210,Netherlands,220,France,Christianity,Christianity,0
+World War II,1940,210,Netherlands,375,Finland,Christianity,Christianity,0
+World War II,1940,210,Netherlands,325,Italy,Christianity,Christianity,0
+World War II,1940,210,Netherlands,360,Romania,Christianity,Christianity,0
+World War II,1940,210,Netherlands,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,210,Netherlands,255,Germany,Christianity,Christianity,0
+World War II,1940,210,Netherlands,740,Japan,Christianity,Shinto,0
+World War II,1940,325,Italy,211,Belgium,Christianity,Christianity,0
+World War II,1940,325,Italy,345,Yugoslavia,Christianity,Christianity,0
+World War II,1940,325,Italy,385,Norway,Christianity,Christianity,0
+World War II,1940,325,Italy,20,Canada,Christianity,Christianity,0
+World War II,1940,325,Italy,2,United States of America,Christianity,Christianity,0
+World War II,1940,325,Italy,200,United Kingdom,Christianity,Christianity,0
+World War II,1940,325,Italy,210,Netherlands,Christianity,Christianity,0
+World War II,1940,325,Italy,360,Romania,Christianity,Christianity,0
+World War II,1940,325,Italy,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,325,Italy,350,Greece,Christianity,Christianity,0
+World War II,1940,325,Italy,140,Brazil,Christianity,Christianity,0
+World War II,1940,325,Italy,900,Australia,Christianity,Christianity,0
+World War II,1940,325,Italy,920,New Zealand,Christianity,Christianity,0
+World War II,1940,325,Italy,365,USSR,Christianity,Non,0
+World War II,1940,325,Italy,290,Poland,Christianity,Christianity,0
+World War II,1940,325,Italy,220,France,Christianity,Christianity,0
+World War II,1940,325,Italy,712,Mongolia,Christianity,Non,0
+World War II,1940,325,Italy,710,China,Christianity,Syncretic,0
+World War II,1940,325,Italy,560,South Africa,Christianity,Christianity,0
+World War II,1940,325,Italy,530,Ethiopia,Christianity,Christianity,0
+World War II,1944,360,Romania,310,Hungary,Christianity,Christianity,0
+World War II,1944,360,Romania,220,France,Christianity,Christianity,0
+World War II,1944,360,Romania,375,Finland,Christianity,Christianity,0
+World War II,1944,360,Romania,325,Italy,Christianity,Christianity,0
+World War II,1944,360,Romania,355,Bulgaria,Christianity,Christianity,0
+World War II,1944,360,Romania,255,Germany,Christianity,Christianity,0
+World War II,1944,360,Romania,740,Japan,Christianity,Shinto,0
+World War II,1941,360,Romania,211,Belgium,Christianity,Christianity,0
+World War II,1941,360,Romania,345,Yugoslavia,Christianity,Christianity,0
+World War II,1941,360,Romania,385,Norway,Christianity,Christianity,0
+World War II,1941,360,Romania,20,Canada,Christianity,Christianity,0
+World War II,1941,360,Romania,2,United States of America,Christianity,Christianity,0
+World War II,1941,360,Romania,200,United Kingdom,Christianity,Christianity,0
+World War II,1941,360,Romania,210,Netherlands,Christianity,Christianity,0
+World War II,1941,360,Romania,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,360,Romania,350,Greece,Christianity,Christianity,0
+World War II,1941,360,Romania,140,Brazil,Christianity,Christianity,0
+World War II,1941,360,Romania,325,Italy,Christianity,Christianity,0
+World War II,1941,360,Romania,900,Australia,Christianity,Christianity,0
+World War II,1941,360,Romania,920,New Zealand,Christianity,Christianity,0
+World War II,1941,360,Romania,365,USSR,Christianity,Non,0
+World War II,1941,360,Romania,290,Poland,Christianity,Christianity,0
+World War II,1941,360,Romania,220,France,Christianity,Christianity,0
+World War II,1941,360,Romania,712,Mongolia,Christianity,Non,0
+World War II,1941,360,Romania,710,China,Christianity,Syncretic,0
+World War II,1941,360,Romania,560,South Africa,Christianity,Christianity,0
+World War II,1941,360,Romania,530,Ethiopia,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,211,Belgium,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,345,Yugoslavia,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,385,Norway,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,20,Canada,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,2,United States of America,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,200,United Kingdom,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,210,Netherlands,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,360,Romania,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,350,Greece,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,140,Brazil,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,325,Italy,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,900,Australia,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,920,New Zealand,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,365,USSR,Christianity,Non,0
+World War II,1941,355,Bulgaria,290,Poland,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,220,France,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,712,Mongolia,Christianity,Non,0
+World War II,1941,355,Bulgaria,710,China,Christianity,Syncretic,0
+World War II,1941,355,Bulgaria,560,South Africa,Christianity,Christianity,0
+World War II,1941,355,Bulgaria,530,Ethiopia,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,310,Hungary,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,220,France,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,375,Finland,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,325,Italy,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,360,Romania,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,255,Germany,Christianity,Christianity,0
+World War II,1944,355,Bulgaria,740,Japan,Christianity,Shinto,0
+World War II,1940,350,Greece,310,Hungary,Christianity,Christianity,0
+World War II,1940,350,Greece,220,France,Christianity,Christianity,0
+World War II,1940,350,Greece,375,Finland,Christianity,Christianity,0
+World War II,1940,350,Greece,325,Italy,Christianity,Christianity,0
+World War II,1940,350,Greece,360,Romania,Christianity,Christianity,0
+World War II,1940,350,Greece,355,Bulgaria,Christianity,Christianity,0
+World War II,1940,350,Greece,255,Germany,Christianity,Christianity,0
+World War II,1940,350,Greece,740,Japan,Christianity,Shinto,0
+World War II,1944,140,Brazil,310,Hungary,Christianity,Christianity,0
+World War II,1944,140,Brazil,220,France,Christianity,Christianity,0
+World War II,1944,140,Brazil,375,Finland,Christianity,Christianity,0
+World War II,1944,140,Brazil,325,Italy,Christianity,Christianity,0
+World War II,1944,140,Brazil,360,Romania,Christianity,Christianity,0
+World War II,1944,140,Brazil,355,Bulgaria,Christianity,Christianity,0
+World War II,1944,140,Brazil,255,Germany,Christianity,Christianity,0
+World War II,1944,140,Brazil,740,Japan,Christianity,Shinto,0
+World War II,1943,325,Italy,310,Hungary,Christianity,Christianity,0
+World War II,1943,325,Italy,220,France,Christianity,Christianity,0
+World War II,1943,325,Italy,375,Finland,Christianity,Christianity,0
+World War II,1943,325,Italy,360,Romania,Christianity,Christianity,0
+World War II,1943,325,Italy,355,Bulgaria,Christianity,Christianity,0
+World War II,1943,325,Italy,255,Germany,Christianity,Christianity,0
+World War II,1943,325,Italy,740,Japan,Christianity,Shinto,0
+World War II,1939,900,Australia,310,Hungary,Christianity,Christianity,0
+World War II,1939,900,Australia,220,France,Christianity,Christianity,0
+World War II,1939,900,Australia,375,Finland,Christianity,Christianity,0
+World War II,1939,900,Australia,325,Italy,Christianity,Christianity,0
+World War II,1939,900,Australia,360,Romania,Christianity,Christianity,0
+World War II,1939,900,Australia,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,900,Australia,255,Germany,Christianity,Christianity,0
+World War II,1939,900,Australia,740,Japan,Christianity,Shinto,0
+World War II,1939,920,New Zealand,310,Hungary,Christianity,Christianity,0
+World War II,1939,920,New Zealand,220,France,Christianity,Christianity,0
+World War II,1939,920,New Zealand,375,Finland,Christianity,Christianity,0
+World War II,1939,920,New Zealand,325,Italy,Christianity,Christianity,0
+World War II,1939,920,New Zealand,360,Romania,Christianity,Christianity,0
+World War II,1939,920,New Zealand,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,920,New Zealand,255,Germany,Christianity,Christianity,0
+World War II,1939,920,New Zealand,740,Japan,Christianity,Shinto,0
+World War II,1941,365,USSR,310,Hungary,Non,Christianity,0
+World War II,1941,365,USSR,220,France,Non,Christianity,0
+World War II,1941,365,USSR,375,Finland,Non,Christianity,0
+World War II,1941,365,USSR,325,Italy,Non,Christianity,0
+World War II,1941,365,USSR,360,Romania,Non,Christianity,0
+World War II,1941,365,USSR,355,Bulgaria,Non,Christianity,0
+World War II,1941,365,USSR,255,Germany,Non,Christianity,0
+World War II,1941,365,USSR,740,Japan,Non,Shinto,0
+World War II,1939,255,Germany,211,Belgium,Christianity,Christianity,1
+World War II,1939,255,Germany,345,Yugoslavia,Christianity,Christianity,1
+World War II,1939,255,Germany,385,Norway,Christianity,Christianity,1
+World War II,1939,255,Germany,20,Canada,Christianity,Christianity,1
+World War II,1939,255,Germany,2,United States of America,Christianity,Christianity,1
+World War II,1939,255,Germany,200,United Kingdom,Christianity,Christianity,1
+World War II,1939,255,Germany,210,Netherlands,Christianity,Christianity,1
+World War II,1939,255,Germany,360,Romania,Christianity,Christianity,1
+World War II,1939,255,Germany,355,Bulgaria,Christianity,Christianity,1
+World War II,1939,255,Germany,350,Greece,Christianity,Christianity,1
+World War II,1939,255,Germany,140,Brazil,Christianity,Christianity,1
+World War II,1939,255,Germany,325,Italy,Christianity,Christianity,1
+World War II,1939,255,Germany,900,Australia,Christianity,Christianity,1
+World War II,1939,255,Germany,920,New Zealand,Christianity,Christianity,1
+World War II,1939,255,Germany,365,USSR,Christianity,Non,1
+World War II,1939,255,Germany,290,Poland,Christianity,Christianity,1
+World War II,1939,255,Germany,220,France,Christianity,Christianity,1
+World War II,1939,255,Germany,712,Mongolia,Christianity,Non,1
+World War II,1939,255,Germany,710,China,Christianity,Syncretic,1
+World War II,1939,255,Germany,560,South Africa,Christianity,Christianity,1
+World War II,1939,255,Germany,530,Ethiopia,Christianity,Christianity,1
+World War II,1939,290,Poland,310,Hungary,Christianity,Christianity,0
+World War II,1939,290,Poland,220,France,Christianity,Christianity,0
+World War II,1939,290,Poland,375,Finland,Christianity,Christianity,0
+World War II,1939,290,Poland,325,Italy,Christianity,Christianity,0
+World War II,1939,290,Poland,360,Romania,Christianity,Christianity,0
+World War II,1939,290,Poland,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,290,Poland,255,Germany,Christianity,Christianity,0
+World War II,1939,290,Poland,740,Japan,Christianity,Shinto,0
+World War II,1939,220,France,310,Hungary,Christianity,Christianity,0
+World War II,1939,220,France,375,Finland,Christianity,Christianity,0
+World War II,1939,220,France,325,Italy,Christianity,Christianity,0
+World War II,1939,220,France,360,Romania,Christianity,Christianity,0
+World War II,1939,220,France,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,220,France,255,Germany,Christianity,Christianity,0
+World War II,1939,220,France,740,Japan,Christianity,Shinto,0
+World War II,1941,740,Japan,211,Belgium,Shinto,Christianity,0
+World War II,1941,740,Japan,345,Yugoslavia,Shinto,Christianity,0
+World War II,1941,740,Japan,385,Norway,Shinto,Christianity,0
+World War II,1941,740,Japan,20,Canada,Shinto,Christianity,0
+World War II,1941,740,Japan,2,United States of America,Shinto,Christianity,0
+World War II,1941,740,Japan,200,United Kingdom,Shinto,Christianity,0
+World War II,1941,740,Japan,210,Netherlands,Shinto,Christianity,0
+World War II,1941,740,Japan,360,Romania,Shinto,Christianity,0
+World War II,1941,740,Japan,355,Bulgaria,Shinto,Christianity,0
+World War II,1941,740,Japan,350,Greece,Shinto,Christianity,0
+World War II,1941,740,Japan,140,Brazil,Shinto,Christianity,0
+World War II,1941,740,Japan,325,Italy,Shinto,Christianity,0
+World War II,1941,740,Japan,900,Australia,Shinto,Christianity,0
+World War II,1941,740,Japan,920,New Zealand,Shinto,Christianity,0
+World War II,1941,740,Japan,365,USSR,Shinto,Non,0
+World War II,1941,740,Japan,290,Poland,Shinto,Christianity,0
+World War II,1941,740,Japan,220,France,Shinto,Christianity,0
+World War II,1941,740,Japan,712,Mongolia,Shinto,Non,0
+World War II,1941,740,Japan,710,China,Shinto,Syncretic,0
+World War II,1941,740,Japan,560,South Africa,Shinto,Christianity,0
+World War II,1941,740,Japan,530,Ethiopia,Shinto,Christianity,0
+World War II,1945,712,Mongolia,310,Hungary,Non,Christianity,0
+World War II,1945,712,Mongolia,220,France,Non,Christianity,0
+World War II,1945,712,Mongolia,375,Finland,Non,Christianity,0
+World War II,1945,712,Mongolia,325,Italy,Non,Christianity,0
+World War II,1945,712,Mongolia,360,Romania,Non,Christianity,0
+World War II,1945,712,Mongolia,355,Bulgaria,Non,Christianity,0
+World War II,1945,712,Mongolia,255,Germany,Non,Christianity,0
+World War II,1945,712,Mongolia,740,Japan,Non,Shinto,0
+World War II,1941,710,China,310,Hungary,Syncretic,Christianity,0
+World War II,1941,710,China,220,France,Syncretic,Christianity,0
+World War II,1941,710,China,375,Finland,Syncretic,Christianity,0
+World War II,1941,710,China,325,Italy,Syncretic,Christianity,0
+World War II,1941,710,China,360,Romania,Syncretic,Christianity,0
+World War II,1941,710,China,355,Bulgaria,Syncretic,Christianity,0
+World War II,1941,710,China,255,Germany,Syncretic,Christianity,0
+World War II,1941,710,China,740,Japan,Syncretic,Shinto,0
+World War II,1939,560,South Africa,310,Hungary,Christianity,Christianity,0
+World War II,1939,560,South Africa,220,France,Christianity,Christianity,0
+World War II,1939,560,South Africa,375,Finland,Christianity,Christianity,0
+World War II,1939,560,South Africa,325,Italy,Christianity,Christianity,0
+World War II,1939,560,South Africa,360,Romania,Christianity,Christianity,0
+World War II,1939,560,South Africa,355,Bulgaria,Christianity,Christianity,0
+World War II,1939,560,South Africa,255,Germany,Christianity,Christianity,0
+World War II,1939,560,South Africa,740,Japan,Christianity,Shinto,0
+World War II,1941,530,Ethiopia,310,Hungary,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,220,France,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,375,Finland,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,325,Italy,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,360,Romania,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,355,Bulgaria,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,255,Germany,Christianity,Christianity,0
+World War II,1941,530,Ethiopia,740,Japan,Christianity,Shinto,0
+Russo-Finnish,1939,375,Finland,365,USSR,Christianity,Non,0
+Russo-Finnish,1939,365,USSR,375,Finland,Non,Christianity,1
+Franco-Thai,1940,220,France,800,Thailand,Christianity,Buddhism,0
+Franco-Thai,1940,800,Thailand,220,France,Buddhism,Christianity,1
+First Kashmir,1947,750,India,770,Pakistan,Hindu,Islam,1
+First Kashmir,1947,770,Pakistan,750,India,Islam,Hindu,0
+Arab-Israeli,1948,666,Israel,651,Egypt,Judaism,Islam,0
+Arab-Israeli,1948,666,Israel,652,Syria,Judaism,Islam,0
+Arab-Israeli,1948,666,Israel,660,Lebanon,Judaism,Christianity,0
+Arab-Israeli,1948,666,Israel,663,Jordan,Judaism,Islam,0
+Arab-Israeli,1948,666,Israel,645,Iraq,Judaism,Islam,0
+Arab-Israeli,1948,651,Egypt,666,Israel,Islam,Judaism,0
+Arab-Israeli,1948,652,Syria,666,Israel,Islam,Judaism,0
+Arab-Israeli,1948,660,Lebanon,666,Israel,Christianity,Judaism,0
+Arab-Israeli,1948,663,Jordan,666,Israel,Islam,Judaism,1
+Arab-Israeli,1948,645,Iraq,666,Israel,Islam,Judaism,0
+Korean,1950,710,China,211,Belgium,Syncretic,Christianity,0
+Korean,1950,710,China,20,Canada,Syncretic,Christianity,0
+Korean,1950,710,China,100,Colombia,Syncretic,Christianity,0
+Korean,1950,710,China,200,United Kingdom,Syncretic,Christianity,0
+Korean,1950,710,China,210,Netherlands,Syncretic,Christianity,0
+Korean,1950,710,China,350,Greece,Syncretic,Christianity,0
+Korean,1950,710,China,220,France,Syncretic,Christianity,0
+Korean,1950,710,China,640,Turkey,Syncretic,Islam,0
+Korean,1950,710,China,840,Philippines,Syncretic,Christianity,0
+Korean,1950,710,China,800,Thailand,Syncretic,Buddhism,0
+Korean,1950,710,China,530,Ethiopia,Syncretic,Christianity,0
+Korean,1950,710,China,900,Australia,Syncretic,Christianity,0
+Korean,1950,710,China,732,South Korea,Syncretic,Animist,0
+Korean,1950,710,China,2,United States of America,Syncretic,Christianity,0
+Korean,1951,211,Belgium,710,China,Christianity,Syncretic,0
+Korean,1951,211,Belgium,731,North Korea,Christianity,Non,0
+Korean,1950,20,Canada,710,China,Christianity,Syncretic,0
+Korean,1950,20,Canada,731,North Korea,Christianity,Non,0
+Korean,1951,100,Colombia,710,China,Christianity,Syncretic,0
+Korean,1951,100,Colombia,731,North Korea,Christianity,Non,0
+Korean,1950,200,United Kingdom,710,China,Christianity,Syncretic,0
+Korean,1950,200,United Kingdom,731,North Korea,Christianity,Non,0
+Korean,1951,210,Netherlands,710,China,Christianity,Syncretic,0
+Korean,1951,210,Netherlands,731,North Korea,Christianity,Non,0
+Korean,1951,350,Greece,710,China,Christianity,Syncretic,0
+Korean,1951,350,Greece,731,North Korea,Christianity,Non,0
+Korean,1951,220,France,710,China,Christianity,Syncretic,0
+Korean,1951,220,France,731,North Korea,Christianity,Non,0
+Korean,1950,640,Turkey,710,China,Islam,Syncretic,0
+Korean,1950,640,Turkey,731,North Korea,Islam,Non,0
+Korean,1950,840,Philippines,710,China,Christianity,Syncretic,0
+Korean,1950,840,Philippines,731,North Korea,Christianity,Non,0
+Korean,1951,800,Thailand,710,China,Buddhism,Syncretic,0
+Korean,1951,800,Thailand,731,North Korea,Buddhism,Non,0
+Korean,1950,731,North Korea,211,Belgium,Non,Christianity,1
+Korean,1950,731,North Korea,20,Canada,Non,Christianity,1
+Korean,1950,731,North Korea,100,Colombia,Non,Christianity,1
+Korean,1950,731,North Korea,200,United Kingdom,Non,Christianity,1
+Korean,1950,731,North Korea,210,Netherlands,Non,Christianity,1
+Korean,1950,731,North Korea,350,Greece,Non,Christianity,1
+Korean,1950,731,North Korea,220,France,Non,Christianity,1
+Korean,1950,731,North Korea,640,Turkey,Non,Islam,1
+Korean,1950,731,North Korea,840,Philippines,Non,Christianity,1
+Korean,1950,731,North Korea,800,Thailand,Non,Buddhism,1
+Korean,1950,731,North Korea,530,Ethiopia,Non,Christianity,1
+Korean,1950,731,North Korea,900,Australia,Non,Christianity,1
+Korean,1950,731,North Korea,732,South Korea,Non,Animist,1
+Korean,1950,731,North Korea,2,United States of America,Non,Christianity,1
+Korean,1951,530,Ethiopia,710,China,Christianity,Syncretic,0
+Korean,1951,530,Ethiopia,731,North Korea,Christianity,Non,0
+Korean,1950,900,Australia,710,China,Christianity,Syncretic,0
+Korean,1950,900,Australia,731,North Korea,Christianity,Non,0
+Korean,1950,732,South Korea,710,China,Animist,Syncretic,0
+Korean,1950,732,South Korea,731,North Korea,Animist,Non,0
+Korean,1950,2,United States of America,710,China,Christianity,Syncretic,0
+Korean,1950,2,United States of America,731,North Korea,Christianity,Non,0
+Off-shore Islands,1954,710,China,713,Taiwan,Syncretic,Syncretic,1
+Off-shore Islands,1954,713,Taiwan,710,China,Syncretic,Syncretic,0
+Sinai War,1956,220,France,651,Egypt,Christianity,Islam,0
+Sinai War,1956,666,Israel,651,Egypt,Judaism,Islam,1
+Sinai War,1956,651,Egypt,220,France,Islam,Christianity,0
+Sinai War,1956,651,Egypt,666,Israel,Islam,Judaism,0
+Sinai War,1956,651,Egypt,200,United Kingdom,Islam,Christianity,0
+Sinai War,1956,200,United Kingdom,651,Egypt,Christianity,Islam,0
+Soviet Invasion of Hungary,1956,310,Hungary,365,USSR,Christianity,Non,0
+Soviet Invasion of Hungary,1956,365,USSR,310,Hungary,Non,Christianity,1
+IfniWar,1958,220,France,600,Morocco,Christianity,Islam,0
+IfniWar,1957,230,Spain,600,Morocco,Christianity,Islam,0
+IfniWar,1957,600,Morocco,220,France,Islam,Christianity,1
+IfniWar,1957,600,Morocco,230,Spain,Islam,Christianity,1
+Taiwan Straits,1958,710,China (PRC),713,Taiwan (ROC),Syncretic,Syncretic,1
+Taiwan Straits,1958,713,Taiwan (ROC),710,China (PRC),Syncretic,Syncretic,0
+Assam,1962,750,India,710,China (PRC),Hindu,Syncretic,0
+Assam,1962,710,China (PRC),750,India,Syncretic,Hindu,1
+"Vietnam War, Phase 2",1965,2,United States of America,816,Vietnam,Christianity,Non,1
+"Vietnam War, Phase 2",1970,811,Cambodia,816,Vietnam,Buddhism,Non,0
+"Vietnam War, Phase 2",1965,732,South Korea,816,Vietnam,Animist,Non,0
+"Vietnam War, Phase 2",1966,840,Philippines,816,Vietnam,Christianity,Non,0
+"Vietnam War, Phase 2",1965,817,South Vietnam,816,Vietnam,Buddhism,Non,0
+"Vietnam War, Phase 2",1965,816,Vietnam,2,United States of America,Non,Christianity,0
+"Vietnam War, Phase 2",1965,816,Vietnam,811,Cambodia,Non,Buddhism,0
+"Vietnam War, Phase 2",1965,816,Vietnam,732,South Korea,Non,Animist,0
+"Vietnam War, Phase 2",1965,816,Vietnam,840,Philippines,Non,Christianity,0
+"Vietnam War, Phase 2",1965,816,Vietnam,817,South Vietnam,Non,Buddhism,0
+"Vietnam War, Phase 2",1965,816,Vietnam,800,Thailand,Non,Buddhism,0
+"Vietnam War, Phase 2",1965,816,Vietnam,900,Australia,Non,Christianity,0
+"Vietnam War, Phase 2",1967,800,Thailand,816,Vietnam,Buddhism,Non,0
+"Vietnam War, Phase 2",1965,900,Australia,816,Vietnam,Christianity,Non,0
+Second Kashmir,1965,750,India,770,Pakistan,Hindu,Islam,0
+Second Kashmir,1965,770,Pakistan,750,India,Islam,Hindu,1
+Six Day War,1967,666,Israel,651,Egypt,Judaism,Islam,1
+Six Day War,1967,666,Israel,663,Jordan,Judaism,Islam,1
+Six Day War,1967,666,Israel,652,Syria,Judaism,Islam,1
+Six Day War,1967,651,Egypt,666,Israel,Islam,Judaism,0
+Six Day War,1967,663,Jordan,666,Israel,Islam,Judaism,0
+Six Day War,1967,652,Syria,666,Israel,Islam,Judaism,0
+"Second Laotian, Phase 2",1968,2,United States of America,816,Vietnam,Christianity,Non,0
+"Second Laotian, Phase 2",1970,800,Thailand,816,Vietnam,Buddhism,Non,0
+"Second Laotian, Phase 2",1968,812,Laos,816,Vietnam,Buddhism,Non,0
+"Second Laotian, Phase 2",1968,816,Vietnam,2,United States of America,Non,Christianity,1
+"Second Laotian, Phase 2",1968,816,Vietnam,800,Thailand,Non,Buddhism,1
+"Second Laotian, Phase 2",1968,816,Vietnam,812,Laos,Non,Buddhism,1
+War of Attrition,1969,651,Egypt,666,Israel,Islam,Judaism,1
+War of Attrition,1969,666,Israel,651,Egypt,Judaism,Islam,0
+Football War,1969,91,Honduras,92,El Salvador,Christianity,Christianity,0
+Football War,1969,92,El Salvador,91,Honduras,Christianity,Christianity,1
+Communist Coalition,1970,816,Vietnam,2,United States of America,Non,Christianity,1
+Communist Coalition,1970,816,Vietnam,811,Cambodia,Non,Buddhism,1
+Communist Coalition,1970,816,Vietnam,817,South Vietnam,Non,Buddhism,1
+Communist Coalition,1970,2,United States of America,816,Vietnam,Christianity,Non,0
+Communist Coalition,1970,811,Cambodia,816,Vietnam,Buddhism,Non,0
+Communist Coalition,1970,817,South Vietnam,816,Vietnam,Buddhism,Non,0
+Bangladesh,1971,750,India,770,Pakistan,Hindu,Islam,0
+Bangladesh,1971,770,Pakistan,750,India,Islam,Hindu,1
+Yom Kippur War,1973,651,Egypt,666,Israel,Islam,Judaism,1
+Yom Kippur War,1973,670,Saudi Arabia,666,Israel,Islam,Judaism,0
+Yom Kippur War,1973,666,Israel,651,Egypt,Judaism,Islam,0
+Yom Kippur War,1973,666,Israel,670,Saudi Arabia,Judaism,Islam,0
+Yom Kippur War,1973,666,Israel,663,Jordan,Judaism,Islam,0
+Yom Kippur War,1973,666,Israel,652,Syria,Judaism,Islam,0
+Yom Kippur War,1973,666,Israel,645,Iraq,Judaism,Islam,0
+Yom Kippur War,1973,663,Jordan,666,Israel,Islam,Judaism,0
+Yom Kippur War,1973,652,Syria,666,Israel,Islam,Judaism,1
+Yom Kippur War,1973,645,Iraq,666,Israel,Islam,Judaism,0
+Turco-Cypriot,1974,640,Turkey,352,Cyprus,Islam,Christianity,1
+Turco-Cypriot,1974,352,Cyprus,640,Turkey,Christianity,Islam,0
+War over Angola,1975,40,Cuba,560,South Africa,Christianity,Christianity,0
+War over Angola,1975,40,Cuba,490,Democratic Republic of the Congo,Christianity,Christianity,0
+War over Angola,1975,560,South Africa,40,Cuba,Christianity,Christianity,1
+War over Angola,1975,560,South Africa,540,Angola,Christianity,Christianity,1
+War over Angola,1975,490,Democratic Republic of the Congo,40,Cuba,Christianity,Christianity,0
+War over Angola,1975,490,Democratic Republic of the Congo,540,Angola,Christianity,Christianity,0
+War over Angola,1975,540,Angola,560,South Africa,Christianity,Christianity,0
+War over Angola,1975,540,Angola,490,Democratic Republic of the Congo,Christianity,Christianity,0
+"Second Ogaden War, Phase 2",1977,530,Ethiopia,520,Somalia,Christianity,Islam,0
+"Second Ogaden War, Phase 2",1977,40,Cuba,520,Somalia,Christianity,Islam,0
+"Second Ogaden War, Phase 2",1977,520,Somalia,530,Ethiopia,Islam,Christianity,1
+"Second Ogaden War, Phase 2",1977,520,Somalia,40,Cuba,Islam,Christianity,1
+Vietnamese-Cambodian,1977,816,Vietnam,811,Cambodia,Non,Buddhism,0
+Vietnamese-Cambodian,1977,811,Cambodia,816,Vietnam,Buddhism,Non,1
+Ugandian-Tanzanian,1978,500,Uganda,510,Tanzania,Christianity,Christianity,1
+Ugandian-Tanzanian,1978,510,Tanzania,500,Uganda,Christianity,Christianity,0
+Ugandian-Tanzanian,1978,510,Tanzania,620,Libya,Christianity,Islam,0
+Ugandian-Tanzanian,1979,620,Libya,510,Tanzania,Islam,Christianity,0
+Sino-Vietnamese Punitive,1979,710,China,816,Vietnam,Syncretic,Non,1
+Sino-Vietnamese Punitive,1979,816,Vietnam,710,China,Non,Syncretic,0
+Iran-Iraq,1980,645,Iraq,630,Iran,Islam,Islam,1
+Iran-Iraq,1980,630,Iran,645,Iraq,Islam,Islam,0
+Falkland Islands,1982,200,United Kingdom,160,Argentina,Christianity,Christianity,0
+Falkland Islands,1982,160,Argentina,200,United Kingdom,Christianity,Christianity,1
+War over Lebanon,1982,666,Israel,652,Syria,Judaism,Islam,1
+War over Lebanon,1982,652,Syria,666,Israel,Islam,Judaism,0
+War over the Aouzou Strip,1986,483,Chad,620,Libya,Islam,Islam,1
+War over the Aouzou Strip,1986,620,Libya,483,Chad,Islam,Islam,0
+Sino-Vietnamese Border War,1987,816,Vietnam,710,China,Non,Syncretic,0
+Sino-Vietnamese Border War,1987,710,China,816,Vietnam,Syncretic,Non,1
+Gulf War,1990,690,Kuwait,645,Iraq,Islam,Islam,0
+Gulf War,1991,2,United States of America,645,Iraq,Christianity,Islam,0
+Gulf War,1991,20,Canada,645,Iraq,Christianity,Islam,0
+Gulf War,1991,200,United Kingdom,645,Iraq,Christianity,Islam,0
+Gulf War,1991,325,Italy,645,Iraq,Christianity,Islam,0
+Gulf War,1991,600,Morocco,645,Iraq,Islam,Islam,0
+Gulf War,1990,645,Iraq,690,Kuwait,Islam,Islam,1
+Gulf War,1990,645,Iraq,2,United States of America,Islam,Christianity,1
+Gulf War,1990,645,Iraq,20,Canada,Islam,Christianity,1
+Gulf War,1990,645,Iraq,200,United Kingdom,Islam,Christianity,1
+Gulf War,1990,645,Iraq,325,Italy,Islam,Christianity,1
+Gulf War,1990,645,Iraq,600,Morocco,Islam,Islam,1
+Gulf War,1990,645,Iraq,651,Egypt,Islam,Islam,1
+Gulf War,1990,645,Iraq,698,Oman,Islam,Islam,1
+Gulf War,1990,645,Iraq,220,France,Islam,Christianity,1
+Gulf War,1990,645,Iraq,696,United Arab Emirates,Islam,Islam,1
+Gulf War,1990,645,Iraq,694,Qatar,Islam,Islam,1
+Gulf War,1990,645,Iraq,670,Saudi Arabia,Islam,Islam,1
+Gulf War,1990,645,Iraq,652,Syria,Islam,Islam,1
+Gulf War,1991,651,Egypt,645,Iraq,Islam,Islam,0
+Gulf War,1991,698,Oman,645,Iraq,Islam,Islam,0
+Gulf War,1991,220,France,645,Iraq,Christianity,Islam,0
+Gulf War,1991,696,United Arab Emirates,645,Iraq,Islam,Islam,0
+Gulf War,1991,694,Qatar,645,Iraq,Islam,Islam,0
+Gulf War,1991,670,Saudi Arabia,645,Iraq,Islam,Islam,0
+Gulf War,1991,652,Syria,645,Iraq,Islam,Islam,0
+Bosnian Independence,1992,344,Croatia,345,Yugoslavia,Christianity,Christianity,0
+Bosnian Independence,1992,346,Bosnia,345,Yugoslavia,Christianity,Christianity,0
+Bosnian Independence,1992,345,Yugoslavia,344,Croatia,Christianity,Christianity,1
+Bosnian Independence,1992,345,Yugoslavia,346,Bosnia,Christianity,Christianity,1
+Azeri-Armenian,1993,373,Azerbaijan,371,Armenia,Islam,Christianity,0
+Azeri-Armenian,1993,371,Armenia,373,Azerbaijan,Christianity,Islam,1
+Cenepa Valley,1995,130,Ecuador,135,Peru,Christianity,Christianity,1
+Cenepa Valley,1995,135,Peru,130,Ecuador,Christianity,Christianity,0
+Badme Border,1998,531,Eritrea,530,Ethiopia,Christianity,Christianity,1
+Badme Border,1998,530,Ethiopia,531,Eritrea,Christianity,Christianity,0
+War for Kosovo,1999,640,Turkey,345,Yugoslavia,Islam,Christianity,1
+War for Kosovo,1999,325,Italy,345,Yugoslavia,Christianity,Christianity,1
+War for Kosovo,1999,200,United Kingdom,345,Yugoslavia,Christianity,Christianity,1
+War for Kosovo,1999,2,United States of America,345,Yugoslavia,Christianity,Christianity,1
+War for Kosovo,1999,210,Netherlands,345,Yugoslavia,Christianity,Christianity,1
+War for Kosovo,1999,220,France,345,Yugoslavia,Christianity,Christianity,1
+War for Kosovo,1999,345,Yugoslavia,640,Turkey,Christianity,Islam,0
+War for Kosovo,1999,345,Yugoslavia,325,Italy,Christianity,Christianity,0
+War for Kosovo,1999,345,Yugoslavia,200,United Kingdom,Christianity,Christianity,0
+War for Kosovo,1999,345,Yugoslavia,2,United States of America,Christianity,Christianity,0
+War for Kosovo,1999,345,Yugoslavia,210,Netherlands,Christianity,Christianity,0
+War for Kosovo,1999,345,Yugoslavia,220,France,Christianity,Christianity,0
+War for Kosovo,1999,345,Yugoslavia,255,Germany,Christianity,Christianity,0
+War for Kosovo,1999,255,Germany,345,Yugoslavia,Christianity,Christianity,1
+Kargil War,1999,750,India,770,Pakistan,Hindu,Islam,0
+Kargil War,1999,770,Pakistan,750,India,Islam,Hindu,1
+Invasion of Afghanistan,2001,20,Canada,700,Afghanistan,Christianity,Islam,0
+Invasion of Afghanistan,2001,220,France,700,Afghanistan,Christianity,Islam,0
+Invasion of Afghanistan,2001,200,United Kingdom,700,Afghanistan,Christianity,Islam,1
+Invasion of Afghanistan,2001,2,United States of America,700,Afghanistan,Christianity,Islam,1
+Invasion of Afghanistan,2001,900,Australia,700,Afghanistan,Christianity,Islam,0
+Invasion of Afghanistan,2001,700,Afghanistan,20,Canada,Islam,Christianity,0
+Invasion of Afghanistan,2001,700,Afghanistan,220,France,Islam,Christianity,0
+Invasion of Afghanistan,2001,700,Afghanistan,200,United Kingdom,Islam,Christianity,0
+Invasion of Afghanistan,2001,700,Afghanistan,2,United States of America,Islam,Christianity,0
+Invasion of Afghanistan,2001,700,Afghanistan,900,Australia,Islam,Christianity,0
+Invasion of Iraq,2003,900,Australia,645,Iraq,Christianity,Islam,1
+Invasion of Iraq,2003,200,United Kingdom,645,Iraq,Christianity,Islam,1
+Invasion of Iraq,2003,2,United States of America,645,Iraq,Christianity,Islam,1
+Invasion of Iraq,2003,645,Iraq,900,Australia,Islam,Christianity,0
+Invasion of Iraq,2003,645,Iraq,200,United Kingdom,Islam,Christianity,0
+Invasion of Iraq,2003,645,Iraq,2,United States of America,Islam,Christianity,0
